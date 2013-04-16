@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html manifest="app.manifest">
+<head>
+  <title>Mental Rotation Task</title>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
+  <!-- startup image - landscape (748 x 1024) -->
+  <link rel="apple-touch-startup-image" href="images/splash/landscape.png"
+  media="screen and (min-device-width: 481px) and (max-device-width:
+  1024px) and (orientation:landscape)" />
+  <!-- startup image - portrait (768 x 1004) -->
+  <link rel="apple-touch-startup-image" href="images/splash/portrait.png"
+  media="screen and (min-device-width: 481px) and (max-device-width:
+  1024px) and (orientation:portrait)" />
+  <link rel="stylesheet" href="css/switch.css">
+  <style>
+    html * {
+      -webkit-tap-highlight-color: transparent; /* turn off default press states */
+      -webkit-touch-callout: none; /* disable save image on long press */
+      -webkit-user-select: none; /* disable selection copy/paste */
+      -webkit-user-drag: none; /* disable dragging images */
+    }
+    body {
+      background: black;
+    }
+    #switch {
+      position:absolute;
+      top:0;
+      margin:35px;
+      -webkit-transition-duration: 1s;
+    }
+    #box {
+      position: static;
+      top: 0;
+      margin: 200px auto;
+      width: 485px;
+      height: 341px;
+      /* -webkit-transition-duration: 1s; */
+      /* -webkit-transition-property: -webkit-transform; */
+      -webkit-transition-timing-function: ease-in-out;
+    }
+    .nav {
+      position: absolute;
+      bottom: 0;
+      margin: 0;
+      width: 200px;
+      height: 200px;
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+    }
+    .prev { left: 0; }
+    .next { right: 0; }
+  </style>
+  <script type="text/javascript" src="lib/main.js"></script>
+  <script type="text/javascript" src="lib/trials.js"></script>
+</head>
+<body>
+  <div id="switch">
+    <div class="toggle" id="switcher">
+      <input type="checkbox" name="toggle" class="toggle-checkbox" id="choice" checked>
+        <label class="toggle-label" for="choice">
+          <div class="toggle-inner"></div>
+          <div class="toggle-switch"></div>
+        </label>
+    </div>
+  </div>
+  <div id="box"></div>
+  <div class="navigation">
+    <div class="nav prev" onclick="prev();"></div>
+    <div class="nav next" onclick="next();"></div>
+  </div>

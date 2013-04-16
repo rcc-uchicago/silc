@@ -1,0 +1,35 @@
+CACHE MANIFEST
+apple-touch-icon.png
+
+# SPLASH SCREEN
+images/splash/portrait.png
+images/splash/landscape.png
+
+# STYLES
+css/switch.css
+
+# SCRIPTS
+lib/main.js
+lib/trials.js
+
+# TRIAL IMAGES
+images/left/bear.gif
+images/left/camel.gif
+images/left/cat.gif
+images/left/cow.gif
+images/left/deer.gif
+images/left/dog.gif
+images/left/donkey.gif
+images/left/elephant.gif
+images/left/fox.gif
+images/left/horse.gif
+images/right/bear.gif
+images/right/camel.gif
+images/right/cat.gif
+images/right/cow.gif
+images/right/deer.gif
+images/right/dog.gif
+images/right/donkey.gif
+images/right/elephant.gif
+images/right/fox.gif
+images/right/horse.gif
