@@ -44,7 +44,7 @@
 
     if (trial === 0) {
       if (get("choice").checked) {
-        get("box").addEventListener("click", rotate, false);
+        get("box").addEventListener("touchstart", rotate, false);
       }
       switcher = get("switch");
       switcher.style.opacity = 0;

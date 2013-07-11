@@ -30,8 +30,8 @@ root.next = ->
   if trial == 0
     # Check if switch is "ON" to determine whether to add event listener.
     if get("choice").checked
-      # If so, rotate box back to original position when clicked.
-      get("box").addEventListener("click", rotate, false)
+      # If so, rotate box back to original position when tapped.
+      get("box").addEventListener("touchstart", rotate, false)
     # Hide switch.
     switcher = get "switch"
     switcher.style.opacity = 0
