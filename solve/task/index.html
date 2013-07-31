@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<meta charset="utf8">
+<script src="http://joyrexus.spc.uchicago.edu/resources/coffee-script.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Roboto:300,700' rel='stylesheet' type='text/css'>
+<style>
+  body {
+    background:rgba(245,245,245,1);
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    margin: 75px;
+  } 
+  #eq {
+    color: #555;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 100px;
+    margin-bottom: 100px;
+  }
+  #answer {
+    color: steelblue;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 100px;
+    background:rgba(245,245,245,1);
+    outline: none;
+    border: none;
+    border-bottom: 10px solid rgba(70, 130, 180, 0.5);
+    height: 105px;
+    width: 125px;
+    text-align: center;
+  }
+  #next {
+    color: rgba(100, 150, 150, 0.25);
+    font-size: 300px;
+    line-height: 200px;
+    cursor: pointer;
+  }
+  #next:hover {
+    color: rgba(100, 150, 150, 0.75);
+  }
+  .container {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+</style>
+<body>
+  <div class="container">
+    <div id="eq">
+      4 + 7 + 5 = 
+      <input id="answer" type="text" maxlength="2" autofocus> + 5
+    </div>
+    <div id="next" onclick="next()">☞</div>
+  </div>
+
+<script type="text/coffeescript">
+  db = window.localStorage 
+  $ = (id) -> document.getElementById id
+
+  prob = 0
+  time = 
+    stamp: -> (new Date()).getTime()
+    prev: (new Date()).getTime()
+    curr: (new Date()).getTime()
+
+  window.next = -> 
+    time.prev = (new Date()).setTime(db["prev-time"])
+    time.curr = time.stamp()
+    db["P#{prob}-secs"] = (time.curr - time.prev) / 1000
+    db["P#{prob}-answer"] = $('answer').value
+    db["prev-time"] = time.curr
+    prob += 1
+
+</script>
