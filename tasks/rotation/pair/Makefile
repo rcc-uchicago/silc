@@ -1,4 +1,4 @@
-DEPLOY_DIR = $(WEBDOCS)/SILC/task/rotation/pair
+DEPLOY_DIR = $(WEBDOCS)/SILC/task/rotation/one-finger
 
 .PHONY: build deploy
 

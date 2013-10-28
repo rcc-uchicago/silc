@@ -20,7 +20,7 @@ Adding `.htaccess` file containing ...
 
 Using `curl` to check that the manifest is being served with the right mime type.
 
-    PAGE=http://joyrexus.spc.uchicago.edu/silc/demo/rotation/solo/app.manifest
+    PAGE=http://joyrexus.spc.uchicago.edu/silc/demo/rotation/one-finger/app.manifest
     curl -I --get 
     curl -I --get $PAGE | grep Content-Type
 
