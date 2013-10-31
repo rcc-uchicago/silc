@@ -15,20 +15,12 @@
       deg: -157
     }, {
       image: 'horse',
-      dir: 'right',
-      deg: -22
-    }, {
-      image: 'horse',
       dir: 'left',
       deg: 67
     }, {
       image: 'fox',
       dir: 'left',
       deg: -67
-    }, {
-      image: 'fox',
-      dir: 'right',
-      deg: 22
     }, {
       image: 'fox',
       dir: 'right',
@@ -54,17 +46,9 @@
       dir: 'right',
       deg: -67
     }, {
-      image: 'bear',
-      dir: 'left',
-      deg: 22
-    }, {
       image: 'deer',
       dir: 'left',
       deg: 157
-    }, {
-      image: 'deer',
-      dir: 'left',
-      deg: -22
     }, {
       image: 'deer',
       dir: 'right',
@@ -77,10 +61,6 @@
       image: 'elephant',
       dir: 'right',
       deg: 67
-    }, {
-      image: 'elephant',
-      dir: 'right',
-      deg: -22
     }, {
       image: 'elephant',
       dir: 'left',
@@ -99,20 +79,12 @@
       deg: -67
     }, {
       image: 'cow',
-      dir: 'right',
-      deg: 22
-    }, {
-      image: 'cow',
       dir: 'left',
       deg: -157
     }, {
       image: 'cat',
       dir: 'left',
       deg: -67
-    }, {
-      image: 'cat',
-      dir: 'right',
-      deg: 22
     }, {
       image: 'cat',
       dir: 'right',
@@ -128,19 +100,11 @@
     }, {
       image: 'donkey',
       dir: 'right',
-      deg: -22
-    }, {
-      image: 'donkey',
-      dir: 'right',
       deg: 157
     }, {
       image: 'donkey',
       dir: 'left',
       deg: -122
-    }, {
-      image: 'dog',
-      dir: 'left',
-      deg: -22
     }, {
       image: 'dog',
       dir: 'right',
@@ -153,10 +117,6 @@
       image: 'dog',
       dir: 'left',
       deg: 67
-    }, {
-      image: 'camel',
-      dir: 'left',
-      deg: 22
     }, {
       image: 'camel',
       dir: 'right',
