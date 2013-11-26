@@ -1,3 +1,12 @@
+# 26-11-2013 
+
+Within `one-finger-rotation` branch ...
+
+* removed 157-degree-angle trials
+* added `site` task to `Makefile`
+* deployed task instance on [joyrexus.github.io](http://joyrexus.github.io/silc/tasks/rotation/one-finger)
+
+
 # 04-09-2013 
 
 Enabled resource cacheing for offline usage by ...
