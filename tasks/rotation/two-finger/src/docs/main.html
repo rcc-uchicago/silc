@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>main.coffee</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="main.html">
+                main.coffee
+              </a>
+            
+              
+              <a class="source" href="trials.html">
+                trials.coffee
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>main.coffee</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>root = exports ? <span class="keyword">this</span>
+trial = <span class="number">0</span>
+angle = <span class="number">0</span>         <span class="comment"># target's current angle of rotation</span>
+rotation = <span class="number">0</span>      <span class="comment"># amount of last rotation event</span>
+startAngle = <span class="number">0</span>    <span class="comment"># starting angle of rotation event</span>
+center =          <span class="comment"># center point coords of target</span>
+  x: <span class="number">0</span>
+  y: <span class="number">0</span>
+
+document.<span class="function"><span class="title">ontouchmove</span></span> = (e) -&gt; e.preventDefault()  <span class="comment"># prevent scrolling</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>Runs when the web page is first opened</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>root.<span class="function"><span class="title">init</span></span> = -&gt;
+  set trial
+  target.addEventListener(<span class="string">"touchstart"</span>, setStartAngle, <span class="literal">false</span>)</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>Set rotation during touch event</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>  target.addEventListener(<span class="string">"touchmove"</span>, rotate, <span class="literal">false</span>)</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>Preserve rotation when touch event has ended</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>  target.addEventListener(<span class="string">"touchend"</span>, save, <span class="literal">false</span>)</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>Set the image and rotate based on the trial data.</p>
+<p>See <code>trials.coffee</code> for trial data made available by the global 
+<code>trials</code> variable.</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre><span class="function"><span class="title">set</span></span> = (i) -&gt; 
+  {image, dir, deg} = trials[i]       <span class="comment"># get trial attributes from global</span>
+  target.style.backgroundImage = <span class="string">"url(\"images/<span class="subst">#{dir}</span>/<span class="subst">#{image}</span>.gif\")"</span>
+  target.style.webkitTransform = <span class="string">"rotate(<span class="subst">#{deg}</span>deg)"</span>
+  angle = deg
+
+R2D = <span class="number">180</span> / Math.PI   <span class="comment"># convert radians to degrees</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>Set the starting angle of the touch relative to target&#39;s center</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre><span class="function"><span class="title">setStartAngle</span></span> = (e) -&gt; 
+  e.preventDefault()    <span class="comment"># don't zoom or rotate the screen</span>
+  {top, left, height, width} = <span class="property">@getBoundingClientRect</span>()
+  center =
+    x: left + (width/<span class="number">2</span>)
+    y: top + (height/<span class="number">2</span>)
+  touch = e.touches[<span class="number">0</span>]
+  x = touch.clientX - center.x
+  y = touch.clientY - center.y
+  startAngle = R2D * Math.atan2(y, x)</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>Event callback handling rotation of target element.</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre><span class="function"><span class="title">rotate</span></span> = (e) -&gt; 
+  e.preventDefault()    <span class="comment"># don't zoom or rotate the screen</span>
+  touch = e.touches[<span class="number">0</span>]
+  x = touch.clientX - center.x
+  y = touch.clientY - center.y
+  d = R2D * Math.atan2(y, x)
+  rotation = d - startAngle
+  <span class="property">@style</span>.webkitTransform = <span class="string">"rotate(<span class="subst">#{angle + rotation}</span>deg)"</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>Save the final angle of rotation (captured by the touch event listener)</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre><span class="function"><span class="title">save</span></span> = -&gt; angle += rotation</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>Go to previous trial.</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>root.<span class="function"><span class="title">prev</span></span> = -&gt; set(--trial) <span class="keyword">if</span> trial &gt; <span class="number">0</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-10">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-10">&#182;</a>
+              </div>
+              <p>Go to next trial.</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>root.<span class="function"><span class="title">next</span></span> = -&gt; 
+  <span class="keyword">if</span> trial <span class="keyword">is</span> trials.length - <span class="number">1</span>
+    alert <span class="string">"Congratulations, you finished the task!"</span>
+  <span class="keyword">else</span>
+    set ++trial</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

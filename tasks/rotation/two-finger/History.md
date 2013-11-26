@@ -1,3 +1,12 @@
+# 26-11-2013 
+
+Within `one-finger-rotation` branch ...
+
+* removed 157-degree-angle trials
+* added `site` task to `Makefile`
+* deployed task instance on [joyrexus.github.io](http://joyrexus.github.io/silc/tasks/rotation/one-finger)
+
+
 # 04-09-2013 
 
 Enabled resource cacheing for offline usage by ...
@@ -20,7 +29,7 @@ Adding `.htaccess` file containing ...
 
 Using `curl` to check that the manifest is being served with the right mime type.
 
-    PAGE=http://joyrexus.spc.uchicago.edu/silc/demo/rotation/solo/app.manifest
+    PAGE=http://joyrexus.spc.uchicago.edu/silc/demo/rotation/one-finger/app.manifest
     curl -I --get 
     curl -I --get $PAGE | grep Content-Type
 

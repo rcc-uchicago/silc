@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <html manifest="app.manifest">
-  <title>Mental Rotation Task</title>
+  <title>Mental Rotation Task (one finger rotation)</title>
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
@@ -29,10 +29,10 @@
       margin:35px;
       -webkit-transition-duration: 1s;
     }
-    .box {
+    #target {
       position: static;
       top: 0;
-      margin: 150px auto;
+      margin: 200px auto;
       width: 485px;
       height: 341px;
     }
@@ -44,20 +44,14 @@
       height: 200px;
       -webkit-tap-highlight-color: rgba(0,0,0,0);
     }
-    .left { 
-	left: 0; 
-	display: none; 
-    }
+    .left { left: 0; }
     .right { right: 0; }
   </style>
   <script type="text/javascript" src="lib/main.js"></script>
   <script type="text/javascript" src="lib/trials.js"></script>
 </head>
 <body onload="init();">
-  <div class="stimuli">
-    <div class="box left" id="left"></div>
-    <div class="box right" id="right"></div>
-  </div>
+  <div id="target"></div>
   <div class="navigation">
     <div class="nav left" ontouchstart="prev();"></div>
     <div class="nav right" ontouchstart="next();"></div>

@@ -1,5 +1,4 @@
-Mental Rotation Task
-====================
+# Mental Rotation Task
 
 The mental rotation task consists of a sequence of trials.  This sequence can be
 thought of as an interactive slide show, where each trial is a slide.
