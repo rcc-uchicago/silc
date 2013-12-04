@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<script src="lib/svg.js"></script>
-<script src="lib/svg.draggable.js"></script>
-<script src="lib/coffee-script.js"></script>
-<style>
-  body {
-    background: #586e75;
-    margin: 30px;
-  }
-  #canvas {
-    display: -webkit-box;
-    -webkit-box-orient: horizontal;
-    -webkit-box-pack: center;
-    -webkit-box-align: center;
-  }
-  #apple {
-    cursor: -webkit-grab;
-  }
-  #redo {
-    color: #839496;
-    font-size: 75px;
-    margin: 0px;
-    cursor: pointer;
-    display: -webkit-box;
-    -webkit-box-orient: horizontal;
-    -webkit-box-pack: center;
-    -webkit-box-align: center;
-  }
-</style>
-<body>
-  <div id="canvas"></div>
-  <div id="redo">✘</div>
-<script type="text/coffeescript">
   margin = 30
   w = 800
   h = 800
