@@ -2,6 +2,7 @@ DEPLOY_DIR = $(WEBDOCS)/SILC/task/drag
 
 SITE_DIR = $(HOME)/Repos/site
 TASK_DIR = $(HOME)/Repos/site/silc/tasks/drag
+OLDPWD = $(PWD)
 
 .PHONY: build deploy
 
@@ -20,6 +21,8 @@ deploy: build $(FILES)
 site: build $(FILES)
 	rsync -r $(FILES) $(TASK_DIR)
 	@echo "files copied to $(TASK_DIR)"
-	git --git-dir=$(SITE_DIR)/.git --work-tree=$(TASK_DIR) commit -am 'update'
-	git --git-dir=$(SITE_DIR)/.git --work-tree=$(TASK_DIR) push origin master
+	cd $(TASK_DIR) 
+	git commit -am 'update'
+	git push origin master
 	@echo "site repo updated"
+	cd $(OLDPWD)
