@@ -7,7 +7,9 @@ center =          # center point coords of target
   x: 0
   y: 0
 
-document.ontouchmove = (e) -> e.preventDefault()  # prevent scrolling
+document.ontouchmove = (e) -> 
+  e.preventDefault()  # prevent scrolling
+  ''
 
 # Runs when the web page is first opened
 root.init = ->
@@ -17,6 +19,7 @@ root.init = ->
   target.addEventListener("touchmove", rotate, false)
   # Preserve rotation when touch event has ended
   target.addEventListener("touchend", save, false)
+  ''
 
 # Set the image and rotate based on the trial data.
 #
