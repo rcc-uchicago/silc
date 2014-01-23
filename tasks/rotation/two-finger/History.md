@@ -43,8 +43,7 @@ Adding `.htaccess` file containing ...
 
 Using `curl` to check that the manifest is being served with the right mime type.
 
-    PAGE=http://joyrexus.spc.uchicago.edu/silc/demo/rotation/one-finger/app.manifest
-    curl -I --get 
+    PAGE=http://joyrexus.github.io/silc/tasks/rotation/two-finger/offline.appcache
     curl -I --get $PAGE | grep Content-Type
 
 This should return `Content-Type: text/cache-manifest`.

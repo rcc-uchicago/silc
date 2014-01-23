@@ -5,9 +5,9 @@ thought of as an interactive slide show, where each trial is a slide.
 
 To date we've implemented three variants of the task:
 
-* `one-finger` - single-touch for rotation
-* `two-finger` - multi-touch for rotation
-* `click` - click for auto rotation
+* [one-finger](http://joyrexus.github.io/silc/tasks/rotation/one-finger) - single-touch for rotation
+* [two-finger](http://joyrexus.github.io/silc/tasks/rotation/two-finger) - multi-touch for rotation
+* [click](http://joyrexus.github.io/silc/tasks/rotation/click) - click for auto rotation
 
 In the `one-finger` variant, a gesture event is attached to each trial image so that the image can be rotated with a single finger.
 
