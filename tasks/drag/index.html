@@ -6,7 +6,7 @@
 <style>
   body {
     background: #586e75;
-    margin: 30px;
+    margin: 0;
   }
   #canvas {
     display: -webkit-box;
@@ -22,57 +22,117 @@
     font-size: 75px;
     margin: 0px;
     cursor: pointer;
+    /*
     display: -webkit-box;
     -webkit-box-orient: horizontal;
     -webkit-box-pack: center;
-    -webkit-box-align: center;
+    */
+  }
+  #bottom {
+    position: absolute;
+    margin: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  #controls {
+    color: #839496;
+    font-size: 75px;
+    margin: 0px;
+    cursor: pointer;
+    display: flex;
+    display: -webkit-flex;
+    display: -webkit-box;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -webkit-align-content: center;
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+  }
+  .control {
+    margin: 0;
+    width: 200px; 
+    height: 200px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
   }
 </style>
 <body>
   <div id="canvas"></div>
-  <div id="redo">✘</div>
+  <div id="bottom">
+    <div id="controls">
+      <div class="control" id="changeBoxes">&nbsp;</div>
+      <div id="redo">✘</div>
+      <div class="control" id="changeItems">&nbsp;</div>
+    </div>
+  </div>
 <script type="text/coffeescript">
   margin = 30
-  w = 800
-  h = 800
-  apples = []
+  w = document.body.offsetWidth
+  h = 600
 
   $ = (select) -> document.querySelectorAll select
 
-  draw = SVG('canvas').size(800, 800)
-  background = draw.rect(w, h).fill('#586e75')
-  region = (x, y) ->
+  items = []  # draggable items
+  draw = SVG('canvas').size(w, h)
+
+  drawRegion = (x, y) ->
     draw.rect(x, y).attr(
       fill: 'whitesmoke'
-      rx: x * .15
-      ry: y * .10
+      rx: x * .1
+      ry: x * .1
     )
 
-  x = (w - margin) / 2
-  y = h * .85
+  makeBoxes = (dual=false) ->
+    if dual
+      x = (w - margin) / 2 - margin
+      y = h * .85 - margin
+      left = drawRegion(x, y).move(margin, margin)
+      right = drawRegion(x, y).move(x + 2 * margin, margin)
+      draw.group()
+        .add(left)
+        .add(right)
+    else
+      x = w
+      y = h * .85
+      drawRegion(x, y).attr(rx: w * .08)
 
-  left = region(x, y)
-  right = region(x, y)
-  right.move(x + margin, 0)
-
-  drawApple = (cx, cy) ->
-    apple = draw.image('images/apple.png', 50, 57)
+  drawItem = (name, cx, cy) ->
+    draw.image("images/#{name}.png", 50, 57)
       .attr(class: 'apple', cursor: '-webkit-grab')
       .data('cx', cx)
       .data('cy', cy)
       .move(cx, cy)
       .draggable()
-    apples.push(apple)
-    apple
       
+  makeItems = (name, n=8) ->
+    items = draw.group()
+    _x = w / n
+    for i in [0..(n - 1)]
+      x = (_x * i) + (_x / 2) - 25
+      y = h * .9
+      image = drawItem(name, x, y)
+      items.add(image)
+    items
 
-  drawApple(i * 85 + margin, y + margin) for i in [0..8]
+  boxes = makeBoxes(dual=true)
+  items = makeItems('apple', 3)
+
+  _changeBoxes = (e) ->
+    boxes.animate().move(-1200, 0)
+    boxes = makeBoxes(dual=false)
+
+  _changeItems = (e) ->
 
   reset = (e) -> 
-    for apple in apples
-      x = apple.data('cx')
-      y = apple.data('cy')
-      apple.animate().move(x, y)
+    items.each -> 
+      x = @data('cx')
+      y = @data('cy')
+      @animate().move(x, y)
 
   redo.addEventListener("click", reset, false)
+  changeBoxes.addEventListener("click", _changeBoxes, false)
+  changeItems.addEventListener("click", _changeItems, false)
 </script>
