@@ -10,7 +10,7 @@ build: $(SOURCES)
 	coffee -co lib/ src/
 	@echo "coffee sources were compiled"
 
-FILES = index.html css lib images app.manifest apple-touch-icon.png .htaccess
+FILES = index.html css lib images offline.appcache apple-touch-icon.png .htaccess
 
 deploy: build $(FILES)
 	rsync -r --exclude=.svn $(FILES) $(DEPLOY_DIR)

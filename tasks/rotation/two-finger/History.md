@@ -1,3 +1,17 @@
+# 23-01-2014 
+
+Modified offline caching by ..
+
+Renaming `app.manifest` to `offline.appcache`.
+
+Modifying line 2 of `index.html`
+
+    - <html manifest="app.manifest">
+    + <html manifest="offline.cache">
+
+Updating `.htaccess` and `Makefile` accordingly.
+
+
 # 26-11-2013 
 
 Within `one-finger-rotation` branch ...
