@@ -11,6 +11,13 @@ Modifying line 2 of `index.html`
 
 Updating `.htaccess` and `Makefile` accordingly.
 
+Using `curl` to check that the manifest is being served with the right mime type.
+
+    PAGE=http://joyrexus.github.io/silc/tasks/rotation/two-finger/offline.appcache
+    curl -I --get $PAGE | grep Content-Type
+
+This should return `Content-Type: text/cache-manifest`.
+
 
 # 26-11-2013 
 
@@ -43,7 +50,7 @@ Adding `.htaccess` file containing ...
 
 Using `curl` to check that the manifest is being served with the right mime type.
 
-    PAGE=http://joyrexus.github.io/silc/tasks/rotation/two-finger/offline.appcache
+    PAGE=http://joyrexus.github.io/silc/tasks/rotation/two-finger/app.manifest
     curl -I --get $PAGE | grep Content-Type
 
 This should return `Content-Type: text/cache-manifest`.
