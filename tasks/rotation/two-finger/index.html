@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <html manifest="offline.appcache">
-  <title>Mental Rotation Task (one finger rotation)</title>
+  <title>Mental Rotation Task (two-finger rotation)</title>
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
@@ -22,12 +22,6 @@
     }
     body {
       background: black;
-    }
-    #switch {
-      position:absolute;
-      top:0;
-      margin:35px;
-      -webkit-transition-duration: 1s;
     }
     #target {
       position: static;
@@ -53,6 +47,6 @@
 <body onload="init();">
   <div id="target"></div>
   <div class="navigation">
-    <div class="nav left" ontouchstart="prev();"></div>
-    <div class="nav right" ontouchstart="next();"></div>
+    <div class="nav left" onclick="prev();"></div>
+    <div class="nav right" onclick="next();"></div>
   </div>
