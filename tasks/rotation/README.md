@@ -28,3 +28,10 @@ In the `click` version no gesture events are attached to the image stimuli.  Ins
 Integrate task variants into single web app.
 
 Create a login screen and log task data.
+
+
+## Notes
+
+You can open [chrome://appcache-internals/](chrome://appcache-internals/) in
+chrome to test/view the application cache; also viewable in chrome's devtools
+under the `Resources` tab.
