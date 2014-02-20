@@ -32,6 +32,9 @@ Create a login screen and log task data.
 
 ## Notes
 
+This is the development repo, but each task is currently deployed as a web app via my (`joyrexus`) github pages site: [joyrexus.github.io](http://joyrexus.github.io).  See the repo [joyrexus.github.com:silc/tasks/rotation](https://github.com/joyrexus/joyrexus.github.com/tree/master/silc/tasks/rotation).
+
 You can open [chrome://appcache-internals/](chrome://appcache-internals/) in
 chrome to test/view the application cache; also viewable in chrome's devtools
 under the `Resources` tab.
+

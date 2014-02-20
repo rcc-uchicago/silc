@@ -4,19 +4,6 @@
 
   root = typeof exports !== "undefined" && exports !== null ? exports : this;
 
-  /*
-  19-02-2014 
-  Rebecca requested the following trial spec updates:
-  
-   horse -122.5 right
-   fox 67.5 right
-   bear -122.5 left
-   camel 122.5 left
-   deer -122.5 right
-   dog 122.5 right
-  */
-
-
   feedback = [
     {
       image: 'horse',
@@ -25,7 +12,7 @@
     }, {
       image: 'horse',
       dir: 'left',
-      deg: 67
+      deg: -67
     }, {
       image: 'fox',
       dir: 'right',
@@ -33,7 +20,7 @@
     }, {
       image: 'fox',
       dir: 'left',
-      deg: -122
+      deg: 122
     }
   ];
 
@@ -45,10 +32,10 @@
     }, {
       image: 'bear',
       dir: 'right',
-      deg: -67
+      deg: 67
     }, {
       image: 'deer',
-      dir: 'right',
+      dir: 'left',
       deg: 67
     }, {
       image: 'deer',
@@ -57,22 +44,22 @@
     }, {
       image: 'elephant',
       dir: 'right',
-      deg: 67
+      deg: -122
     }, {
       image: 'elephant',
       dir: 'left',
+      deg: 67
+    }, {
+      image: 'cow',
+      dir: 'left',
       deg: -122
     }, {
       image: 'cow',
-      dir: 'left',
-      deg: 122
-    }, {
-      image: 'cow',
       dir: 'right',
-      deg: -67
+      deg: 67
     }, {
       image: 'cat',
-      dir: 'left',
+      dir: 'right',
       deg: -67
     }, {
       image: 'cat',
@@ -80,28 +67,28 @@
       deg: 122
     }, {
       image: 'donkey',
-      dir: 'left',
-      deg: 67
+      dir: 'right',
+      deg: 122
     }, {
       image: 'donkey',
       dir: 'left',
-      deg: -122
+      deg: -67
+    }, {
+      image: 'dog',
+      dir: 'left',
+      deg: -67
     }, {
       image: 'dog',
       dir: 'right',
       deg: 122
     }, {
-      image: 'dog',
-      dir: 'left',
-      deg: 67
+      image: 'camel',
+      dir: 'right',
+      deg: -67
     }, {
       image: 'camel',
       dir: 'left',
       deg: 122
-    }, {
-      image: 'camel',
-      dir: 'left',
-      deg: -67
     }
   ];
 
