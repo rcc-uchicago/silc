@@ -6,7 +6,7 @@ Joanna sent the following files:
 
 * [puzzle.tsv](puzzle.tsv) - puzzle transcripts
 * [puzzle-15.tsv](puzzle-15.tsv) - puzzle transcripts cut at 15 min mark
-* [regex.tsv](regex.tsv) - regular expressions to match
+* [regex.txt](regex.txt) - regular expressions to match
 
 The two transcript files contain the following columns:
 
@@ -19,7 +19,7 @@ The two transcript files contain the following columns:
 * `CHILD` - child speech
 * `NOTE` - commentary
 
-The `regex.tsv` file contains a list of regular expressions to be used for
+The `regex.txt` file contains a list of regular expressions to be used for
 "token" and "type" counts. Token counts should be understood as number of
 pattern instances observed. Type counts should be understood as the number of
 patterns used.
