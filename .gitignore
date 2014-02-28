@@ -1,1 +1,5 @@
+*.zip
+*.pyc
+*.xls
+*.xlsx
 .DS_Store
