@@ -4,8 +4,8 @@ Joanna has taken over from Claire as an RA for the SILC lab.  She's working with
 
 Joanna sent the following files:
 
-* [puzzle.tsv](puzzle.tsv) - puzzle transcripts
-* [puzzle-15.tsv](puzzle-15.tsv) - puzzle transcripts cut at 15 min mark
+* [puzzle.tsv](data/puzzle.tsv) - puzzle transcripts
+* [puzzle-15.tsv](data/puzzle-15.tsv) - puzzle transcripts cut at 15 min mark
 * [regex.txt](regex.txt) - regular expressions to match
 
 The two transcript files contain the following columns:
@@ -25,9 +25,12 @@ pattern "token" and "type" counts. Pattern token counts should be understood as 
 
 # Requested reports
 
-Generate both summary and pattern count reports for both transcript files (`puzzle.tsv` and `puzzle-15.tsv`).
+Summary count reports for both transcript files (`puzzle.tsv` and `puzzle-15.tsv`):
 
-The [summary]() report will contain the following columns:
+* [summary.tsv](data/summary.tsv) - based on `puzzle.tsv`
+* [summary-15.tsv](data/summary-15.tsv) - based on `puzzle-15.tsv`
+
+The summary reports contain the following columns:
 
 * `_ID` - subject ID
 * `SPEAKER` - speaker type (`C` or `P`)
@@ -37,7 +40,12 @@ The [summary]() report will contain the following columns:
 * `PATT_TYP` - number of specified patterns used
 * `PATT_TOK` - number of specified pattern instances used
 
-The [pattern]() report will contain the following columns:
+Full pattern count reports for both transcript files (`puzzle.tsv` and `puzzle-15.tsv`):
+
+* [pattern.tsv](data/pattern.tsv) - based on `puzzle.tsv`
+* [pattern-15.tsv](data/pattern-15.tsv) - based on `puzzle-15.tsv`
+
+The pattern reports will contain the following columns:
 
 * `PATTERN` - word/phrase pattern
 * `_ID` - subject ID

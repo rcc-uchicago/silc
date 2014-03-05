@@ -21,7 +21,7 @@ for rgx in open('regex.txt'):
 all_patterns = '|'.join(patterns)
 regex = re.compile(r"\b(" + all_patterns + r")\b")
 
-file = open('puzzle-15.tsv')
+file = open('data/puzzle-15.tsv')
 header = file.readline()
 
 for line in file:
