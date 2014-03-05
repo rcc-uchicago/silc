@@ -172,7 +172,7 @@ bump|bumps|bumped|bumpy|bumpiest
 bent|bend|bendy|bent
 wave|waves|wavy|waviest
 upside down|upside-down
-right side up|right-side-up, upside-up
+right side up|right-side-up|upside-up
 orientation|orientations|orient|oriented
 turn|turns|turned|turning
 flip|flips|flipped|flipping
