@@ -33,8 +33,8 @@ Summary count reports for both transcript files (`puzzle.tsv` and `puzzle-15.tsv
 The summary reports contain the following columns:
 
 * `_ID` - subject ID
-* `SPEAKER` - speaker type (`C` or `P`)
 * `PUZZLE` - puzzle type (`24` or `48`)
+* `SPEAKER` - speaker type (`C` or `P`)
 * `WORD_TYP` - number of word types used
 * `WORD_TOK` - number of word tokens used
 * `PATT_TYP` - number of specified patterns used
@@ -42,14 +42,26 @@ The summary reports contain the following columns:
 
 Full pattern count reports for both transcript files (`puzzle.tsv` and `puzzle-15.tsv`):
 
-* [pattern.tsv](data/pattern.tsv) - based on `puzzle.tsv`
-* [pattern-15.tsv](data/pattern-15.tsv) - based on `puzzle-15.tsv`
+* [pattern.tsv](reports/pattern.tsv) - based on `puzzle.tsv`
+* [pattern-15.tsv](reports/pattern-15.tsv) - based on `puzzle-15.tsv`
 
 The pattern reports will contain the following columns:
 
-* `PATTERN` - word/phrase pattern
 * `_ID` - subject ID
-* `SPEAKER` - speaker type (`C` or `P`)
 * `PUZZLE` - puzzle type (`24` or `48`)
+* `SPEAKER` - speaker type (`C` or `P`)
+* `MATCH` - word/phrase pattern
 * `TOTAL` - number of instances
-* `USED` - `1` if pattern was used, `0` otherwise
+
+We've also generated the pattern count reports in an alternate "pivoted"
+format:
+
+* [pivot.tsv](reports/pivot.tsv) - based on `puzzle.tsv`
+* [pivot-15.tsv](reports/pivot-15.tsv) - based on `puzzle-15.tsv`
+
+The pivot reports contain the following columns:
+
+* `PATTERN` - word/phrase pattern
+* **ID COLUMNS** - the remaining columns are tuple identifiers consisting of
+  **id**, **puzzle**, **speaker** (e.g., `1-24-C` indicating subject/family
+  `1`, puzzle `24`, and the child speaker).

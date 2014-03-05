@@ -7,8 +7,7 @@ enormous
 huge
 gigantic|giant
 teeny|teenier|teeniest
-itsy-bitsy
-itty-bitty
+itsy-bitsy|itty-bitty
 long|longer|longest
 short|shorter|shortest
 tall|taller|tallest
