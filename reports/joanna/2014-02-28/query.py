@@ -2,7 +2,6 @@ import re
 from collections import defaultdict
 from nlp import Normalizer
 
-limit = 100                                     # break after n lines
 parse = Normalizer()                            # parse utterances
 words = defaultdict(lambda: defaultdict(int))   # store word counts
 match = defaultdict(lambda: defaultdict(int))   # store pattern counts
@@ -35,7 +34,7 @@ def parse_file(filename='data/puzzle.tsv', limit=None):
         fields = line.split('\t')
         id, puzzle, P, C =  fields[0:2] + fields[5:7]
         for (spkr, utt) in [('P', P), ('C', C)]:
-            matches = regex.findall(utt)
+            matches = regex.findall(utt.lower())
             for m in matches:
                 lemma = baseform[m]
                 match_totals[id, puzzle, spkr] += 1
