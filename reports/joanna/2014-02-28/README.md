@@ -27,8 +27,8 @@ pattern "token" and "type" counts. Pattern token counts should be understood as 
 
 Summary count reports for both transcript files (`puzzle.tsv` and `puzzle-15.tsv`):
 
-* [summary.tsv](data/summary.tsv) - based on `puzzle.tsv`
-* [summary-15.tsv](data/summary-15.tsv) - based on `puzzle-15.tsv`
+* [summary.tsv](reports/summary.tsv) - based on `puzzle.tsv`
+* [summary-15.tsv](reports/summary-15.tsv) - based on `puzzle-15.tsv`
 
 The summary reports contain the following columns:
 
