@@ -1,5 +1,6 @@
 root = exports ? this
 trial = 0
+choiceMade = false
 get = (id) -> document.getElementById(id)
 
 document.ontouchmove = (e) -> e.preventDefault()  # prevent scrolling
@@ -27,7 +28,7 @@ root.prev = -> set(--trial) if trial > 0
 
 # Go to next trial.
 root.next = -> 
-  if trial == 0
+  if trial == 0 and not choiceMade
     # Check if switch is "ON" to determine whether to add event listener.
     if get("choice").checked
       # If so, rotate box back to original position when tapped.
@@ -36,8 +37,9 @@ root.next = ->
     switcher = get "switch"
     switcher.style.opacity = 0
     switcher.style.visibility = "hidden"
+    choiceMade = true
     set trial
-  if trial == trials.length - 1
+  else if trial == trials.length - 1
     alert "Congratulations, you finished the task!"
   else
     set ++trial
