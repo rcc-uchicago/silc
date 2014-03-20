@@ -1,6 +1,6 @@
 # Drag
 
-Here we're piloting a simple task in which items can be dragged to different regions of the screen.
+Here we're piloting a simple task in which items can be dragged to different regions of the screen.  A preliminary demo version of this task can be viewed [here](http://joyrexus.github.io/silc/tasks/drag/).
 
 
 ## Request
