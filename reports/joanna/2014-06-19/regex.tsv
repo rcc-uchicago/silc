@@ -1,0 +1,305 @@
+PATTERN	SPATIAL	CATEGORY
+big|bigger|biggest	1	spatial dimension
+little|littler|littlest	1	spatial dimension
+small|smaller|smallest	1	spatial dimension
+large|larger|largest	1	spatial dimension
+tiny|tinier|tiniest	1	spatial dimension
+enormous	1	spatial dimension
+huge	1	spatial dimension
+gigantic|giant	1	spatial dimension
+teeny|teenier|teeniest	1	spatial dimension
+itsy-bitsy	1	spatial dimension
+itty-bitty	1	spatial dimension
+long|longer|longest	1	spatial dimension
+short|shorter|shortest	1	spatial dimension
+tall|taller|tallest	1	spatial dimension
+wide|wider|widest	1	spatial dimension
+narrow|narrower|narrowest	1	spatial dimension
+thick|thicker|thickest	1	spatial dimension
+thin|thinner|thinnest	1	spatial dimension
+skinny|skinnier|skinniest	1	spatial dimension
+fat|fatter|fattest	1	spatial dimension
+deep|deeper|deepest	1	spatial dimension
+shallow|shallower|shallowest	1	spatial dimension
+full|fuller|fullest	1	spatial dimension
+empty|emptier|emptiest	1	spatial dimension
+size|sizes	1	spatial dimension
+length|lengths	1	spatial dimension
+height|heights	1	spatial dimension
+width|widths	1	spatial dimension
+depth|depths	1	spatial dimension
+volume|volumes	1	spatial dimension
+capacity|capacities	1	spatial dimension
+area|areas	1	spatial dimension
+measure|measures|measurement|measurements	1	spatial dimension
+circle|circles|circular	1	shapes
+oval|ovals	1	shapes
+ellipse|ellipses|elliptical	1	shapes
+semicircle|semicircles|semicircular	1	shapes
+triangle|triangles|triangular	1	shapes
+square|squares	1	shapes
+rectangle|rectangles|rectangular	1	shapes
+diamond|diamonds	1	shapes
+pentagon|pentagons	1	shapes
+hexagon|hexagons	1	shapes
+octagon|octagons	1	shapes
+parallelogram|parallelograms	1	shapes
+quadrilateral|quadrilaterals	1	shapes
+rhombus|rhombuses	1	shapes
+polygon|polygons	1	shapes
+sphere|spheres|spherical|spheric	1	shapes
+globe|globes	1	shapes
+cone|cones|conical	1	shapes
+cylinder|cylinders|cylindrical	1	shapes
+pyramid|pyramids	1	shapes
+cube|cubes	1	shapes
+rectangular prism|rectangular prisms	1	shapes
+shape|shapes|shaped|shaping	1	shapes
+in|into|inside|within	1	location and directions
+out|outside	1	location and directions
+under|underneath	1	location and directions
+beneath	1	location and directions
+below	1	location and directions
+over	1	location and directions
+above	1	location and directions
+up|upper|upward|upwards|upright	1	location and directions
+down|downer|downward|downwards	1	location and directions
+top|tops	1	location and directions
+bottom|bottoms	1	location and directions
+high|higher|highest	1	location and directions
+low|lower|lowest	1	location and directions
+column|columns	1	location and directions
+vertical|vertically|verticals	1	location and directions
+left|leftward	1	location and directions
+right|rightward	1	location and directions
+front|in front|fronts	1	location and directions
+back|in back|backs|backward|backwards	1	location and directions
+ahead	1	location and directions
+behind	1	location and directions
+row|rows	1	location and directions
+horizontal|horizontally|horizontals	1	location and directions
+by	1	location and directions
+near|nearby|nearer|nearest	1	location and directions
+close|closer|closest	1	location and directions
+next to	1	location and directions
+with	1	location and directions
+beside	1	location and directions
+far|farther|farthest	1	location and directions
+away	1	location and directions
+beyond	1	location and directions
+further|furthest	1	location and directions
+past	1	location and directions
+against	1	location and directions
+together	1	location and directions
+separate|separated|separating|separates	1	location and directions
+join|joined|joins|joining	1	location and directions
+apart	1	location and directions
+attach|attaching|attaches|attached	1	location and directions
+connect|connects|connecting|connected	1	location and directions
+between	1	location and directions
+among	1	location and directions
+middle|middles	1	location and directions
+center|centers	1	location and directions
+along	1	location and directions
+lengthwise	1	location and directions
+north|northern	1	location and directions
+south|southern	1	location and directions
+east|eastern	1	location and directions
+west|western	1	location and directions
+around	1	location and directions
+through	1	location and directions
+across	1	location and directions
+opposite|opposites	1	location and directions
+aside	1	location and directions
+reverse|reversed|reverses|reversing	1	location and directions
+forward|forwards	1	location and directions
+parallel|parallels	1	location and directions
+perpendicular|perpendiculars	1	location and directions
+diagonal|diagonals|diagonally	1	location and directions
+location|locations|locate|locating|locates	1	location and directions
+position|positions|positioning	1	location and directions
+direction|directions|directioning|directing	1	location and directions
+route|routes	1	location and directions
+path|paths	1	location and directions
+head|heads|headed|heading	1	location and directions
+place|places|placed|placing	1	location and directions
+distance|distances|distanced|distancing	1	location and directions
+whole|wholes	1	continuous amount
+all	1	continuous amount
+part|parts	1	continuous amount
+piece|pieces	1	continuous amount
+section|sections	1	continuous amount
+bit|bits	1	continuous amount
+segment|segments	1	continuous amount
+portion|portions	1	continuous amount
+fragment|fragments	1	continuous amount
+fraction|fractions	1	continuous amount
+some	1	continuous amount
+a lot|lots	1	continuous amount
+a little	1	continuous amount
+much	1	continuous amount
+enough	1	continuous amount
+half |halves	1	continuous amount
+third|thirds	1	continuous amount
+quarter|quarters	1	continuous amount
+lump|lumps|lumpy|lumpiest	1	spatial features and properties
+arc|arcs|arcing|arced	1	spatial features and properties
+sector|sectors	1	spatial features and properties
+axis|axes	1	spatial features and properties
+symmetry|symmetric|symmetrical	1	spatial features and properties
+straight|straighter|straightest|straighten|straightening	1	spatial features and properties
+flat|flatter|flattest	1	spatial features and properties
+angle|angles|angling|angled	1	spatial features and properties
+corner|corners|cornered	1	spatial features and properties
+point|points|pointed|pointy	1	spatial features and properties
+plane|planes	1	spatial features and properties
+surface|surfaces	1	spatial features and properties
+face|faces	1	location and directions
+side|sides|sideways|sided	1	spatial features and properties
+edge|edges|edged|edging	1	spatial features and properties
+border|borders|bordered|bordering	1	spatial features and properties
+line|lines|lined|lining	1	spatial features and properties
+round|rounder|roundest|rounded|rounding	1	spatial features and properties
+curve|curves|curved|curvy|curviest	1	spatial features and properties
+bump|bumps|bumped|bumpy|bumpiest	1	spatial features and properties
+bent|bend|bendy|bent	1	spatial features and properties
+wave|waves|wavy|waviest	1	spatial features and properties
+upside down|upside-down	1	orientation and transformation
+right side up|right-side-up|upside-up	1	orientation and transformation
+orientation|orientations|orient|oriented	1	orientation and transformation
+turn|turns|turned|turning	1	orientation and transformation
+flip|flips|flipped|flipping	1	orientation and transformation
+rotate|rotates|rotated|rotating|rotation|rotations	1	orientation and transformation
+sideways	1	location and directions
+starfish|starfishes|starfishy|starfish's	0	animal name
+ocean|oceans	0	nature
+sand|sandy|sands	0	nature
+water|waters|watery	0	nature
+sky|skies	0	nature
+sea|seas	0	nature
+seahorse|seahorses|seahorse's|seahorsey	0	animal name
+whale|whales|whale's|whaley	0	animal name
+barnacle|barnacles	0	nature
+tail|tails	0	body part
+orange|oranges|orangest|oranger|orangey|orangish	0	color
+octopus|octopus's|octopi	0	animal name
+head|heads	0	body part
+arm|arms	0	body part
+leg|legs	0	body part
+tentacle|tentacles	0	body part
+jellyfish|jellyfishes|jellyfish's|jellyfishy	0	animal name
+shark|sharks|shark's|sharky	0	animal name
+fin|fins	0	body part
+sword|swords	0	body part
+nose|noses	0	body part
+teeth|tooth	0	body part
+shiny|shine|shines	0	adjective
+sea creature|sea creatures|sea creature's	0	animal name
+anemone|anemones|anemone's	0	animal name
+crab|crabs|crab's|crabby	0	animal name
+fish|fishes|fish's|fishy	0	animal name
+flower|flowers|flowering|flowery	0	nature
+pink|pinks|pinker|pinkest|pinky|pinkish	0	color
+green|greens|greener|greenest|greeny|greenish	0	color
+leaves|leaf|leafy	0	nature
+jungle	0	nature
+plants|plant	0	nature
+ground	0	nature
+frog|frogs|frog's|froggy	0	animal name
+tree|trees	0	nature
+color|colors|colorful|colored	0	color
+red|reds|redder|reddest|reddy|redish	0	color
+vine|vines	0	nature
+bright|brights|brighter|brightest|brightish	0	adjective
+dark|darks|darker|darkest|darkish	0	adjective
+light|lights|lighter|lightest|lightish	0	adjective
+petal|petals	0	nature
+blue|blues|bluer|bluest|bluey|blueish	0	color
+butterfly|butterflies|butterfly's	0	color
+wing|wings	0	body part
+black|blacks|blacker|blackest|blackish	0	color
+white|whites|whiter|whitest|whiteish	0	color
+toucan|toucans|tucan|tucans|toucan's|tucan's|toucany|tucany	0	animal name
+bird|birds|birdy	0	animal name
+beak|beaks	0	body part
+eye|eyes	0	body part
+face|faces	0	body part
+yellow|yellows|yellower|yellowest|yellowy|yellowish	0	color
+brown|browns|browner|brownest|brownish	0	color
+mossy|moss	0	adjective
+branch|branches	0	nature
+gray|grays|grayer|grayest|grayish	0	color
+floor	0	nature
+spots|spot|spotted|spotty	0	body part
+mushrooms|mushroom	0	nature
+animal|animals	0	animal name
+snake|snakes|snakey|snake's	0	animal name
+sloth|sloths|slothey|sloth's	0	animal name
+smile|smiles	0	body part
+mouth|mouths	0	body part
+purple|purples|purpler|purplest|purple|purpleish	0	color
+dots|dot|dotted|dotty	0	body part
+body|bodies	0	body part
+ant|ants|anty|ant's	0	animal name
+jaguar|jaguars|jaguar's|jaguary	0	animal name
+leopard|leopards|leopard's|leopardy	0	animal name
+cheetah|cheetah's|cheetahs	0	animal name
+puma|pumas|puma's	0	animal name
+pig|pigs|pig's	0	animal name
+cow|cows|cow's	0	animal name
+chicken|chickens|chicken's	0	animal name
+chick|chicks|chick's	0	animal name
+duck|ducks|duck's	0	animal name
+sheep|sheep's	0	animal name
+cat|cats|cat's	0	animal name
+horse|horses|horse's	0	animal name
+barn|barns	0	nature
+corn	0	nature
+sun|suns|sun’s	0	nature
+hair|hairs	0	body part
+ear|ears	0	body part
+foot|feet	0	body part
+grass|grasses|grassy	0	nature
+dirt|mud|muddy|dirty	0	nature
+log|logs	0	nature
+stick|sticks	0	nature
+berry|berries	0	nature
+monkey|monkeys|monkey's	0	animal name
+shell|shells|seashell|seashells	0	nature
+hoof|hooves	0	body part
+bubbles|bubble	0	nature
+spider|spiders|spider's|spidery	0	animal name
+hand|hands	0	body part
+tongue|tongues	0	body part
+lobster|lobster's|lobsters|lobstery	0	animal name
+suckers|sucker	0	body part
+seaweed|seaweeds	0	nature
+what	0	question
+why	0	question
+how	0	question
+where	0	question
+who	0	question
+whose	0	question
+when	0	question
+will	0	question
+which	0	question
+pincher|pinchers	0	body part
+swordfish|swordfish's|swordfishy	0	animal name
+marlin|marlin's|marlins|marliny	0	animal name
+tiger|tigers|tiger's|tigery	0	animal name
+alligator|alligators|alligator's|alligatory	0	animal name
+rainforest	0	nature
+did	0	question
+do	0	question
+does	0	question
+maybe	0	question
+can	0	question
+could	0	question
+i wonder	0	question
+i don't know	0	question
+i'm not sure	0	question
+am i	0	question
+is this	0	question
+is that	0	question
+are these	0	question
+should I	0	question
