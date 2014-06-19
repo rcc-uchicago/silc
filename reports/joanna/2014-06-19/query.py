@@ -7,24 +7,33 @@ words = defaultdict(lambda: defaultdict(int))   # store word counts
 match = defaultdict(lambda: defaultdict(int))   # store pattern counts
 token_totals = defaultdict(int)                 # store word token totals
 match_totals = defaultdict(int)                 # store pattern token totals
-baseform = defaultdict()                        # use pattern variant as key
-baseforms = []                                  # store each pattern base form
-patterns = []                                   # patterns to search for
+
+# using pattern variant as key ...
+baseform = defaultdict()                    # store variant's baseform
+is_spatial = defaultdict(int)               # store variant's spatial status
+category = defaultdict()                    # store variant's pattern category
+
+baseforms = []                              # store each pattern base form
+patterns = []                               # patterns to search for
 
 
 # use regex list to generate list of all patterns and variant forms
-for rgx in open('regex.txt'):
-    p = rgx.rstrip()
-    patterns.append(p)
-    variants = p.split('|')
+for line in open('regex.tsv'):
+    line = line.rstrip()
+    (pat, sps, cat) = line.split('\t')    # pattern, spatial_status, category
+    patterns.append(pat)
+    variants = pat.split('|')
     base = variants[0]          # first variant is used as base form
     baseforms.append(base)      # add to list of base forms
-    for v in variants:          # assign each variant a base form
-        baseform[v] = base
+    for v in variants:          # for each variant track ...
+        baseform[v] = base      #   base form / lemma
+        is_spatial[v] = sps     #   spatial status
+        category[v] = cat       #   pattern category
 
 combined = '|'.join(patterns)
 master_pattern = r'\b(' + combined + r')\b'
 regex = re.compile(master_pattern)              # regex of all patterns
+
 
 def parse_file(filename='data/puzzle.tsv', limit=None):
     file = open(filename)
@@ -36,9 +45,11 @@ def parse_file(filename='data/puzzle.tsv', limit=None):
         for (spkr, utt) in [('P', P), ('C', C)]:
             matches = regex.findall(utt.lower())
             for m in matches:
-                lemma = baseform[m]
+                base = baseform[m]
+                sps = is_spatial[m]     # spatial status
+                cat = category[m]       # pattern category
                 match_totals[id, puzzle, spkr] += 1
-                match[id, puzzle, spkr][lemma] += 1
+                match[id, puzzle, spkr][base] += 1
             for token in parse(utt.lower()):
                 token_totals[id, puzzle, spkr] += 1
                 words[id, puzzle, spkr][token] += 1

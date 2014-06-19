@@ -35,7 +35,6 @@ The `puzzle-12.tsv` transcript file only contains the following columns:
 
 The `book.tsv` transcript file contains the following columns:
 
-* ID BOOK  BEGIN END DURATION  TIME  PARENT  CHILD PAGE
 * `_ID` - subject ID
 * `BOOK` - book type (`F` or `NF`)
 * `BEGIN` - begin time
@@ -45,7 +44,6 @@ The `book.tsv` transcript file contains the following columns:
 * `PARENT` - parent speech
 * `CHILD` - child speech
 * `PAGE` - page annotation
-
 
 The `regex.txt` file contains a list of regular expressions to be used for
 pattern "token" and "type" counts. Pattern token counts should be understood as number of pattern instances observed. Pattern type counts should be understood as the number of patterns used.  
@@ -57,13 +55,9 @@ Note that `regex.txt` now contains three columns:
 * `CATEGORY` - category of the given pattern (e.g., 
 
 
-
-Note that each pattern is classified as being either spatial or not and is .
-
-
-
-
 # Requested reports
+
+#### THIS STILL NEEDS TO BE REVISED ####
 
 Summary count reports for both transcript files (`puzzle.tsv` and `puzzle-15.tsv`):
 
