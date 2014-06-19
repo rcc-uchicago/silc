@@ -1,8 +1,11 @@
 # 2014-06-19
 
 See [request.md](request.md) for the full details of Joanna's current report
-requests.  This is a follow-up and extension of the [previous report
+requests.  This is a follow-up and extension of her [previous report
 requests](https://github.com/joyrexus/silc/tree/master/reports/joanna/2014-02-28) from February 2014.
+
+Joanna is sending a follow-up email clarifying the expected report format for
+each request.
 
 
 ## Files
