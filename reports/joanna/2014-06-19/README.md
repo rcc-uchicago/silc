@@ -1,8 +1,8 @@
 # 2014-06-19
 
-Joanna has taken over from Claire as an RA for the SILC lab.  She's working with Raedy Ping and Naveen Khetarpal on a study focused on puzzle play.
-
-See [request.md](request.md) for the full details of her current request.
+See [request.md](request.md) for the full details of Joanna's current report
+requests.  This is a follow-up and extension of the [previous report
+requests](https://github.com/joyrexus/silc/tree/master/reports/joanna/2014-02-28) from February 2014.
 
 
 ## Files
