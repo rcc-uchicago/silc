@@ -2,7 +2,7 @@
 
 Joanna has taken over from Claire as an RA for the SILC lab.  She's working with Raedy Ping and Naveen Khetarpal on a study focused on puzzle play.
 
-See `request.md` for the full details of her current request.
+See [request.md](request.md) for the full details of her current request.
 
 
 ## Files
@@ -13,7 +13,7 @@ Joanna sent the following files:
 * [puzzle-15.tsv](data/puzzle-15.tsv) - puzzle transcripts cut at 15 min mark
 * [puzzle-12.tsv](data/puzzle-15.tsv) - puzzle transcripts with experiementer
 * [book.tsv](data/puzzle.tsv) - book transcripts
-* [regex.txt](regex.txt) - regular expressions to match
+* [regex.tsv](regex.tsv) - word patterns to match
 
 Both the `puzzle.tsv` and `puzzle-15.tsv` transcript files contain the following columns:
 
@@ -32,6 +32,20 @@ The `puzzle-12.tsv` transcript file only contains the following columns:
 * `PUZZLE` - puzzle type (`12`)
 * `EXPERIMENTER` - parent speech
 * `CHILD` - child speech
+
+The `book.tsv` transcript file contains the following columns:
+
+* ID BOOK  BEGIN END DURATION  TIME  PARENT  CHILD PAGE
+* `_ID` - subject ID
+* `BOOK` - book type (`F` or `NF`)
+* `BEGIN` - begin time
+* `END` - end time
+* `DURATION` - time interval
+* `TIME` - ?
+* `PARENT` - parent speech
+* `CHILD` - child speech
+* `PAGE` - page annotation
+
 
 The `regex.txt` file contains a list of regular expressions to be used for
 pattern "token" and "type" counts. Pattern token counts should be understood as number of pattern instances observed. Pattern type counts should be understood as the number of patterns used.  
