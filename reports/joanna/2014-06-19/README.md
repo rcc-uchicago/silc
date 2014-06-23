@@ -9,18 +9,17 @@ Joanna sent a follow-up email clarifying the expected report format for each req
 
 ## Files
 
-Joanna sent the following files:
+Joanna sent the following transcipt files:
 
-* [puzzle.tsv](data/puzzle.tsv) - puzzle transcripts
-* [puzzle-15.tsv](data/puzzle-15.tsv) - puzzle transcripts cut at 15 min mark
-* [puzzle-12.tsv](data/puzzle-15.tsv) - puzzle transcripts with experiementer
-* [book.tsv](data/puzzle.tsv) - book transcripts
-* [regex.tsv](regex.tsv) - word patterns to match
+* [puzzle](reports/puzzle/data.tsv) - puzzle transcripts
+* [puzzle-15](reports/puzzle-15/data.tsv) - puzzle transcripts cut at 15 min mark
+* [puzzle-12](reports/puzzle-12/data.tsv) - puzzle transcripts with experiementer
+* [book](reports/book/data.tsv) - book transcripts
 
 Both the `puzzle.tsv` and `puzzle-15.tsv` transcript files contain the following columns:
 
 * `_ID` - subject ID
-* `PUZZLE` - puzzle type (`24` or `48`)
+* `KIND` - puzzle kind by piece count (`24` or `48`)
 * `BEGIN` - begin time
 * `END` - end time
 * `DURATION` - time interval
@@ -31,14 +30,14 @@ Both the `puzzle.tsv` and `puzzle-15.tsv` transcript files contain the following
 The `puzzle-12.tsv` transcript file only contains the following columns:
 
 * `_ID` - subject ID
-* `PUZZLE` - puzzle type (`12`)
+* `KIND` - puzzle kind by piece count (`12`)
 * `EXPERIMENTER` - parent speech
 * `CHILD` - child speech
 
 The `book.tsv` transcript file contains the following columns:
 
 * `_ID` - subject ID
-* `BOOK` - book type (`F` or `NF`)
+* `KIND` - book kind (`F` for "fiction" or `NF` for "nonfiction")
 * `BEGIN` - begin time
 * `END` - end time
 * `DURATION` - time interval
@@ -47,17 +46,23 @@ The `book.tsv` transcript file contains the following columns:
 * `CHILD` - child speech
 * `PAGE` - page annotation
 
-The `regex.txt` file contains a list of regular expressions to be used for
-pattern "token" and "type" counts. Pattern token counts should be understood as number of pattern instances observed. Pattern type counts should be understood as the number of patterns used.  
 
-Note that `regex.txt` now contains three columns:
+## Patterns
+
+Joanna also sent a list of word/phrase patterns to match ([regex.tsv](regex.tsv)).
+
+This pattern file contains a list of regular expressions to be used for pattern "token" and "type" counts. Pattern token counts should be understood as number of pattern instances observed. Pattern type counts should be understood as the number of patterns used.  
+
+Note that `regex.tsv` now contains three columns:
 
 * `PATTERN` - pattern to search for
 * `SPATIAL` - indicating whether the pattern is spatial (`1`) or not (`0`)
-* `CATEGORY` - category of the given pattern (e.g., 
+* `CATEGORY` - category of the given pattern
+
+See [categories.md](categories.md) for the full list of word/phrase categories.
 
 
-# Reports
+## Reports
 
 For each set of transcripts, Joanna is requesting three types of reports:
 

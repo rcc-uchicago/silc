@@ -12,7 +12,7 @@ requests](https://github.com/joyrexus/silc/tree/master/reports/joanna/2014-02-28
 
 * [data.tsv](data.tsv) - 12-piece puzzle transcripts w/ experimenter
 * [query.py](query.py) - python script used to generate reports
-* [regex.txt](../../regex.txt) - pattern file
+* [regex.tsv](../../regex.tsv) - pattern file
 
 The transcript file (`data.tsv`) contains the following columns:
 
@@ -21,9 +21,9 @@ The transcript file (`data.tsv`) contains the following columns:
 * `EXPERIMENTER` - experimenter speech
 * `CHILD` - child speech
 
-The pattern file (`regex.txt`) contains a list of regular expressions to be used for pattern "token" and "type" counts. Pattern token counts should be understood as number of pattern instances observed. Pattern type counts should be understood as the number of patterns used.  
+The pattern file (`regex.tsv`) contains a list of regular expressions to be used for pattern "token" and "type" counts. Pattern token counts should be understood as number of pattern instances observed. Pattern type counts should be understood as the number of patterns used.  
 
-Note that `regex.txt` now contains an additional `CATEGORY` column:
+Note that `regex.tsv` now contains an additional `CATEGORY` column:
 
 * `PATTERN` - pattern to search for
 * `SPATIAL` - indicating whether the pattern is spatial (`1`) or not (`0`)
@@ -72,40 +72,36 @@ The summary count report contains the following columns:
 
 The remaining columns are breakdowns of the various patterns observed:
 
-* `SPATIAL_TYP` - number of spatial patterns used
-* `SPATIAL_TOK` - number of spatial pattern instances used
-* `NONSPATIAL_TYP` - number of non-spatial patterns used
-* `NONSPATIAL_TOK` - number of non-spatial pattern instances used
-* `SD_TYP` - Spatial Dimension types
-* `SD_TOK` - Spatial Dimension tokens
-* `SHAPE_TYP` - Shape types
-* `SHAPE_TOK` - Shape tokens
-* `LD_TYP` - Location and Direction types
-* `LD_TOK` - Location and Direction tokens
-* `CA_TYP` - Continuous Amount types
-* `CA_TOK` - Continuous Amount tokens
-* `SF_TYP` - Spatial Features and Properties types
-* `SF_TOK` - Spatial Features and Properties tokens
-* `OT_TYP` - Orientation and Transformation types
-* `OT_TOK` - Orientation and Transformation tokens
-* `AN_TYP` - Animal Name types
-* `AN_TOK` - Animal Name tokens
-* `NATURE_TYP` - Nature types
-* `NATURE_TOK` - Nature tokens
-* `BP_TYP` - Body Part types
-* `BP_TOK` - Body Part tokens
-* `COLOR_TYP` - Color types
-* `COLOR_TOK` - Color tokens
-* `ADJ_TYP` - Adjective types
-* `ADJ_TOK` - Adjective tokens
-* `Q_TYP` - Question types
-* `Q_TOK` - Question tokens
+* `SD_TYP` - spatial dimension types
+* `SD_TOK` - spatial dimension tokens
+* `SHA_TYP` - shapes types
+* `SHA_TOK` - shapes tokens
+* `LD_TYP` - location and direction types
+* `LD_TOK` - location and direction tokens
+* `CA_TYP` - continuous amount types
+* `CA_TOK` - continuous amount tokens
+* `SF_TYP` - spatial features and properties types
+* `SF_TOK` - spatial features and properties tokens
+* `OT_TYP` - orientation and transformation types
+* `OT_TOK` - orientation and transformation tokens
+* `ANI_TYP` - animal name types
+* `ANI_TOK` - animal name tokens
+* `NAT_TYP` - nature types
+* `NAT_TOK` - nature tokens
+* `BP_TYP` - body part types
+* `BP_TOK` - body part tokens
+* `COL_TYP` - color types
+* `COL_TOK` - color tokens
+* `ADJ_TYP` - adjective types
+* `ADJ_TOK` - adjective tokens
+* `Q_TYP` - question types
+* `Q_TOK` - question tokens
 
 
 ## [`utterances.tsv`](utterances.tsv)
 
 The utterances report contains lists of utterances matching one of the
-patterns in `regex.txt`.  It contains the following columns:
+patterns in `regex.tsv`.  It contains the following columns:
 
 * `_ID` - subject ID
 * `KIND` - puzzle kind by piece count (`12`)
