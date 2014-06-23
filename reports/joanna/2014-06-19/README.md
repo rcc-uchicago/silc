@@ -66,9 +66,9 @@ See [categories.md](categories.md) for the full list of word/phrase categories.
 
 For each set of transcripts, Joanna is requesting three types of reports:
 
-`summary.xls` - summary count reports
-`pattern.xls` - pattern count reports
-`pivot.xls` - pattern count reports in an alternate "pivoted" format
-`utterances.xls` - list of utterances containing a pattern match
+* `summary.xls` - summary count reports
+* `pattern.xls` - pattern count reports
+* `pivot.xls` - pattern count reports in an alternate "pivoted" format
+* `utterances.xls` - list of utterances containing a pattern match
 
 See the individual report directories (`reports/*`) for each transcript set for details on each report.
