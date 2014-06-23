@@ -4,8 +4,7 @@ See [request.md](request.md) for the full details of Joanna's current report
 requests.  This is a follow-up and extension of her [previous report
 requests](https://github.com/joyrexus/silc/tree/master/reports/joanna/2014-02-28) from February 2014.
 
-Joanna is sending a follow-up email clarifying the expected report format for
-each request.
+Joanna sent a follow-up email clarifying the expected report format for each request (see `email/request.md`).
 
 
 ## Files
@@ -58,47 +57,13 @@ Note that `regex.txt` now contains three columns:
 * `CATEGORY` - category of the given pattern (e.g., 
 
 
-# Requested reports
+# Reports
 
-#### THIS STILL NEEDS TO BE REVISED ####
+For each set of transcripts, Joanna is requesting three types of reports:
 
-Summary count reports for both transcript files (`puzzle.tsv` and `puzzle-15.tsv`):
+`summary.xls` - summary count reports
+`pattern.xls` - pattern count reports
+`pivot.xls` - pattern count reports in an alternate "pivoted" format
+`utterances.xls` - list of utterances containing a pattern match
 
-* [summary.tsv](reports/summary.tsv) - based on `puzzle.tsv`
-* [summary-15.tsv](reports/summary-15.tsv) - based on `puzzle-15.tsv`
-
-The summary reports contain the following columns:
-
-* `_ID` - subject ID
-* `PUZZLE` - puzzle type (`24` or `48`)
-* `SPEAKER` - speaker type (`C` or `P`)
-* `WORD_TYP` - number of word types used
-* `WORD_TOK` - number of word tokens used
-* `PATT_TYP` - number of specified patterns used
-* `PATT_TOK` - number of specified pattern instances used
-
-Full pattern count reports for both transcript files (`puzzle.tsv` and `puzzle-15.tsv`):
-
-* [pattern.tsv](reports/pattern.tsv) - based on `puzzle.tsv`
-* [pattern-15.tsv](reports/pattern-15.tsv) - based on `puzzle-15.tsv`
-
-The pattern reports will contain the following columns:
-
-* `_ID` - subject ID
-* `PUZZLE` - puzzle type (`24` or `48`)
-* `SPEAKER` - speaker type (`C` or `P`)
-* `MATCH` - word/phrase pattern
-* `TOTAL` - number of instances
-
-We've also generated the pattern count reports in an alternate "pivoted"
-format:
-
-* [pivot.tsv](reports/pivot.tsv) - based on `puzzle.tsv`
-* [pivot-15.tsv](reports/pivot-15.tsv) - based on `puzzle-15.tsv`
-
-The pivot reports contain the following columns:
-
-* `PATTERN` - word/phrase pattern
-* **ID COLUMNS** - the remaining columns are tuple identifiers consisting of
-  **id**, **puzzle**, **speaker** (e.g., `1-24-C` indicating subject/family
-  `1`, puzzle `24`, and the child speaker).
+See the individual report directories (`reports/*`) for each transcript set for details on each report.

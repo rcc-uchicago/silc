@@ -1,4 +1,4 @@
-_ID	PUZZLE	BEGIN	END	DURATION	PARENT	CHILD	NOTE
+_ID	KIND	BEGIN	END	DURATION	PARENT	CHILD	NOTE
 1	24	58.72	59.16	0.44			24 Piece - Start
 1	24	59.8	63.64	3.84		Hey mommy, We like that puzzle, it's about the ocean	
 1	24	63.44	63.8	0.36			Researcher Out

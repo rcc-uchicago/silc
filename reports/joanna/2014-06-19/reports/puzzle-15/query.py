@@ -18,7 +18,7 @@ patterns = []                               # patterns to search for
 
 
 # use regex list to generate list of all patterns and variant forms
-for line in open('regex.tsv'):
+for line in open('../../regex.tsv'):
     line = line.rstrip()
     (pat, sps, cat) = line.split('\t')    # pattern, spatial_status, category
     patterns.append(pat)
@@ -35,7 +35,7 @@ master_pattern = r'\b(' + combined + r')\b'
 regex = re.compile(master_pattern)              # regex of all patterns
 
 
-def parse_file(filename='data/puzzle.tsv', limit=None):
+def parse_file(filename='data.tsv', limit=None):
     file = open(filename)
     header = file.readline()
 
