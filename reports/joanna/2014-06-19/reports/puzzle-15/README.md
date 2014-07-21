@@ -103,15 +103,15 @@ The remaining columns are breakdowns of the various patterns observed:
 * `Q_TOK` - question tokens
 
 
-### [`utterances.tsv`](output/utterances.tsv)
+### `matches.xls`
 
-The utterances report contains lists of utterances matching one of the
+The matches report contains lists of utterances matching one of the
 patterns in `regex.tsv`.  It contains the following columns:
 
 * `_ID` - subject ID
 * `KIND` - puzzle kind by piece count (`24` or `48`)
 * `SPEAKER` - speaker type (`C` or `P`)
-* `TIME` - timestamp
+* `TIME` - timestamp for beginning of utterance
 * `MATCH` - the matched word/phrase
 * `SPATIAL` - spatial status of matched pattern
 * `CATEGORY` - category of matched pattern

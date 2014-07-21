@@ -41,13 +41,13 @@ master_pattern = r'\b(' + combined + r')\b'
 regex = re.compile(master_pattern)              # regex of all patterns
 
 
-def parse_file(filename='data.tsv', limit=10):
+def parse_file(filename='data.tsv', limit=10, print_matches=False):
     file = open(filename)
     header = file.readline()
 
     for i, line in enumerate(file):
         fields = line.split('\t')
-        id, puzzle, P, C =  fields[0:2] + fields[5:7]
+        id, puzzle, time, P, C =  fields[0:3] + fields[5:7]
         for (spkr, utt) in [('P', P), ('C', C)]:
             matches = regex.findall(utt.lower())
             key = (id, puzzle, spkr)
@@ -61,6 +61,8 @@ def parse_file(filename='data.tsv', limit=10):
                 if is_spatial[m]:
                     space_totals[key] += 1          # spatial tokens
                     space[key][base] += 1           # spatial types
+                if print_matches:
+                    pprint(id, puzzle, spkr, time, m, is_spatial[m], cat, utt)
             for token in parse(utt.lower()):
                 token_totals[key] += 1
                 words[key][token] += 1
@@ -156,11 +158,11 @@ def pivot_report():
         results = [match[id].get(word, 0) for id in ids]
         pprint(word, is_spatial[word], category[word], *results)
         
-parse_file(limit='')
+parse_file(limit='', print_matches=True)
 
 # choose which report to generate after parsing data file
 # summary_report()
 # print '------'
 # pattern_report()
 # print '------'
-pivot_report()
+# pivot_report()
