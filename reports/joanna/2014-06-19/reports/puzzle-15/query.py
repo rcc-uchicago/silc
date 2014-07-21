@@ -151,16 +151,16 @@ def pattern_report():
 def pivot_report():
     ids = sorted(match.keys())
     id_strings = ['-'.join(id) for id in ids]
-    pprint('PATTERN', *id_strings)
+    pprint('PATTERN', 'SPATIAL', 'CATEGORY', *id_strings)
     for word in sorted(baseforms):
         results = [match[id].get(word, 0) for id in ids]
-        pprint(word, *results)
+        pprint(word, is_spatial[word], category[word], *results)
         
 parse_file(limit='')
 
 # choose which report to generate after parsing data file
-summary_report()
+# summary_report()
 # print '------'
 # pattern_report()
 # print '------'
-# pivot_report()
+pivot_report()
