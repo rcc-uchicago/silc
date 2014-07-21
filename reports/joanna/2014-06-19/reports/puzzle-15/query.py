@@ -35,7 +35,7 @@ master_pattern = r'\b(' + combined + r')\b'
 regex = re.compile(master_pattern)              # regex of all patterns
 
 
-def parse_file(filename='data.tsv', limit=None):
+def parse_file(filename='data.tsv', limit=''):
     file = open(filename)
     header = file.readline()
 
@@ -59,7 +59,7 @@ def pprint(*args):
     print "\t".join(str(x) for x in args)
 
 def summary_report():
-    columns = '_ID PUZZLE SPEAKER WORD_TYP WORD_TOK PATT_TYP PATT_TOK'.split(' ')
+    columns = '_ID KIND SPEAKER WORD_TYP WORD_TOK PATT_TYP PATT_TOK'.split(' ')
     pprint(*columns)
     for key, counts in sorted(words.items()):
         id, puzzle, spkr = key
@@ -70,12 +70,12 @@ def summary_report():
         pprint(id, puzzle, spkr, WTYP, WTOK, PTYP, PTOK)
         
 def pattern_report():
-    columns = '_ID PUZZLE SPEAKER MATCH COUNT'.split(' ')
+    columns = '_ID KIND SPEAKER MATCH SPATIAL CATEGORY COUNT'.split(' ')
     pprint(*columns)
     for key, counts in sorted(match.items()):
         id, puzzle, spkr = key
-        for pattern, count in sorted(counts.items()):
-            pprint(id, puzzle, spkr, pattern, count)
+        for pat, count in sorted(counts.items()):
+            pprint(id, puzzle, spkr, pat, is_spatial[pat], category[pat], count)
         
 # alternate format for pattern count reporting
 def pivot_report():
@@ -86,11 +86,11 @@ def pivot_report():
         results = [match[id].get(word, 0) for id in ids]
         pprint(word, *results)
         
-parse_file('data/puzzle-15.tsv')
+parse_file()
 
 # choose which report to generate after parsing data file
-summary_report()
-print '------'
+# summary_report()
+# print '------'
 pattern_report()
-print '------'
-pivot_report()
+# print '------'
+# pivot_report()

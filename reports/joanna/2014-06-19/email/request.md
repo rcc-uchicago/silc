@@ -8,6 +8,20 @@ file (i.e., the file containing the 15-minute puzzle transcripts) in mid-July
 
 ---
 
+# 2014-07-18 
+
+From: Joanna Schiffman <jgschiffman@gmail.com>
+Subject: Re: more language counts for SILC Puzzle Lab study
+
+I have attached the first set of transcripts (15 Minute Puzzle Transcript). You
+have our word list and I believe you should have all the information about the
+reports we want, but please let me know if you have any questions. 
+
+We have another set of transcripts that are in the same format as this that are
+ready to send to you, so let us know when would be a good time to send them. 
+
+---
+
 Below are summaries of the reports we will eventually want. This is probably more information than you need, but I want to make sure everything is as clear as possible. 
 
 Also, just to make sure everyone is on the same page, we are going to send you one set of transcripts "15 minute puzzle transcripts" in mid July. My goal date is 7/15--if you could send back counts by 7/25, that would be great. That will give us a week before I leave to make sure everything is in order and makes sense. Then Caroline or Raedy will send you some more transcripts in the coming months. 
