@@ -72,6 +72,8 @@ The summary count report contains the following columns:
 * `WORD_TOK` - number of word tokens used
 * `PATT_TYP` - number of specified patterns used
 * `PATT_TOK` - number of specified pattern instances used
+* `SPA_TYP` - number of specified patterns used that were spatial
+* `SPA_TOK` - number of specified pattern instances that were spatial
 
 The remaining columns are breakdowns of the various patterns observed:
 
