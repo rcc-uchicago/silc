@@ -11,8 +11,8 @@ Joanna Schiffman writes:
 ## Files
 
 * [data.tsv](data.tsv) - supplemental puzzle transcripts cut at 15 min mark
-* [query.py](query.py) - python script used to generate reports
-* [regex.tsv](../../regex.tsv) - pattern file
+* [query.py](../query.py) - python script used to generate reports
+* [regex.tsv](../../../regex.tsv) - pattern file
 
 The transcript file (`data.tsv`) contains the following columns:
 
