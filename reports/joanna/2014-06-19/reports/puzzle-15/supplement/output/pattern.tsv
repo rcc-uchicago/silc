@@ -1,0 +1,585 @@
+_ID	KIND	SPEAKER	MATCH	SPATIAL	CATEGORY	COUNT
+66	24	C	big	1	spatial dimension	1
+66	24	C	crab	0	animal name	6
+66	24	C	do	0	question	6
+66	24	C	how	0	question	4
+66	24	C	i don't know	0	question	2
+66	24	C	is that	0	question	2
+66	24	C	is this	0	question	2
+66	24	C	jellyfish	0	animal name	1
+66	24	C	line	1	spatial features and properties	1
+66	24	C	octopus	0	animal name	6
+66	24	C	orange	0	color	1
+66	24	C	over	1	location and directions	8
+66	24	C	part	1	continuous amount	4
+66	24	C	piece	1	continuous amount	7
+66	24	C	purple	0	color	1
+66	24	C	right	1	location and directions	1
+66	24	C	seahorse	0	animal name	1
+66	24	C	shark	0	animal name	3
+66	24	C	straight	1	spatial features and properties	2
+66	24	C	together	1	location and directions	1
+66	24	C	top	1	location and directions	1
+66	24	C	up	1	location and directions	1
+66	24	C	whale	0	animal name	1
+66	24	C	what	0	question	5
+66	24	C	where	0	question	1
+66	24	C	which	0	question	3
+66	24	P	a little	1	continuous amount	2
+66	24	P	against	1	location and directions	1
+66	24	P	all	1	continuous amount	1
+66	24	P	animal	0	animal name	1
+66	24	P	bit	1	continuous amount	2
+66	24	P	border	1	spatial features and properties	1
+66	24	P	brown	0	color	1
+66	24	P	can	0	question	1
+66	24	P	color	0	color	1
+66	24	P	corner	1	spatial features and properties	1
+66	24	P	crab	0	animal name	9
+66	24	P	do	0	question	8
+66	24	P	half 	1	continuous amount	1
+66	24	P	head	0	body part	2
+66	24	P	how	0	question	2
+66	24	P	i don't know	0	question	1
+66	24	P	is that	0	question	6
+66	24	P	jellyfish	0	animal name	1
+66	24	P	line	1	spatial features and properties	1
+66	24	P	maybe	0	question	4
+66	24	P	octopus	0	animal name	3
+66	24	P	orange	0	color	2
+66	24	P	over	1	location and directions	5
+66	24	P	part	1	continuous amount	1
+66	24	P	piece	1	continuous amount	6
+66	24	P	purple	0	color	2
+66	24	P	right	1	location and directions	3
+66	24	P	seahorse	0	animal name	1
+66	24	P	separate	1	location and directions	1
+66	24	P	shark	0	animal name	1
+66	24	P	small	1	spatial dimension	1
+66	24	P	straight	1	spatial features and properties	3
+66	24	P	teeth	0	body part	1
+66	24	P	together	1	location and directions	4
+66	24	P	whale	0	animal name	1
+66	24	P	what	0	question	6
+66	24	P	where	0	question	7
+66	24	P	which	0	question	1
+66	24	P	who	0	question	2
+66	24	P	with	1	location and directions	2
+66	48	C	a lot	1	continuous amount	2
+66	48	C	alligator	0	animal name	7
+66	48	C	animal	0	animal name	1
+66	48	C	ant	0	animal name	7
+66	48	C	butterfly	0	color	2
+66	48	C	can	0	question	3
+66	48	C	did	0	question	1
+66	48	C	do	0	question	5
+66	48	C	ear	0	body part	1
+66	48	C	eye	0	body part	1
+66	48	C	frog	0	animal name	2
+66	48	C	head	0	body part	1
+66	48	C	how	0	question	4
+66	48	C	i don't know	0	question	3
+66	48	C	is this	0	question	2
+66	48	C	jaguar	0	animal name	3
+66	48	C	leg	0	body part	2
+66	48	C	mushrooms	0	nature	1
+66	48	C	nose	0	body part	1
+66	48	C	over	1	location and directions	2
+66	48	C	piece	1	continuous amount	10
+66	48	C	snake	0	animal name	10
+66	48	C	some	1	continuous amount	1
+66	48	C	top	1	location and directions	1
+66	48	C	toucan	0	animal name	2
+66	48	C	up	1	location and directions	1
+66	48	C	what	0	question	7
+66	48	C	where	0	question	2
+66	48	C	which	0	question	1
+66	48	C	why	0	question	3
+66	48	P	all	1	continuous amount	7
+66	48	P	alligator	0	animal name	5
+66	48	P	animal	0	animal name	1
+66	48	P	ant	0	animal name	5
+66	48	P	are these	0	question	1
+66	48	P	butterfly	0	color	3
+66	48	P	by	1	location and directions	1
+66	48	P	can	0	question	5
+66	48	P	corner	1	spatial features and properties	6
+66	48	P	did	0	question	1
+66	48	P	do	0	question	6
+66	48	P	does	0	question	2
+66	48	P	down	1	location and directions	1
+66	48	P	ear	0	body part	1
+66	48	P	eye	0	body part	3
+66	48	P	flat	1	spatial features and properties	2
+66	48	P	flower	0	nature	1
+66	48	P	frog	0	animal name	3
+66	48	P	head	0	body part	1
+66	48	P	i don't know	0	question	2
+66	48	P	in	1	location and directions	6
+66	48	P	is that	0	question	6
+66	48	P	is this	0	question	1
+66	48	P	jaguar	0	animal name	3
+66	48	P	leg	0	body part	1
+66	48	P	maybe	0	question	8
+66	48	P	monkey	0	animal name	1
+66	48	P	mushrooms	0	nature	1
+66	48	P	nose	0	body part	1
+66	48	P	over	1	location and directions	6
+66	48	P	piece	1	continuous amount	9
+66	48	P	right	1	location and directions	1
+66	48	P	separate	1	location and directions	1
+66	48	P	snake	0	animal name	3
+66	48	P	some	1	continuous amount	1
+66	48	P	straight	1	spatial features and properties	1
+66	48	P	together	1	location and directions	3
+66	48	P	top	1	location and directions	2
+66	48	P	toucan	0	animal name	2
+66	48	P	what	0	question	6
+66	48	P	where	0	question	8
+66	48	P	who	0	question	3
+66	48	P	will	0	question	3
+66	48	P	with	1	location and directions	2
+67	24	C	back	1	location and directions	1
+67	24	C	blue	0	color	1
+67	24	C	by	1	location and directions	1
+67	24	C	can	0	question	1
+67	24	C	could	0	question	2
+67	24	C	did	0	question	1
+67	24	C	do	0	question	1
+67	24	C	does	0	question	1
+67	24	C	face	0	body part	1
+67	24	C	flip	1	orientation and transformation	1
+67	24	C	horse	0	animal name	1
+67	24	C	in	1	location and directions	1
+67	24	C	over	1	location and directions	1
+67	24	C	piece	1	continuous amount	4
+67	24	C	right	1	location and directions	3
+67	24	C	what	0	question	1
+67	24	C	when	0	question	1
+67	24	C	where	0	question	1
+67	24	C	whole	1	continuous amount	1
+67	24	C	with	1	location and directions	1
+67	24	P	all	1	continuous amount	3
+67	24	P	apart	1	location and directions	4
+67	24	P	body	0	body part	1
+67	24	P	bottom	1	location and directions	1
+67	24	P	can	0	question	5
+67	24	P	color	0	color	1
+67	24	P	corner	1	spatial features and properties	1
+67	24	P	crab	0	animal name	2
+67	24	P	do	0	question	3
+67	24	P	eye	0	body part	1
+67	24	P	floor	0	nature	1
+67	24	P	hand	0	body part	1
+67	24	P	how	0	question	5
+67	24	P	in	1	location and directions	3
+67	24	P	is that	0	question	1
+67	24	P	mouth	0	body part	1
+67	24	P	much	1	continuous amount	1
+67	24	P	octopus	0	animal name	1
+67	24	P	out	1	location and directions	2
+67	24	P	part	1	continuous amount	2
+67	24	P	piece	1	continuous amount	8
+67	24	P	pincher	0	body part	1
+67	24	P	purple	0	color	1
+67	24	P	right	1	location and directions	4
+67	24	P	sea	0	nature	1
+67	24	P	seahorse	0	animal name	1
+67	24	P	shark	0	animal name	3
+67	24	P	turn	1	orientation and transformation	1
+67	24	P	up	1	location and directions	1
+67	24	P	what	0	question	2
+67	24	P	with	1	location and directions	3
+67	48	C	all	1	continuous amount	1
+67	48	C	alligator	0	animal name	2
+67	48	C	around	1	location and directions	1
+67	48	C	blue	0	color	2
+67	48	C	can	0	question	4
+67	48	C	corner	1	spatial features and properties	1
+67	48	C	could	0	question	1
+67	48	C	do	0	question	3
+67	48	C	does	0	question	1
+67	48	C	edge	1	spatial features and properties	1
+67	48	C	frog	0	animal name	1
+67	48	C	green	0	color	1
+67	48	C	hand	0	body part	1
+67	48	C	is that	0	question	1
+67	48	C	maybe	0	question	1
+67	48	C	over	1	location and directions	2
+67	48	C	piece	1	continuous amount	4
+67	48	C	right	1	location and directions	1
+67	48	C	some	1	continuous amount	3
+67	48	C	turn	1	orientation and transformation	2
+67	48	C	under	1	location and directions	1
+67	48	C	what	0	question	2
+67	48	C	where	0	question	5
+67	48	C	which	0	question	1
+67	48	C	why	0	question	1
+67	48	C	with	1	location and directions	1
+67	48	P	a little	1	continuous amount	1
+67	48	P	a lot	1	continuous amount	1
+67	48	P	all	1	continuous amount	1
+67	48	P	alligator	0	animal name	5
+67	48	P	ant	0	animal name	1
+67	48	P	apart	1	location and directions	2
+67	48	P	back	1	location and directions	1
+67	48	P	beak	0	body part	1
+67	48	P	below	1	location and directions	1
+67	48	P	bird	0	animal name	1
+67	48	P	blue	0	color	4
+67	48	P	bottom	1	location and directions	2
+67	48	P	brown	0	color	1
+67	48	P	butterfly	0	color	6
+67	48	P	by	1	location and directions	1
+67	48	P	can	0	question	11
+67	48	P	color	0	color	1
+67	48	P	corner	1	spatial features and properties	4
+67	48	P	could	0	question	1
+67	48	P	did	0	question	4
+67	48	P	do	0	question	24
+67	48	P	does	0	question	7
+67	48	P	down	1	location and directions	4
+67	48	P	ear	0	body part	3
+67	48	P	edge	1	spatial features and properties	15
+67	48	P	eye	0	body part	7
+67	48	P	face	0	body part	1
+67	48	P	flat	1	spatial features and properties	1
+67	48	P	flower	0	nature	5
+67	48	P	foot	0	body part	1
+67	48	P	frog	0	animal name	8
+67	48	P	green	0	color	3
+67	48	P	hand	0	body part	3
+67	48	P	head	0	body part	1
+67	48	P	how	0	question	5
+67	48	P	i don't know	0	question	5
+67	48	P	in	1	location and directions	4
+67	48	P	is that	0	question	3
+67	48	P	leopard	0	animal name	2
+67	48	P	line	1	spatial features and properties	1
+67	48	P	little	1	spatial dimension	2
+67	48	P	maybe	0	question	10
+67	48	P	monkey	0	animal name	3
+67	48	P	mushrooms	0	nature	1
+67	48	P	next to	1	location and directions	1
+67	48	P	nose	0	body part	5
+67	48	P	orange	0	color	3
+67	48	P	out	1	location and directions	4
+67	48	P	over	1	location and directions	4
+67	48	P	part	1	continuous amount	20
+67	48	P	piece	1	continuous amount	25
+67	48	P	pink	0	color	4
+67	48	P	plants	0	nature	2
+67	48	P	right	1	location and directions	11
+67	48	P	side	1	spatial features and properties	1
+67	48	P	some	1	continuous amount	9
+67	48	P	spots	0	body part	1
+67	48	P	stick	0	nature	1
+67	48	P	straight	1	spatial features and properties	1
+67	48	P	tiger	0	animal name	2
+67	48	P	together	1	location and directions	2
+67	48	P	toucan	0	animal name	2
+67	48	P	tree	0	nature	1
+67	48	P	turn	1	orientation and transformation	4
+67	48	P	up	1	location and directions	2
+67	48	P	what	0	question	29
+67	48	P	where	0	question	12
+67	48	P	why	0	question	1
+67	48	P	wing	0	body part	2
+67	48	P	with	1	location and directions	9
+68	24	C	i don't know	0	question	1
+68	24	P	all	1	continuous amount	3
+68	24	P	apart	1	location and directions	1
+68	24	P	around	1	location and directions	2
+68	24	P	back	1	location and directions	2
+68	24	P	bottom	1	location and directions	2
+68	24	P	by	1	location and directions	1
+68	24	P	can	0	question	7
+68	24	P	corner	1	spatial features and properties	2
+68	24	P	did	0	question	12
+68	24	P	do	0	question	16
+68	24	P	does	0	question	10
+68	24	P	dots	0	body part	1
+68	24	P	down	1	location and directions	2
+68	24	P	hand	0	body part	3
+68	24	P	how	0	question	1
+68	24	P	i don't know	0	question	6
+68	24	P	in	1	location and directions	6
+68	24	P	left	1	location and directions	1
+68	24	P	maybe	0	question	16
+68	24	P	orange	0	color	2
+68	24	P	out	1	location and directions	3
+68	24	P	over	1	location and directions	2
+68	24	P	piece	1	continuous amount	23
+68	24	P	purple	0	color	2
+68	24	P	right	1	location and directions	10
+68	24	P	side	1	spatial features and properties	2
+68	24	P	some	1	continuous amount	4
+68	24	P	together	1	location and directions	13
+68	24	P	top	1	location and directions	1
+68	24	P	turn	1	orientation and transformation	4
+68	24	P	up	1	location and directions	3
+68	24	P	what	0	question	8
+68	24	P	where	0	question	17
+68	24	P	which	0	question	2
+68	24	P	why	0	question	1
+68	24	P	will	0	question	1
+68	24	P	with	1	location and directions	7
+68	24	P	yellow	0	color	4
+68	48	C	can	0	question	1
+68	48	C	i don't know	0	question	1
+68	48	C	monkey	0	animal name	1
+68	48	C	some	1	continuous amount	4
+68	48	C	up	1	location and directions	1
+68	48	P	a little	1	continuous amount	2
+68	48	P	all	1	continuous amount	4
+68	48	P	am i	0	question	1
+68	48	P	apart	1	location and directions	1
+68	48	P	around	1	location and directions	1
+68	48	P	back	1	location and directions	2
+68	48	P	can	0	question	2
+68	48	P	color	0	color	2
+68	48	P	did	0	question	15
+68	48	P	do	0	question	4
+68	48	P	does	0	question	5
+68	48	P	down	1	location and directions	1
+68	48	P	face	0	body part	2
+68	48	P	flip	1	orientation and transformation	7
+68	48	P	how	0	question	1
+68	48	P	i don't know	0	question	2
+68	48	P	is this	0	question	2
+68	48	P	low	1	location and directions	1
+68	48	P	maybe	0	question	6
+68	48	P	monkey	0	animal name	1
+68	48	P	out	1	location and directions	6
+68	48	P	over	1	location and directions	7
+68	48	P	piece	1	continuous amount	19
+68	48	P	right	1	location and directions	4
+68	48	P	side	1	spatial features and properties	4
+68	48	P	some	1	continuous amount	5
+68	48	P	spots	0	body part	9
+68	48	P	together	1	location and directions	9
+68	48	P	turn	1	orientation and transformation	2
+68	48	P	up	1	location and directions	1
+68	48	P	what	0	question	4
+68	48	P	when	0	question	4
+68	48	P	where	0	question	12
+68	48	P	why	0	question	1
+68	48	P	with	1	location and directions	2
+76	48	C	ant	0	animal name	2
+76	48	C	apart	1	location and directions	1
+76	48	C	blue	0	color	1
+76	48	C	butterfly	0	color	1
+76	48	C	can	0	question	7
+76	48	C	did	0	question	2
+76	48	C	do	0	question	7
+76	48	C	foot	0	body part	1
+76	48	C	ground	0	nature	1
+76	48	C	how	0	question	2
+76	48	C	i don't know	0	question	1
+76	48	C	piece	1	continuous amount	2
+76	48	C	right	1	location and directions	2
+76	48	C	some	1	continuous amount	1
+76	48	C	what	0	question	7
+76	48	C	why	0	question	2
+76	48	P	all	1	continuous amount	7
+76	48	P	ant	0	animal name	3
+76	48	P	around	1	location and directions	1
+76	48	P	butterfly	0	color	4
+76	48	P	by	1	location and directions	1
+76	48	P	can	0	question	8
+76	48	P	color	0	color	3
+76	48	P	did	0	question	1
+76	48	P	dirt	0	nature	2
+76	48	P	do	0	question	9
+76	48	P	does	0	question	12
+76	48	P	foot	0	body part	2
+76	48	P	further	1	location and directions	1
+76	48	P	how	0	question	2
+76	48	P	out	1	location and directions	1
+76	48	P	over	1	location and directions	4
+76	48	P	part	1	continuous amount	1
+76	48	P	piece	1	continuous amount	12
+76	48	P	right	1	location and directions	17
+76	48	P	side	1	spatial features and properties	1
+76	48	P	some	1	continuous amount	3
+76	48	P	together	1	location and directions	4
+76	48	P	turn	1	orientation and transformation	4
+76	48	P	up	1	location and directions	1
+76	48	P	what	0	question	6
+76	48	P	when	0	question	1
+76	48	P	where	0	question	3
+76	48	P	white	0	color	1
+76	48	P	with	1	location and directions	5
+82	24	C	all	1	continuous amount	4
+82	24	C	blue	0	color	1
+82	24	C	body	0	body part	1
+82	24	C	by	1	location and directions	1
+82	24	C	can	0	question	3
+82	24	C	do	0	question	5
+82	24	C	i don't know	0	question	1
+82	24	C	is this	0	question	1
+82	24	C	octopus	0	animal name	1
+82	24	C	out	1	location and directions	1
+82	24	C	pink	0	color	1
+82	24	C	right	1	location and directions	3
+82	24	C	sea	0	nature	1
+82	24	C	shark	0	animal name	6
+82	24	C	up	1	location and directions	1
+82	24	C	what	0	question	2
+82	24	C	who	0	question	1
+82	24	C	with	1	location and directions	1
+82	24	P	a little	1	continuous amount	1
+82	24	P	a lot	1	continuous amount	2
+82	24	P	all	1	continuous amount	2
+82	24	P	around	1	location and directions	1
+82	24	P	beak	0	body part	1
+82	24	P	big	1	spatial dimension	1
+82	24	P	bit	1	continuous amount	1
+82	24	P	blue	0	color	5
+82	24	P	body	0	body part	6
+82	24	P	bottom	1	location and directions	5
+82	24	P	brown	0	color	1
+82	24	P	bump	1	spatial features and properties	1
+82	24	P	by	1	location and directions	1
+82	24	P	can	0	question	16
+82	24	P	color	0	color	1
+82	24	P	corner	1	spatial features and properties	13
+82	24	P	crab	0	animal name	3
+82	24	P	dark	0	adjective	3
+82	24	P	did	0	question	2
+82	24	P	do	0	question	26
+82	24	P	does	0	question	2
+82	24	P	down	1	location and directions	2
+82	24	P	edge	1	spatial features and properties	11
+82	24	P	eye	0	body part	4
+82	24	P	fish	0	animal name	1
+82	24	P	flat	1	spatial features and properties	13
+82	24	P	green	0	color	1
+82	24	P	head	0	body part	2
+82	24	P	how	0	question	5
+82	24	P	i don't know	0	question	2
+82	24	P	in	1	location and directions	10
+82	24	P	is that	0	question	1
+82	24	P	left	1	location and directions	1
+82	24	P	long	1	spatial dimension	1
+82	24	P	maybe	0	question	2
+82	24	P	mouth	0	body part	1
+82	24	P	octopus	0	animal name	7
+82	24	P	orange	0	color	2
+82	24	P	out	1	location and directions	1
+82	24	P	over	1	location and directions	3
+82	24	P	part	1	continuous amount	2
+82	24	P	piece	1	continuous amount	16
+82	24	P	pink	0	color	1
+82	24	P	plants	0	nature	1
+82	24	P	point	1	spatial features and properties	1
+82	24	P	purple	0	color	4
+82	24	P	right	1	location and directions	10
+82	24	P	sea	0	nature	1
+82	24	P	seahorse	0	animal name	1
+82	24	P	shark	0	animal name	6
+82	24	P	side	1	spatial features and properties	1
+82	24	P	some	1	continuous amount	4
+82	24	P	straight	1	spatial features and properties	3
+82	24	P	swordfish	0	animal name	2
+82	24	P	together	1	location and directions	2
+82	24	P	top	1	location and directions	6
+82	24	P	turn	1	orientation and transformation	4
+82	24	P	under	1	location and directions	1
+82	24	P	up	1	location and directions	18
+82	24	P	whale	0	animal name	2
+82	24	P	what	0	question	2
+82	24	P	where	0	question	19
+82	24	P	which	0	question	2
+82	24	P	why	0	question	1
+82	24	P	with	1	location and directions	7
+82	48	C	a lot	1	continuous amount	1
+82	48	C	all	1	continuous amount	1
+82	48	C	ant	0	animal name	1
+82	48	C	bird	0	animal name	1
+82	48	C	can	0	question	2
+82	48	C	corner	1	spatial features and properties	1
+82	48	C	do	0	question	1
+82	48	C	does	0	question	1
+82	48	C	down	1	location and directions	1
+82	48	C	hand	0	body part	1
+82	48	C	how	0	question	1
+82	48	C	little	1	spatial dimension	1
+82	48	C	piece	1	continuous amount	6
+82	48	C	right	1	location and directions	2
+82	48	C	snake	0	animal name	1
+82	48	C	up	1	location and directions	2
+82	48	C	what	0	question	1
+82	48	C	when	0	question	2
+82	48	C	where	0	question	2
+82	48	C	will	0	question	2
+82	48	P	a little	1	continuous amount	2
+82	48	P	a lot	1	continuous amount	1
+82	48	P	all	1	continuous amount	3
+82	48	P	animal	0	animal name	1
+82	48	P	ant	0	animal name	7
+82	48	P	apart	1	location and directions	1
+82	48	P	around	1	location and directions	2
+82	48	P	back	1	location and directions	1
+82	48	P	beak	0	body part	2
+82	48	P	big	1	spatial dimension	2
+82	48	P	bird	0	animal name	6
+82	48	P	bit	1	continuous amount	2
+82	48	P	blue	0	color	2
+82	48	P	body	0	body part	1
+82	48	P	bottom	1	location and directions	11
+82	48	P	bright	0	adjective	1
+82	48	P	butterfly	0	color	6
+82	48	P	by	1	location and directions	1
+82	48	P	can	0	question	11
+82	48	P	cheetah	0	animal name	2
+82	48	P	close	1	location and directions	2
+82	48	P	color	0	color	2
+82	48	P	corner	1	spatial features and properties	6
+82	48	P	could	0	question	5
+82	48	P	did	0	question	3
+82	48	P	do	0	question	19
+82	48	P	does	0	question	7
+82	48	P	down	1	location and directions	5
+82	48	P	edge	1	spatial features and properties	8
+82	48	P	eye	0	body part	8
+82	48	P	face	0	body part	5
+82	48	P	flat	1	spatial features and properties	31
+82	48	P	flower	0	nature	3
+82	48	P	head	0	body part	2
+82	48	P	how	0	question	8
+82	48	P	in	1	location and directions	6
+82	48	P	leaves	0	nature	2
+82	48	P	leg	0	body part	4
+82	48	P	little	1	spatial dimension	1
+82	48	P	maybe	0	question	8
+82	48	P	mushrooms	0	nature	1
+82	48	P	next to	1	location and directions	1
+82	48	P	nose	0	body part	1
+82	48	P	orange	0	color	1
+82	48	P	out	1	location and directions	3
+82	48	P	over	1	location and directions	4
+82	48	P	part	1	continuous amount	18
+82	48	P	piece	1	continuous amount	29
+82	48	P	pink	0	color	1
+82	48	P	plants	0	nature	2
+82	48	P	red	0	color	1
+82	48	P	right	1	location and directions	31
+82	48	P	side	1	spatial features and properties	3
+82	48	P	snake	0	animal name	5
+82	48	P	some	1	continuous amount	9
+82	48	P	spots	0	body part	6
+82	48	P	straight	1	spatial features and properties	2
+82	48	P	together	1	location and directions	1
+82	48	P	top	1	location and directions	24
+82	48	P	toucan	0	animal name	1
+82	48	P	turn	1	orientation and transformation	8
+82	48	P	up	1	location and directions	14
+82	48	P	what	0	question	11
+82	48	P	where	0	question	19
+82	48	P	which	0	question	2
+82	48	P	who	0	question	1
+82	48	P	whole	1	continuous amount	1
+82	48	P	why	0	question	8
+82	48	P	with	1	location and directions	5
+82	48	P	yellow	0	color	5

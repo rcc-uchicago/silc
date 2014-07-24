@@ -47,7 +47,7 @@ def parse_file(filename='data.tsv', limit=10, print_matches=False):
     header = file.readline()
 
     for i, line in enumerate(file):
-        fields = stretch(line.split('\t'), 7)   # ensure at least 7 fields
+        fields = stretch(line.rstrip().split('\t'), 7)   # at least 7 fields
         id, puzzle, time, P, C =  fields[0:3] + fields[5:7]
         for (spkr, utt) in [('P', P), ('C', C)]:
             matches = regex.findall(utt.lower())

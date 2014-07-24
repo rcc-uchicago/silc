@@ -1,0 +1,305 @@
+PATTERN	SPATIAL	CATEGORY	66-24-C	66-24-P	66-48-C	66-48-P	67-24-C	67-24-P	67-48-C	67-48-P	68-24-C	68-24-P	68-48-C	68-48-P	76-48-C	76-48-P	82-24-C	82-24-P	82-48-C	82-48-P
+a little	1	continuous amount	0	2	0	0	0	0	0	1	0	0	0	2	0	0	0	1	0	2
+a lot	1	continuous amount	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	2	1	1
+above	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+across	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+against	1	location and directions	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ahead	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+all	1	continuous amount	0	1	0	7	0	3	1	1	0	3	0	4	0	7	4	2	1	3
+alligator	0	animal name	0	0	7	5	0	0	2	5	0	0	0	0	0	0	0	0	0	0
+along	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+am i	0	question	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+among	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+anemone	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+angle	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+animal	0	animal name	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+ant	0	animal name	0	0	7	5	0	0	0	1	0	0	0	0	2	3	0	0	1	7
+apart	1	location and directions	0	0	0	0	0	4	0	2	0	1	0	1	1	0	0	0	0	1
+arc	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+are these	0	question	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+area	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+arm	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+around	1	location and directions	0	0	0	0	0	0	1	0	0	2	0	1	0	1	0	1	0	2
+aside	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+attach	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+away	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+axis	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+back	1	location and directions	0	0	0	0	1	0	0	1	0	2	0	2	0	0	0	0	0	1
+barn	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+barnacle	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+beak	0	body part	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	2
+behind	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+below	1	location and directions	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+beneath	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bent	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+berry	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+beside	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+between	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+beyond	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+big	1	spatial dimension	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2
+bird	0	animal name	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	6
+bit	1	continuous amount	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2
+black	0	color	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+blue	0	color	0	0	0	0	1	0	2	4	0	0	0	0	1	0	1	5	0	2
+body	0	body part	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	6	0	1
+border	1	spatial features and properties	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bottom	1	location and directions	0	0	0	0	0	1	0	2	0	2	0	0	0	0	0	5	0	11
+branch	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bright	0	adjective	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+brown	0	color	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+bubbles	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bump	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+butterfly	0	color	0	0	2	3	0	0	0	6	0	0	0	0	1	4	0	0	0	6
+by	1	location and directions	0	0	0	1	1	0	0	1	0	1	0	0	0	1	1	1	0	1
+can	0	question	0	1	3	5	1	5	4	11	0	7	1	2	7	8	3	16	2	11
+capacity	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cat	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+center	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cheetah	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+chick	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+chicken	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+circle	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+close	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+color	0	color	0	1	0	0	0	1	0	1	0	0	0	2	0	3	0	1	0	2
+column	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cone	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+connect	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+corn	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+corner	1	spatial features and properties	0	1	0	6	0	1	1	4	0	2	0	0	0	0	0	13	1	6
+could	0	question	0	0	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	5
+cow	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+crab	0	animal name	6	9	0	0	0	2	0	0	0	0	0	0	0	0	0	3	0	0
+cube	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+curve	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cylinder	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+dark	0	adjective	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+deep	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+depth	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+diagonal	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+diamond	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+did	0	question	0	0	1	1	1	0	0	4	0	12	0	15	2	1	0	2	0	3
+direction	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+dirt	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+distance	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+do	0	question	6	8	5	6	1	3	3	24	0	16	0	4	7	9	5	26	1	19
+does	0	question	0	0	0	2	1	0	1	7	0	10	0	5	0	12	0	2	1	7
+dots	0	body part	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+down	1	location and directions	0	0	0	1	0	0	0	4	0	2	0	1	0	0	0	2	1	5
+duck	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ear	0	body part	0	0	1	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0
+east	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+edge	1	spatial features and properties	0	0	0	0	0	0	1	15	0	0	0	0	0	0	0	11	0	8
+ellipse	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+empty	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+enormous	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+enough	1	continuous amount	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+eye	0	body part	0	0	1	3	0	1	0	7	0	0	0	0	0	0	0	4	0	8
+face	0	body part	0	0	0	0	1	0	0	1	0	0	0	2	0	0	0	0	0	5
+face	0	body part	0	0	0	0	1	0	0	1	0	0	0	2	0	0	0	0	0	5
+far	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fat	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fin	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fish	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+flat	1	spatial features and properties	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	13	0	31
+flip	1	orientation and transformation	0	0	0	0	1	0	0	0	0	0	0	7	0	0	0	0	0	0
+floor	0	nature	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+flower	0	nature	0	0	0	1	0	0	0	5	0	0	0	0	0	0	0	0	0	3
+foot	0	body part	0	0	0	0	0	0	0	1	0	0	0	0	1	2	0	0	0	0
+forward	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fraction	1	continuous amount	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fragment	1	continuous amount	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+frog	0	animal name	0	0	2	3	0	0	1	8	0	0	0	0	0	0	0	0	0	0
+front	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+full	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+further	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+gigantic	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+globe	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+grass	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+gray	0	color	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+green	0	color	0	0	0	0	0	0	1	3	0	0	0	0	0	0	0	1	0	0
+ground	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+hair	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+half 	1	continuous amount	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+hand	0	body part	0	0	0	0	0	1	1	3	0	3	0	0	0	0	0	0	1	0
+head	0	body part	0	2	1	1	0	0	0	1	0	0	0	0	0	0	0	2	0	2
+head	0	body part	0	2	1	1	0	0	0	1	0	0	0	0	0	0	0	2	0	2
+height	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+hexagon	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+high	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+hoof	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+horizontal	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+horse	0	animal name	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+how	0	question	4	2	4	0	0	5	0	5	0	1	0	1	2	2	0	5	1	8
+huge	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+i don't know	0	question	2	1	3	2	0	0	0	5	1	6	1	2	1	0	1	2	0	0
+i wonder	0	question	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+i'm not sure	0	question	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+in	1	location and directions	0	0	0	6	1	3	0	4	0	6	0	0	0	0	0	10	0	6
+is that	0	question	2	6	0	6	0	1	1	3	0	0	0	0	0	0	0	1	0	0
+is this	0	question	2	0	2	1	0	0	0	0	0	0	0	2	0	0	1	0	0	0
+itsy-bitsy	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+itty-bitty	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+jaguar	0	animal name	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+jellyfish	0	animal name	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+join	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+jungle	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+large	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+leaves	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+left	1	location and directions	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+leg	0	body part	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	4
+length	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+lengthwise	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+leopard	0	animal name	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+light	0	adjective	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+line	1	spatial features and properties	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+little	1	spatial dimension	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	1
+lobster	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+location	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+log	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+long	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+low	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+lump	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+marlin	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+maybe	0	question	0	4	0	8	0	0	1	10	0	16	0	6	0	0	0	2	0	8
+measure	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+middle	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+monkey	0	animal name	0	0	0	1	0	0	0	3	0	0	1	1	0	0	0	0	0	0
+mossy	0	adjective	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+mouth	0	body part	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+much	1	continuous amount	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+mushrooms	0	nature	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+narrow	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+near	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+next to	1	location and directions	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+north	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+nose	0	body part	0	0	1	1	0	0	0	5	0	0	0	0	0	0	0	0	0	1
+ocean	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+octagon	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+octopus	0	animal name	6	3	0	0	0	1	0	0	0	0	0	0	0	0	1	7	0	0
+opposite	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+orange	0	color	1	2	0	0	0	0	0	3	0	2	0	0	0	0	0	2	0	1
+orientation	1	orientation and transformation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+out	1	location and directions	0	0	0	0	0	2	0	4	0	3	0	6	0	1	1	1	0	3
+oval	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+over	1	location and directions	8	5	2	6	1	0	2	4	0	2	0	7	0	4	0	3	0	4
+parallel	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+parallelogram	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+part	1	continuous amount	4	1	0	0	0	2	0	20	0	0	0	0	0	1	0	2	0	18
+past	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+path	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+pentagon	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+perpendicular	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+petal	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+piece	1	continuous amount	7	6	10	9	4	8	4	25	0	23	0	19	2	12	0	16	6	29
+pig	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+pincher	0	body part	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+pink	0	color	0	0	0	0	0	0	0	4	0	0	0	0	0	0	1	1	0	1
+place	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+plane	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+plants	0	nature	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	2
+point	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+polygon	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+portion	1	continuous amount	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+position	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+puma	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+purple	0	color	1	2	0	0	0	1	0	0	0	2	0	0	0	0	0	4	0	0
+pyramid	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+quadrilateral	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+quarter	1	continuous amount	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+rainforest	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+rectangle	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+rectangular prism	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+red	0	color	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+reverse	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+rhombus	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+right	1	location and directions	1	3	0	1	3	4	1	11	0	10	0	4	2	17	3	10	2	31
+right side up	1	orientation and transformation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+rotate	1	orientation and transformation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+round	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+route	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+row	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sand	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sea	0	nature	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0
+sea creature	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+seahorse	0	animal name	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+seaweed	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+section	1	continuous amount	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sector	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+segment	1	continuous amount	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+semicircle	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+separate	1	location and directions	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+shallow	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+shape	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+shark	0	animal name	3	1	0	0	0	3	0	0	0	0	0	0	0	0	6	6	0	0
+sheep	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+shell	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+shiny	0	adjective	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+short	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+should i	0	question	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+side	1	spatial features and properties	0	0	0	0	0	0	0	1	0	2	0	4	0	1	0	1	0	3
+sideways	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+size	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+skinny	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sky	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sloth	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+small	1	spatial dimension	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+smile	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+snake	0	animal name	0	0	10	3	0	0	0	0	0	0	0	0	0	0	0	0	1	5
+some	1	continuous amount	0	0	1	1	0	0	3	9	0	4	4	5	1	3	0	4	0	9
+south	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sphere	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+spider	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+spots	0	body part	0	0	0	0	0	0	0	1	0	0	0	9	0	0	0	0	0	6
+square	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+starfish	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+stick	0	nature	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+straight	1	spatial features and properties	2	3	0	1	0	0	0	1	0	0	0	0	0	0	0	3	0	2
+suckers	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sun	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+surface	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sword	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+swordfish	0	animal name	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+symmetry	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+tail	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+tall	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+teeny	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+teeth	0	body part	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+tentacle	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+thick	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+thin	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+third	1	continuous amount	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+through	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+tiger	0	animal name	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+tiny	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+together	1	location and directions	1	4	0	3	0	0	0	2	0	13	0	9	0	4	0	2	0	1
+tongue	0	body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+top	1	location and directions	1	0	1	2	0	0	0	0	0	1	0	0	0	0	0	6	0	24
+toucan	0	animal name	0	0	2	2	0	0	0	2	0	0	0	0	0	0	0	0	0	1
+tree	0	nature	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+triangle	1	shapes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+turn	1	orientation and transformation	0	0	0	0	0	1	2	4	0	4	0	2	0	4	0	4	0	8
+under	1	location and directions	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+up	1	location and directions	1	0	1	0	0	1	0	2	0	3	1	1	0	1	1	18	2	14
+upside down	1	orientation and transformation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+vertical	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+vine	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+volume	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+water	0	nature	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+wave	1	spatial features and properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+west	1	location and directions	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+whale	0	animal name	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+what	0	question	5	6	7	6	1	2	2	29	0	8	0	4	7	6	2	2	1	11
+when	0	question	0	0	0	0	1	0	0	0	0	0	0	4	0	1	0	0	2	0
+where	0	question	1	7	2	8	1	0	5	12	0	17	0	12	0	3	0	19	2	19
+which	0	question	3	1	1	0	0	0	1	0	0	2	0	0	0	0	0	2	0	2
+white	0	color	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+who	0	question	0	2	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+whole	1	continuous amount	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+whose	0	question	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+why	0	question	0	0	3	0	0	0	1	1	0	1	0	1	2	0	0	1	0	8
+wide	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+width	1	spatial dimension	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+will	0	question	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	2	0
+wing	0	body part	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+with	1	location and directions	0	2	0	2	1	3	1	9	0	7	0	2	0	5	1	7	0	5
+yellow	0	color	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	5
