@@ -31,9 +31,9 @@ Note that `regex.tsv` now contains an additional `CATEGORY` column:
 * `CATEGORY` - category of the given pattern (e.g., 
 
 
-# Reports
+## Reports
 
-## [`pattern.tsv`](output/pattern.tsv)
+### [`pattern.tsv`](output/pattern.tsv)
 
 The pattern count report contains the following columns:
 
@@ -46,7 +46,7 @@ The pattern count report contains the following columns:
 * `TOTAL` - number of instances of word/phrase
 
 
-## [`pivot.tsv`](output/pivot.tsv)
+### [`pivot.tsv`](output/pivot.tsv)
 
 We've also generated a pattern count report in an alternate "pivoted"
 format.  This report contains the following columns:
@@ -59,7 +59,7 @@ format.  This report contains the following columns:
   `1`, a fiction book, and the child speaker).
 
 
-## [`summary.tsv`](output/summary.tsv)
+### [`summary.tsv`](output/summary.tsv)
 
 The summary count report contains the following columns:
 
@@ -101,7 +101,7 @@ The remaining columns are breakdowns of the various patterns observed:
 * `Q_TOK` - question tokens
 
 
-## `matches.xls`
+### `matches.xls`
 
 The matches report contains lists of utterances matching one of the
 patterns in `regex.tsv`.  It contains the following columns:
