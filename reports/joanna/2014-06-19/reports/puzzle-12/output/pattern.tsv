@@ -1,0 +1,3293 @@
+_ID	KIND	SPEAKER	MATCH	SPATIAL	CATEGORY	COUNT
+1	12	C	a little	1	continuous amount	2
+1	12	C	around	1	location and directions	2
+1	12	C	back	1	location and directions	1
+1	12	C	bit	1	continuous amount	1
+1	12	C	body	0	body part	3
+1	12	C	bottom	1	location and directions	1
+1	12	C	butterfly	0	color	1
+1	12	C	by	1	location and directions	1
+1	12	C	circle	1	shapes	1
+1	12	C	corn	0	nature	2
+1	12	C	cow	0	animal name	15
+1	12	C	do	0	question	2
+1	12	C	does	0	question	2
+1	12	C	duck	0	animal name	2
+1	12	C	face	0	body part	1
+1	12	C	horse	0	animal name	3
+1	12	C	how	0	question	1
+1	12	C	is that	0	question	1
+1	12	C	leg	0	body part	1
+1	12	C	piece	1	continuous amount	3
+1	12	C	pig	0	animal name	11
+1	12	C	red	0	color	1
+1	12	C	right	1	location and directions	14
+1	12	C	sheep	0	animal name	1
+1	12	C	tail	0	body part	1
+1	12	C	turn	1	orientation and transformation	22
+1	12	C	what	0	question	7
+1	12	C	where	0	question	2
+1	12	C	with	1	location and directions	1
+1	12	E	a little	1	continuous amount	1
+1	12	E	all	1	continuous amount	2
+1	12	E	bit	1	continuous amount	1
+1	12	E	can	0	question	14
+1	12	E	circle	1	shapes	1
+1	12	E	cow	0	animal name	2
+1	12	E	did	0	question	9
+1	12	E	do	0	question	91
+1	12	E	does	0	question	12
+1	12	E	duck	0	animal name	2
+1	12	E	horse	0	animal name	1
+1	12	E	how	0	question	17
+1	12	E	i don't know	0	question	3
+1	12	E	in	1	location and directions	3
+1	12	E	is that	0	question	1
+1	12	E	leg	0	body part	1
+1	12	E	maybe	0	question	1
+1	12	E	out	1	location and directions	3
+1	12	E	piece	1	continuous amount	41
+1	12	E	pig	0	animal name	2
+1	12	E	pink	0	color	1
+1	12	E	right	1	location and directions	11
+1	12	E	sheep	0	animal name	1
+1	12	E	should i	0	question	63
+1	12	E	tail	0	body part	1
+1	12	E	turn	1	orientation and transformation	2
+1	12	E	up	1	location and directions	1
+1	12	E	what	0	question	81
+1	12	E	when	0	question	2
+1	12	E	where	0	question	14
+1	12	E	with	1	location and directions	51
+10	12	C	animal	0	animal name	1
+10	12	C	around	1	location and directions	2
+10	12	C	do	0	question	1
+10	12	C	down	1	location and directions	3
+10	12	C	eye	0	body part	1
+10	12	C	head	0	body part	1
+10	12	C	i don't know	0	question	1
+10	12	C	leg	0	body part	1
+10	12	C	maybe	0	question	1
+10	12	C	over	1	location and directions	2
+10	12	C	piece	1	continuous amount	2
+10	12	C	right	1	location and directions	1
+10	12	C	square	1	shapes	1
+10	12	C	tail	0	body part	2
+10	12	C	together	1	location and directions	1
+10	12	C	turn	1	orientation and transformation	3
+10	12	C	up	1	location and directions	5
+10	12	C	upside down	1	orientation and transformation	1
+10	12	C	when	0	question	1
+10	12	E	around	1	location and directions	2
+10	12	E	can	0	question	5
+10	12	E	could	0	question	2
+10	12	E	cow	0	animal name	1
+10	12	E	do	0	question	21
+10	12	E	does	0	question	1
+10	12	E	down	1	location and directions	1
+10	12	E	how	0	question	21
+10	12	E	in	1	location and directions	1
+10	12	E	is that	0	question	1
+10	12	E	out	1	location and directions	1
+10	12	E	over	1	location and directions	1
+10	12	E	piece	1	continuous amount	10
+10	12	E	right	1	location and directions	5
+10	12	E	should i	0	question	6
+10	12	E	tail	0	body part	2
+10	12	E	together	1	location and directions	2
+10	12	E	turn	1	orientation and transformation	3
+10	12	E	up	1	location and directions	3
+10	12	E	what	0	question	21
+10	12	E	where	0	question	1
+10	12	E	why	0	question	1
+10	12	E	with	1	location and directions	15
+100	12	C	all	1	continuous amount	2
+100	12	C	around	1	location and directions	1
+100	12	C	connect	1	location and directions	6
+100	12	C	horse	0	animal name	1
+100	12	C	how	0	question	1
+100	12	C	out	1	location and directions	1
+100	12	C	piece	1	continuous amount	3
+100	12	C	pink	0	color	1
+100	12	C	right	1	location and directions	2
+100	12	C	shape	1	shapes	4
+100	12	C	square	1	shapes	1
+100	12	C	turn	1	orientation and transformation	5
+100	12	E	can	0	question	4
+100	12	E	connect	1	location and directions	1
+100	12	E	did	0	question	2
+100	12	E	do	0	question	3
+100	12	E	how	0	question	6
+100	12	E	piece	1	continuous amount	10
+100	12	E	right	1	location and directions	4
+100	12	E	shape	1	shapes	5
+100	12	E	should i	0	question	2
+100	12	E	turn	1	orientation and transformation	3
+100	12	E	what	0	question	13
+100	12	E	with	1	location and directions	1
+101	12	C	color	0	color	2
+101	12	C	corner	1	spatial features and properties	4
+101	12	C	over	1	location and directions	1
+101	12	C	part	1	continuous amount	1
+101	12	C	side	1	spatial features and properties	1
+101	12	C	top	1	location and directions	1
+101	12	E	did	0	question	1
+101	12	E	do	0	question	11
+101	12	E	how	0	question	8
+101	12	E	piece	1	continuous amount	7
+101	12	E	right	1	location and directions	1
+101	12	E	should i	0	question	7
+101	12	E	side	1	spatial features and properties	2
+101	12	E	top	1	location and directions	1
+101	12	E	what	0	question	14
+101	12	E	where	0	question	1
+101	12	E	which	0	question	1
+101	12	E	with	1	location and directions	7
+102	12	C	a little	1	continuous amount	1
+102	12	C	big	1	spatial dimension	2
+102	12	C	black	0	color	1
+102	12	C	brown	0	color	2
+102	12	C	cat	0	animal name	1
+102	12	C	chicken	0	animal name	1
+102	12	C	color	0	color	1
+102	12	C	corner	1	spatial features and properties	2
+102	12	C	cow	0	animal name	1
+102	12	C	curve	1	spatial features and properties	4
+102	12	C	do	0	question	1
+102	12	C	face	0	body part	1
+102	12	C	how	0	question	3
+102	12	C	in	1	location and directions	1
+102	12	C	line	1	spatial features and properties	1
+102	12	C	little	1	spatial dimension	1
+102	12	C	maybe	0	question	4
+102	12	C	over	1	location and directions	3
+102	12	C	piece	1	continuous amount	1
+102	12	C	pink	0	color	2
+102	12	C	right	1	location and directions	1
+102	12	C	side	1	spatial features and properties	3
+102	12	C	some	1	continuous amount	4
+102	12	C	white	0	color	1
+102	12	E	corner	1	spatial features and properties	1
+102	12	E	did	0	question	1
+102	12	E	do	0	question	17
+102	12	E	does	0	question	3
+102	12	E	how	0	question	12
+102	12	E	in	1	location and directions	1
+102	12	E	is that	0	question	3
+102	12	E	over	1	location and directions	1
+102	12	E	piece	1	continuous amount	2
+102	12	E	right	1	location and directions	1
+102	12	E	should i	0	question	12
+102	12	E	side	1	spatial features and properties	1
+102	12	E	what	0	question	15
+102	12	E	where	0	question	8
+102	12	E	which	0	question	1
+102	12	E	why	0	question	1
+102	12	E	with	1	location and directions	9
+103	12	C	bottom	1	location and directions	1
+103	12	C	right	1	location and directions	2
+103	12	C	top	1	location and directions	1
+103	12	C	where	0	question	1
+103	12	E	back	1	location and directions	2
+103	12	E	bottom	1	location and directions	1
+103	12	E	can	0	question	1
+103	12	E	do	0	question	14
+103	12	E	does	0	question	2
+103	12	E	how	0	question	11
+103	12	E	piece	1	continuous amount	9
+103	12	E	right	1	location and directions	3
+103	12	E	should i	0	question	9
+103	12	E	top	1	location and directions	1
+103	12	E	up	1	location and directions	1
+103	12	E	what	0	question	13
+103	12	E	where	0	question	4
+103	12	E	with	1	location and directions	10
+104	12	C	by	1	location and directions	1
+104	12	C	can	0	question	2
+104	12	C	corner	1	spatial features and properties	2
+104	12	C	do	0	question	2
+104	12	C	grass	0	nature	1
+104	12	C	line	1	spatial features and properties	1
+104	12	C	right	1	location and directions	1
+104	12	C	tail	0	body part	1
+104	12	E	corner	1	spatial features and properties	2
+104	12	E	do	0	question	14
+104	12	E	how	0	question	10
+104	12	E	line	1	spatial features and properties	1
+104	12	E	piece	1	continuous amount	3
+104	12	E	should i	0	question	7
+104	12	E	tail	0	body part	1
+104	12	E	together	1	location and directions	1
+104	12	E	what	0	question	14
+104	12	E	with	1	location and directions	7
+105	12	C	right	1	location and directions	2
+105	12	C	where	0	question	1
+105	12	E	all	1	continuous amount	1
+105	12	E	back	1	location and directions	2
+105	12	E	could	0	question	2
+105	12	E	did	0	question	2
+105	12	E	do	0	question	12
+105	12	E	does	0	question	7
+105	12	E	how	0	question	9
+105	12	E	in	1	location and directions	3
+105	12	E	is that	0	question	9
+105	12	E	is this	0	question	2
+105	12	E	piece	1	continuous amount	13
+105	12	E	place	1	location and directions	1
+105	12	E	right	1	location and directions	9
+105	12	E	should i	0	question	10
+105	12	E	some	1	continuous amount	1
+105	12	E	spots	0	body part	2
+105	12	E	what	0	question	19
+105	12	E	where	0	question	13
+105	12	E	which	0	question	2
+105	12	E	with	1	location and directions	7
+106	12	C	blue	0	color	1
+106	12	C	can	0	question	1
+106	12	C	chicken	0	animal name	4
+106	12	C	connect	1	location and directions	1
+106	12	C	corner	1	spatial features and properties	1
+106	12	C	down	1	location and directions	1
+106	12	C	duck	0	animal name	2
+106	12	C	eye	0	body part	1
+106	12	C	face	0	body part	1
+106	12	C	head	0	body part	1
+106	12	C	horse	0	animal name	2
+106	12	C	how	0	question	1
+106	12	C	in	1	location and directions	2
+106	12	C	piece	1	continuous amount	4
+106	12	C	pig	0	animal name	1
+106	12	C	red	0	color	1
+106	12	C	right	1	location and directions	11
+106	12	C	sheep	0	animal name	1
+106	12	C	sky	0	nature	2
+106	12	C	top	1	location and directions	1
+106	12	C	up	1	location and directions	1
+106	12	C	when	0	question	1
+106	12	E	can	0	question	5
+106	12	E	connect	1	location and directions	1
+106	12	E	could	0	question	2
+106	12	E	did	0	question	4
+106	12	E	do	0	question	6
+106	12	E	down	1	location and directions	1
+106	12	E	how	0	question	9
+106	12	E	in	1	location and directions	3
+106	12	E	out	1	location and directions	1
+106	12	E	piece	1	continuous amount	10
+106	12	E	pig	0	animal name	1
+106	12	E	place	1	location and directions	2
+106	12	E	right	1	location and directions	5
+106	12	E	should i	0	question	1
+106	12	E	what	0	question	9
+106	12	E	where	0	question	1
+106	12	E	with	1	location and directions	3
+107	12	C	around	1	location and directions	1
+107	12	C	black	0	color	1
+107	12	C	bottom	1	location and directions	1
+107	12	C	brown	0	color	1
+107	12	C	corn	0	nature	2
+107	12	C	down	1	location and directions	1
+107	12	C	hair	0	body part	1
+107	12	C	head	0	body part	1
+107	12	C	i don't know	0	question	1
+107	12	C	pig	0	animal name	1
+107	12	C	pink	0	color	1
+107	12	C	right	1	location and directions	4
+107	12	C	spots	0	body part	1
+107	12	C	tail	0	body part	1
+107	12	C	white	0	color	1
+107	12	E	around	1	location and directions	1
+107	12	E	back	1	location and directions	2
+107	12	E	can	0	question	2
+107	12	E	did	0	question	5
+107	12	E	do	0	question	13
+107	12	E	how	0	question	11
+107	12	E	is that	0	question	1
+107	12	E	piece	1	continuous amount	7
+107	12	E	right	1	location and directions	5
+107	12	E	should i	0	question	6
+107	12	E	what	0	question	17
+107	12	E	where	0	question	2
+107	12	E	with	1	location and directions	8
+108	12	C	barn	0	nature	1
+108	12	C	corner	1	spatial features and properties	4
+108	12	C	cow	0	animal name	2
+108	12	C	do	0	question	2
+108	12	C	duck	0	animal name	1
+108	12	C	ear	0	body part	1
+108	12	C	eye	0	body part	1
+108	12	C	face	0	body part	2
+108	12	C	flat	1	spatial features and properties	2
+108	12	C	flip	1	orientation and transformation	2
+108	12	C	horse	0	animal name	3
+108	12	C	how	0	question	1
+108	12	C	in	1	location and directions	3
+108	12	C	over	1	location and directions	2
+108	12	C	part	1	continuous amount	5
+108	12	C	piece	1	continuous amount	2
+108	12	C	pig	0	animal name	2
+108	12	C	right	1	location and directions	2
+108	12	C	side	1	spatial features and properties	2
+108	12	C	tail	0	body part	1
+108	12	C	top	1	location and directions	1
+108	12	C	where	0	question	1
+108	12	E	can	0	question	1
+108	12	E	did	0	question	2
+108	12	E	do	0	question	11
+108	12	E	does	0	question	1
+108	12	E	how	0	question	7
+108	12	E	over	1	location and directions	1
+108	12	E	piece	1	continuous amount	2
+108	12	E	should i	0	question	6
+108	12	E	top	1	location and directions	1
+108	12	E	what	0	question	16
+108	12	E	where	0	question	2
+108	12	E	with	1	location and directions	8
+109	12	C	around	1	location and directions	1
+109	12	C	by	1	location and directions	1
+109	12	C	chicken	0	animal name	1
+109	12	C	corn	0	nature	1
+109	12	C	corner	1	spatial features and properties	1
+109	12	C	cow	0	animal name	4
+109	12	C	do	0	question	1
+109	12	C	duck	0	animal name	1
+109	12	C	eye	0	body part	1
+109	12	C	face	0	body part	1
+109	12	C	horse	0	animal name	2
+109	12	C	maybe	0	question	4
+109	12	C	piece	1	continuous amount	2
+109	12	C	red	0	color	1
+109	12	C	right	1	location and directions	14
+109	12	C	sheep	0	animal name	1
+109	12	C	turn	1	orientation and transformation	1
+109	12	C	upside down	1	orientation and transformation	1
+109	12	E	can	0	question	3
+109	12	E	corner	1	spatial features and properties	1
+109	12	E	could	0	question	1
+109	12	E	cow	0	animal name	1
+109	12	E	did	0	question	4
+109	12	E	do	0	question	15
+109	12	E	does	0	question	3
+109	12	E	how	0	question	12
+109	12	E	is that	0	question	3
+109	12	E	piece	1	continuous amount	11
+109	12	E	right	1	location and directions	13
+109	12	E	should i	0	question	10
+109	12	E	what	0	question	15
+109	12	E	where	0	question	5
+109	12	E	why	0	question	1
+109	12	E	with	1	location and directions	9
+11	12	C	bird	0	animal name	1
+11	12	C	black	0	color	1
+11	12	C	by	1	location and directions	1
+11	12	C	cow	0	animal name	1
+11	12	C	did	0	question	4
+11	12	C	in	1	location and directions	1
+11	12	C	over	1	location and directions	1
+11	12	C	pig	0	animal name	3
+11	12	C	right	1	location and directions	10
+11	12	C	some	1	continuous amount	2
+11	12	C	tail	0	body part	2
+11	12	C	water	0	nature	4
+11	12	C	what	0	question	1
+11	12	C	with	1	location and directions	1
+11	12	E	a little	1	continuous amount	1
+11	12	E	bird	0	animal name	1
+11	12	E	black	0	color	1
+11	12	E	by	1	location and directions	2
+11	12	E	can	0	question	12
+11	12	E	could	0	question	3
+11	12	E	cow	0	animal name	2
+11	12	E	did	0	question	3
+11	12	E	do	0	question	11
+11	12	E	does	0	question	6
+11	12	E	down	1	location and directions	1
+11	12	E	how	0	question	16
+11	12	E	in	1	location and directions	1
+11	12	E	out	1	location and directions	2
+11	12	E	piece	1	continuous amount	20
+11	12	E	pig	0	animal name	2
+11	12	E	right	1	location and directions	9
+11	12	E	some	1	continuous amount	1
+11	12	E	tail	0	body part	1
+11	12	E	together	1	location and directions	2
+11	12	E	water	0	nature	1
+11	12	E	what	0	question	15
+11	12	E	where	0	question	14
+11	12	E	why	0	question	1
+11	12	E	with	1	location and directions	8
+110	12	C	back	1	location and directions	2
+110	12	C	can	0	question	1
+110	12	C	i don't know	0	question	1
+110	12	C	out	1	location and directions	1
+110	12	C	pink	0	color	1
+110	12	C	right	1	location and directions	3
+110	12	C	where	0	question	1
+110	12	E	a little	1	continuous amount	1
+110	12	E	all	1	continuous amount	1
+110	12	E	back	1	location and directions	2
+110	12	E	bit	1	continuous amount	1
+110	12	E	can	0	question	3
+110	12	E	did	0	question	6
+110	12	E	do	0	question	24
+110	12	E	does	0	question	1
+110	12	E	how	0	question	9
+110	12	E	in	1	location and directions	4
+110	12	E	piece	1	continuous amount	15
+110	12	E	right	1	location and directions	4
+110	12	E	should i	0	question	13
+110	12	E	spots	0	body part	1
+110	12	E	what	0	question	21
+110	12	E	why	0	question	1
+110	12	E	with	1	location and directions	12
+111	12	C	around	1	location and directions	6
+111	12	C	cow	0	animal name	1
+111	12	C	right	1	location and directions	12
+111	12	C	right side up	1	orientation and transformation	1
+111	12	C	side	1	spatial features and properties	1
+111	12	C	turn	1	orientation and transformation	6
+111	12	C	up	1	location and directions	1
+111	12	C	upside down	1	orientation and transformation	1
+111	12	E	around	1	location and directions	1
+111	12	E	did	0	question	2
+111	12	E	do	0	question	12
+111	12	E	does	0	question	1
+111	12	E	how	0	question	9
+111	12	E	piece	1	continuous amount	2
+111	12	E	right	1	location and directions	1
+111	12	E	should i	0	question	2
+111	12	E	side	1	spatial features and properties	1
+111	12	E	turn	1	orientation and transformation	1
+111	12	E	up	1	location and directions	1
+111	12	E	what	0	question	11
+111	12	E	where	0	question	1
+111	12	E	with	1	location and directions	3
+112	12	C	back	1	location and directions	1
+112	12	C	corner	1	spatial features and properties	3
+112	12	C	cow	0	animal name	3
+112	12	C	i don't know	0	question	1
+112	12	C	in	1	location and directions	2
+112	12	C	leg	0	body part	2
+112	12	C	part	1	continuous amount	2
+112	12	C	piece	1	continuous amount	1
+112	12	C	pig	0	animal name	1
+112	12	C	pink	0	color	1
+112	12	C	right	1	location and directions	5
+112	12	C	top	1	location and directions	2
+112	12	C	upside down	1	orientation and transformation	1
+112	12	C	where	0	question	1
+112	12	C	with	1	location and directions	1
+112	12	E	all	1	continuous amount	1
+112	12	E	back	1	location and directions	2
+112	12	E	can	0	question	1
+112	12	E	corner	1	spatial features and properties	1
+112	12	E	could	0	question	2
+112	12	E	cow	0	animal name	1
+112	12	E	did	0	question	1
+112	12	E	do	0	question	17
+112	12	E	does	0	question	3
+112	12	E	how	0	question	7
+112	12	E	in	1	location and directions	2
+112	12	E	is that	0	question	3
+112	12	E	piece	1	continuous amount	7
+112	12	E	right	1	location and directions	7
+112	12	E	should i	0	question	5
+112	12	E	spots	0	body part	1
+112	12	E	together	1	location and directions	1
+112	12	E	upside down	1	orientation and transformation	1
+112	12	E	what	0	question	13
+112	12	E	where	0	question	8
+112	12	E	with	1	location and directions	5
+113	12	C	away	1	location and directions	1
+113	12	C	back	1	location and directions	1
+113	12	C	barn	0	nature	1
+113	12	C	duck	0	animal name	1
+113	12	C	far	1	location and directions	1
+113	12	C	head	0	body part	1
+113	12	C	in	1	location and directions	1
+113	12	C	maybe	0	question	1
+113	12	C	out	1	location and directions	2
+113	12	C	top	1	location and directions	1
+113	12	C	water	0	nature	2
+113	12	E	all	1	continuous amount	1
+113	12	E	away	1	location and directions	1
+113	12	E	barn	0	nature	1
+113	12	E	did	0	question	7
+113	12	E	do	0	question	16
+113	12	E	duck	0	animal name	1
+113	12	E	far	1	location and directions	1
+113	12	E	how	0	question	11
+113	12	E	in	1	location and directions	1
+113	12	E	is that	0	question	2
+113	12	E	piece	1	continuous amount	5
+113	12	E	right	1	location and directions	2
+113	12	E	should i	0	question	7
+113	12	E	together	1	location and directions	2
+113	12	E	water	0	nature	1
+113	12	E	what	0	question	18
+113	12	E	where	0	question	2
+113	12	E	with	1	location and directions	8
+114	12	C	a little	1	continuous amount	1
+114	12	C	around	1	location and directions	2
+114	12	C	black	0	color	2
+114	12	C	brown	0	color	1
+114	12	C	by	1	location and directions	1
+114	12	C	chicken	0	animal name	1
+114	12	C	corn	0	nature	1
+114	12	C	corner	1	spatial features and properties	3
+114	12	C	cow	0	animal name	1
+114	12	C	did	0	question	1
+114	12	C	eye	0	body part	1
+114	12	C	flat	1	spatial features and properties	1
+114	12	C	head	0	body part	1
+114	12	C	in	1	location and directions	4
+114	12	C	middle	1	location and directions	3
+114	12	C	part	1	continuous amount	1
+114	12	C	piece	1	continuous amount	1
+114	12	C	red	0	color	1
+114	12	C	right	1	location and directions	3
+114	12	C	side	1	spatial features and properties	1
+114	12	C	tail	0	body part	1
+114	12	C	turn	1	orientation and transformation	3
+114	12	C	white	0	color	1
+114	12	E	across	1	location and directions	1
+114	12	E	around	1	location and directions	2
+114	12	E	back	1	location and directions	1
+114	12	E	black	0	color	1
+114	12	E	by	1	location and directions	1
+114	12	E	chicken	0	animal name	1
+114	12	E	corn	0	nature	1
+114	12	E	corner	1	spatial features and properties	2
+114	12	E	did	0	question	3
+114	12	E	do	0	question	15
+114	12	E	does	0	question	2
+114	12	E	flat	1	spatial features and properties	1
+114	12	E	how	0	question	14
+114	12	E	in	1	location and directions	6
+114	12	E	is that	0	question	1
+114	12	E	middle	1	location and directions	4
+114	12	E	part	1	continuous amount	1
+114	12	E	piece	1	continuous amount	4
+114	12	E	red	0	color	1
+114	12	E	right	1	location and directions	3
+114	12	E	should i	0	question	6
+114	12	E	side	1	spatial features and properties	1
+114	12	E	turn	1	orientation and transformation	2
+114	12	E	what	0	question	15
+114	12	E	where	0	question	3
+114	12	E	with	1	location and directions	6
+12	12	C	around	1	location and directions	7
+12	12	C	barn	0	nature	1
+12	12	C	connect	1	location and directions	3
+12	12	C	corner	1	spatial features and properties	1
+12	12	C	could	0	question	3
+12	12	C	cow	0	animal name	2
+12	12	C	face	0	body part	3
+12	12	C	horse	0	animal name	1
+12	12	C	i don't know	0	question	1
+12	12	C	next to	1	location and directions	1
+12	12	C	part	1	continuous amount	3
+12	12	C	piece	1	continuous amount	1
+12	12	C	pig	0	animal name	7
+12	12	C	right	1	location and directions	25
+12	12	C	tail	0	body part	1
+12	12	C	turn	1	orientation and transformation	7
+12	12	C	when	0	question	1
+12	12	C	where	0	question	3
+12	12	E	all	1	continuous amount	1
+12	12	E	around	1	location and directions	6
+12	12	E	can	0	question	4
+12	12	E	connect	1	location and directions	1
+12	12	E	corner	1	spatial features and properties	1
+12	12	E	could	0	question	13
+12	12	E	did	0	question	1
+12	12	E	do	0	question	16
+12	12	E	does	0	question	1
+12	12	E	face	0	body part	1
+12	12	E	horse	0	animal name	1
+12	12	E	how	0	question	21
+12	12	E	in	1	location and directions	2
+12	12	E	out	1	location and directions	2
+12	12	E	piece	1	continuous amount	18
+12	12	E	pig	0	animal name	1
+12	12	E	right	1	location and directions	13
+12	12	E	should i	0	question	1
+12	12	E	turn	1	orientation and transformation	6
+12	12	E	what	0	question	13
+12	12	E	where	0	question	13
+12	12	E	why	0	question	2
+12	12	E	with	1	location and directions	9
+13	12	C	around	1	location and directions	3
+13	12	C	cat	0	animal name	1
+13	12	C	chicken	0	animal name	2
+13	12	C	could	0	question	1
+13	12	C	cow	0	animal name	4
+13	12	C	do	0	question	2
+13	12	C	does	0	question	1
+13	12	C	duck	0	animal name	1
+13	12	C	face	0	body part	1
+13	12	C	in	1	location and directions	2
+13	12	C	over	1	location and directions	1
+13	12	C	piece	1	continuous amount	1
+13	12	C	point	1	spatial features and properties	1
+13	12	C	right	1	location and directions	9
+13	12	C	turn	1	orientation and transformation	4
+13	12	C	up	1	location and directions	1
+13	12	C	upside down	1	orientation and transformation	3
+13	12	C	what	0	question	1
+13	12	E	can	0	question	15
+13	12	E	cat	0	animal name	1
+13	12	E	chicken	0	animal name	1
+13	12	E	could	0	question	3
+13	12	E	cow	0	animal name	3
+13	12	E	did	0	question	2
+13	12	E	do	0	question	15
+13	12	E	does	0	question	1
+13	12	E	duck	0	animal name	1
+13	12	E	face	0	body part	1
+13	12	E	how	0	question	19
+13	12	E	in	1	location and directions	5
+13	12	E	piece	1	continuous amount	13
+13	12	E	point	1	spatial features and properties	1
+13	12	E	right	1	location and directions	9
+13	12	E	turn	1	orientation and transformation	3
+13	12	E	up	1	location and directions	1
+13	12	E	upside down	1	orientation and transformation	4
+13	12	E	what	0	question	17
+13	12	E	where	0	question	2
+13	12	E	why	0	question	2
+13	12	E	with	1	location and directions	17
+14	12	C	all	1	continuous amount	1
+14	12	C	animal	0	animal name	1
+14	12	C	big	1	spatial dimension	1
+14	12	C	bird	0	animal name	1
+14	12	C	down	1	location and directions	1
+14	12	C	in	1	location and directions	3
+14	12	C	piece	1	continuous amount	4
+14	12	C	right	1	location and directions	1
+14	12	E	all	1	continuous amount	1
+14	12	E	back	1	location and directions	1
+14	12	E	body	0	body part	3
+14	12	E	can	0	question	10
+14	12	E	could	0	question	1
+14	12	E	do	0	question	6
+14	12	E	does	0	question	2
+14	12	E	down	1	location and directions	1
+14	12	E	face	0	body part	2
+14	12	E	foot	0	body part	1
+14	12	E	horse	0	animal name	1
+14	12	E	how	0	question	3
+14	12	E	in	1	location and directions	15
+14	12	E	over	1	location and directions	1
+14	12	E	piece	1	continuous amount	8
+14	12	E	pig	0	animal name	2
+14	12	E	right	1	location and directions	2
+14	12	E	turn	1	orientation and transformation	1
+14	12	E	what	0	question	3
+14	12	E	where	0	question	9
+14	12	E	with	1	location and directions	2
+15	12	C	bottom	1	location and directions	3
+15	12	C	cow	0	animal name	2
+15	12	C	does	0	question	2
+15	12	C	down	1	location and directions	1
+15	12	C	i don't know	0	question	1
+15	12	C	in	1	location and directions	2
+15	12	C	piece	1	continuous amount	4
+15	12	C	right	1	location and directions	4
+15	12	C	where	0	question	1
+15	12	E	all	1	continuous amount	1
+15	12	E	bottom	1	location and directions	2
+15	12	E	can	0	question	13
+15	12	E	could	0	question	4
+15	12	E	cow	0	animal name	4
+15	12	E	do	0	question	18
+15	12	E	does	0	question	1
+15	12	E	down	1	location and directions	1
+15	12	E	how	0	question	18
+15	12	E	in	1	location and directions	3
+15	12	E	out	1	location and directions	5
+15	12	E	piece	1	continuous amount	16
+15	12	E	right	1	location and directions	5
+15	12	E	should i	0	question	1
+15	12	E	together	1	location and directions	1
+15	12	E	turn	1	orientation and transformation	3
+15	12	E	what	0	question	18
+15	12	E	where	0	question	7
+15	12	E	why	0	question	1
+15	12	E	with	1	location and directions	13
+17	12	C	around	1	location and directions	17
+17	12	C	black	0	color	1
+17	12	C	down	1	location and directions	1
+17	12	C	hair	0	body part	1
+17	12	C	i don't know	0	question	2
+17	12	C	in	1	location and directions	2
+17	12	C	left	1	location and directions	1
+17	12	C	little	1	spatial dimension	1
+17	12	C	over	1	location and directions	2
+17	12	C	part	1	continuous amount	1
+17	12	C	point	1	spatial features and properties	3
+17	12	C	right	1	location and directions	22
+17	12	C	sheep	0	animal name	1
+17	12	C	turn	1	orientation and transformation	20
+17	12	C	up	1	location and directions	1
+17	12	C	where	0	question	1
+17	12	E	all	1	continuous amount	1
+17	12	E	around	1	location and directions	13
+17	12	E	big	1	spatial dimension	1
+17	12	E	can	0	question	1
+17	12	E	direction	1	location and directions	1
+17	12	E	do	0	question	42
+17	12	E	does	0	question	3
+17	12	E	enough	1	continuous amount	1
+17	12	E	how	0	question	2
+17	12	E	in	1	location and directions	3
+17	12	E	large	1	spatial dimension	1
+17	12	E	little	1	spatial dimension	1
+17	12	E	maybe	0	question	1
+17	12	E	much	1	continuous amount	6
+17	12	E	over	1	location and directions	4
+17	12	E	piece	1	continuous amount	19
+17	12	E	right	1	location and directions	13
+17	12	E	should i	0	question	45
+17	12	E	side	1	spatial features and properties	1
+17	12	E	turn	1	orientation and transformation	24
+17	12	E	up	1	location and directions	1
+17	12	E	what	0	question	30
+17	12	E	where	0	question	15
+17	12	E	which	0	question	2
+17	12	E	with	1	location and directions	18
+18	12	E	all	1	continuous amount	1
+18	12	E	apart	1	location and directions	1
+18	12	E	did	0	question	4
+18	12	E	do	0	question	17
+18	12	E	does	0	question	3
+18	12	E	how	0	question	8
+18	12	E	in	1	location and directions	4
+18	12	E	is that	0	question	3
+18	12	E	maybe	0	question	5
+18	12	E	over	1	location and directions	2
+18	12	E	part	1	continuous amount	2
+18	12	E	piece	1	continuous amount	9
+18	12	E	right	1	location and directions	3
+18	12	E	should i	0	question	5
+18	12	E	together	1	location and directions	2
+18	12	E	what	0	question	1
+18	12	E	where	0	question	10
+18	12	E	which	0	question	1
+18	12	E	why	0	question	12
+18	12	E	with	1	location and directions	2
+19	12	C	a little	1	continuous amount	1
+19	12	C	around	1	location and directions	1
+19	12	C	barn	0	nature	1
+19	12	C	big	1	spatial dimension	1
+19	12	C	bit	1	continuous amount	1
+19	12	C	can	0	question	2
+19	12	C	cat	0	animal name	4
+19	12	C	connect	1	location and directions	1
+19	12	C	corner	1	spatial features and properties	7
+19	12	C	could	0	question	1
+19	12	C	do	0	question	1
+19	12	C	down	1	location and directions	1
+19	12	C	eye	0	body part	1
+19	12	C	flip	1	orientation and transformation	5
+19	12	C	head	0	body part	1
+19	12	C	horse	0	animal name	1
+19	12	C	maybe	0	question	3
+19	12	C	over	1	location and directions	5
+19	12	C	part	1	continuous amount	4
+19	12	C	piece	1	continuous amount	4
+19	12	C	red	0	color	1
+19	12	C	right	1	location and directions	23
+19	12	C	sheep	0	animal name	1
+19	12	C	side	1	spatial features and properties	2
+19	12	C	top	1	location and directions	1
+19	12	C	turn	1	orientation and transformation	2
+19	12	C	where	0	question	1
+19	12	C	with	1	location and directions	2
+19	12	E	all	1	continuous amount	2
+19	12	E	can	0	question	5
+19	12	E	corner	1	spatial features and properties	1
+19	12	E	could	0	question	6
+19	12	E	did	0	question	1
+19	12	E	do	0	question	28
+19	12	E	flip	1	orientation and transformation	2
+19	12	E	how	0	question	19
+19	12	E	in	1	location and directions	3
+19	12	E	over	1	location and directions	3
+19	12	E	piece	1	continuous amount	18
+19	12	E	right	1	location and directions	10
+19	12	E	should i	0	question	5
+19	12	E	side	1	spatial features and properties	1
+19	12	E	turn	1	orientation and transformation	1
+19	12	E	what	0	question	18
+19	12	E	where	0	question	10
+19	12	E	which	0	question	1
+19	12	E	why	0	question	4
+19	12	E	with	1	location and directions	7
+2	12	C	around	1	location and directions	1
+2	12	C	did	0	question	1
+2	12	C	do	0	question	1
+2	12	C	edge	1	spatial features and properties	1
+2	12	C	in	1	location and directions	1
+2	12	C	part	1	continuous amount	2
+2	12	C	right	1	location and directions	10
+2	12	C	turn	1	orientation and transformation	10
+2	12	C	why	0	question	2
+2	12	E	around	1	location and directions	1
+2	12	E	away	1	location and directions	1
+2	12	E	can	0	question	1
+2	12	E	did	0	question	5
+2	12	E	do	0	question	9
+2	12	E	does	0	question	2
+2	12	E	how	0	question	19
+2	12	E	out	1	location and directions	1
+2	12	E	piece	1	continuous amount	12
+2	12	E	right	1	location and directions	9
+2	12	E	should i	0	question	13
+2	12	E	turn	1	orientation and transformation	5
+2	12	E	what	0	question	15
+2	12	E	where	0	question	7
+2	12	E	which	0	question	1
+2	12	E	whole	1	continuous amount	1
+2	12	E	why	0	question	4
+2	12	E	with	1	location and directions	5
+20	12	C	ant	0	animal name	1
+20	12	C	around	1	location and directions	3
+20	12	C	barn	0	nature	1
+20	12	C	body	0	body part	1
+20	12	C	cow	0	animal name	3
+20	12	C	duck	0	animal name	2
+20	12	C	foot	0	body part	4
+20	12	C	ground	0	nature	1
+20	12	C	head	0	body part	3
+20	12	C	horse	0	animal name	2
+20	12	C	i don't know	0	question	4
+20	12	C	in	1	location and directions	2
+20	12	C	low	1	location and directions	2
+20	12	C	piece	1	continuous amount	2
+20	12	C	pig	0	animal name	4
+20	12	C	right	1	location and directions	2
+20	12	C	turn	1	orientation and transformation	3
+20	12	C	up	1	location and directions	1
+20	12	E	a little	1	continuous amount	1
+20	12	E	ant	0	animal name	1
+20	12	E	around	1	location and directions	4
+20	12	E	back	1	location and directions	1
+20	12	E	barn	0	nature	1
+20	12	E	bit	1	continuous amount	1
+20	12	E	can	0	question	4
+20	12	E	cow	0	animal name	3
+20	12	E	did	0	question	1
+20	12	E	do	0	question	27
+20	12	E	does	0	question	3
+20	12	E	duck	0	animal name	1
+20	12	E	foot	0	body part	2
+20	12	E	ground	0	nature	1
+20	12	E	head	0	body part	2
+20	12	E	horse	0	animal name	1
+20	12	E	how	0	question	22
+20	12	E	in	1	location and directions	4
+20	12	E	low	1	location and directions	1
+20	12	E	out	1	location and directions	3
+20	12	E	piece	1	continuous amount	20
+20	12	E	pig	0	animal name	1
+20	12	E	red	0	color	1
+20	12	E	right	1	location and directions	11
+20	12	E	should i	0	question	4
+20	12	E	turn	1	orientation and transformation	4
+20	12	E	up	1	location and directions	2
+20	12	E	what	0	question	15
+20	12	E	where	0	question	4
+20	12	E	why	0	question	4
+20	12	E	with	1	location and directions	10
+21	12	C	all	1	continuous amount	1
+21	12	C	barn	0	nature	1
+21	12	C	bottom	1	location and directions	1
+21	12	C	by	1	location and directions	2
+21	12	C	can	0	question	1
+21	12	C	cow	0	animal name	1
+21	12	C	do	0	question	2
+21	12	C	enough	1	continuous amount	1
+21	12	C	foot	0	body part	1
+21	12	C	front	1	location and directions	1
+21	12	C	head	0	body part	1
+21	12	C	i don't know	0	question	3
+21	12	C	in	1	location and directions	1
+21	12	C	maybe	0	question	1
+21	12	C	pig	0	animal name	2
+21	12	C	right	1	location and directions	6
+21	12	C	tail	0	body part	1
+21	12	C	up	1	location and directions	1
+21	12	C	what	0	question	1
+21	12	C	where	0	question	1
+21	12	C	with	1	location and directions	1
+21	12	E	back	1	location and directions	1
+21	12	E	barn	0	nature	1
+21	12	E	bottom	1	location and directions	2
+21	12	E	by	1	location and directions	2
+21	12	E	can	0	question	12
+21	12	E	could	0	question	6
+21	12	E	cow	0	animal name	1
+21	12	E	do	0	question	27
+21	12	E	does	0	question	2
+21	12	E	front	1	location and directions	1
+21	12	E	head	0	body part	1
+21	12	E	how	0	question	15
+21	12	E	i don't know	0	question	2
+21	12	E	in	1	location and directions	1
+21	12	E	is that	0	question	1
+21	12	E	maybe	0	question	1
+21	12	E	out	1	location and directions	1
+21	12	E	piece	1	continuous amount	17
+21	12	E	pig	0	animal name	2
+21	12	E	right	1	location and directions	6
+21	12	E	tail	0	body part	1
+21	12	E	turn	1	orientation and transformation	1
+21	12	E	what	0	question	22
+21	12	E	where	0	question	13
+21	12	E	why	0	question	4
+21	12	E	with	1	location and directions	10
+22	12	C	barn	0	nature	1
+22	12	C	corn	0	nature	1
+22	12	C	could	0	question	1
+22	12	C	edge	1	spatial features and properties	2
+22	12	C	floor	0	nature	1
+22	12	C	horse	0	animal name	1
+22	12	C	how	0	question	1
+22	12	C	i don't know	0	question	1
+22	12	C	in	1	location and directions	3
+22	12	C	maybe	0	question	6
+22	12	C	mouth	0	body part	1
+22	12	C	part	1	continuous amount	5
+22	12	C	piece	1	continuous amount	3
+22	12	C	place	1	location and directions	1
+22	12	C	right	1	location and directions	19
+22	12	C	sheep	0	animal name	1
+22	12	C	tail	0	body part	2
+22	12	C	together	1	location and directions	1
+22	12	C	top	1	location and directions	1
+22	12	C	water	0	nature	1
+22	12	E	can	0	question	8
+22	12	E	could	0	question	8
+22	12	E	did	0	question	1
+22	12	E	do	0	question	17
+22	12	E	does	0	question	1
+22	12	E	edge	1	spatial features and properties	1
+22	12	E	floor	0	nature	1
+22	12	E	how	0	question	18
+22	12	E	in	1	location and directions	3
+22	12	E	part	1	continuous amount	1
+22	12	E	piece	1	continuous amount	13
+22	12	E	place	1	location and directions	1
+22	12	E	right	1	location and directions	10
+22	12	E	sheep	0	animal name	1
+22	12	E	top	1	location and directions	1
+22	12	E	what	0	question	23
+22	12	E	where	0	question	10
+22	12	E	why	0	question	1
+22	12	E	with	1	location and directions	10
+23	12	C	all	1	continuous amount	1
+23	12	C	around	1	location and directions	4
+23	12	C	can	0	question	5
+23	12	C	cat	0	animal name	1
+23	12	C	corner	1	spatial features and properties	8
+23	12	C	do	0	question	1
+23	12	C	duck	0	animal name	1
+23	12	C	horse	0	animal name	5
+23	12	C	i don't know	0	question	2
+23	12	C	in	1	location and directions	8
+23	12	C	over	1	location and directions	3
+23	12	C	piece	1	continuous amount	1
+23	12	C	pig	0	animal name	1
+23	12	C	right	1	location and directions	10
+23	12	C	top	1	location and directions	1
+23	12	C	turn	1	orientation and transformation	4
+23	12	C	up	1	location and directions	3
+23	12	C	water	0	nature	1
+23	12	C	where	0	question	1
+23	12	C	why	0	question	1
+23	12	C	with	1	location and directions	1
+23	12	E	a little	1	continuous amount	1
+23	12	E	around	1	location and directions	4
+23	12	E	can	0	question	4
+23	12	E	corner	1	spatial features and properties	2
+23	12	E	could	0	question	8
+23	12	E	did	0	question	1
+23	12	E	do	0	question	10
+23	12	E	horse	0	animal name	1
+23	12	E	how	0	question	25
+23	12	E	in	1	location and directions	8
+23	12	E	is that	0	question	1
+23	12	E	out	1	location and directions	1
+23	12	E	over	1	location and directions	1
+23	12	E	piece	1	continuous amount	16
+23	12	E	pig	0	animal name	1
+23	12	E	right	1	location and directions	9
+23	12	E	should i	0	question	2
+23	12	E	turn	1	orientation and transformation	4
+23	12	E	what	0	question	15
+23	12	E	where	0	question	9
+23	12	E	why	0	question	4
+23	12	E	with	1	location and directions	4
+24	12	C	a little	1	continuous amount	2
+24	12	C	back	1	location and directions	1
+24	12	C	brown	0	color	1
+24	12	C	can	0	question	1
+24	12	C	chick	0	animal name	1
+24	12	C	chicken	0	animal name	1
+24	12	C	corner	1	spatial features and properties	6
+24	12	C	could	0	question	1
+24	12	C	cow	0	animal name	5
+24	12	C	did	0	question	2
+24	12	C	do	0	question	1
+24	12	C	down	1	location and directions	1
+24	12	C	duck	0	animal name	1
+24	12	C	eye	0	body part	1
+24	12	C	foot	0	body part	2
+24	12	C	horse	0	animal name	1
+24	12	C	i don't know	0	question	3
+24	12	C	in	1	location and directions	1
+24	12	C	line	1	spatial features and properties	2
+24	12	C	middle	1	location and directions	1
+24	12	C	out	1	location and directions	1
+24	12	C	over	1	location and directions	4
+24	12	C	piece	1	continuous amount	1
+24	12	C	pig	0	animal name	2
+24	12	C	point	1	spatial features and properties	4
+24	12	C	red	0	color	1
+24	12	C	right	1	location and directions	22
+24	12	C	sheep	0	animal name	1
+24	12	C	side	1	spatial features and properties	2
+24	12	C	spots	0	body part	4
+24	12	C	together	1	location and directions	1
+24	12	C	up	1	location and directions	4
+24	12	C	upside down	1	orientation and transformation	3
+24	12	C	wide	1	spatial dimension	1
+24	12	E	all	1	continuous amount	1
+24	12	E	brown	0	color	1
+24	12	E	can	0	question	10
+24	12	E	corner	1	spatial features and properties	1
+24	12	E	could	0	question	12
+24	12	E	did	0	question	2
+24	12	E	do	0	question	16
+24	12	E	does	0	question	1
+24	12	E	eye	0	body part	1
+24	12	E	how	0	question	15
+24	12	E	in	1	location and directions	2
+24	12	E	piece	1	continuous amount	17
+24	12	E	pig	0	animal name	1
+24	12	E	right	1	location and directions	9
+24	12	E	sheep	0	animal name	1
+24	12	E	upside down	1	orientation and transformation	2
+24	12	E	what	0	question	15
+24	12	E	when	0	question	1
+24	12	E	where	0	question	24
+24	12	E	why	0	question	1
+24	12	E	with	1	location and directions	3
+25	12	C	all	1	continuous amount	1
+25	12	C	apart	1	location and directions	1
+25	12	C	attach	1	location and directions	1
+25	12	C	away	1	location and directions	2
+25	12	C	by	1	location and directions	1
+25	12	C	can	0	question	3
+25	12	C	cat	0	animal name	1
+25	12	C	could	0	question	1
+25	12	C	cow	0	animal name	1
+25	12	C	dark	0	adjective	1
+25	12	C	does	0	question	1
+25	12	C	down	1	location and directions	2
+25	12	C	flip	1	orientation and transformation	4
+25	12	C	head	0	body part	1
+25	12	C	next to	1	location and directions	1
+25	12	C	out	1	location and directions	3
+25	12	C	over	1	location and directions	5
+25	12	C	piece	1	continuous amount	3
+25	12	C	pig	0	animal name	1
+25	12	C	right	1	location and directions	7
+25	12	C	sun	0	nature	1
+25	12	C	top	1	location and directions	1
+25	12	C	up	1	location and directions	1
+25	12	C	where	0	question	1
+25	12	C	will	0	question	1
+25	12	E	all	1	continuous amount	1
+25	12	E	by	1	location and directions	1
+25	12	E	can	0	question	4
+25	12	E	cat	0	animal name	1
+25	12	E	cow	0	animal name	2
+25	12	E	did	0	question	2
+25	12	E	do	0	question	9
+25	12	E	does	0	question	2
+25	12	E	down	1	location and directions	2
+25	12	E	flip	1	orientation and transformation	1
+25	12	E	head	0	body part	1
+25	12	E	how	0	question	14
+25	12	E	in	1	location and directions	1
+25	12	E	next to	1	location and directions	2
+25	12	E	out	1	location and directions	5
+25	12	E	over	1	location and directions	1
+25	12	E	piece	1	continuous amount	25
+25	12	E	right	1	location and directions	9
+25	12	E	should i	0	question	3
+25	12	E	sun	0	nature	1
+25	12	E	turn	1	orientation and transformation	1
+25	12	E	up	1	location and directions	2
+25	12	E	what	0	question	19
+25	12	E	where	0	question	10
+25	12	E	why	0	question	7
+25	12	E	with	1	location and directions	6
+26	12	C	a little	1	continuous amount	1
+26	12	C	barn	0	nature	1
+26	12	C	bit	1	continuous amount	1
+26	12	C	brown	0	color	5
+26	12	C	cow	0	animal name	2
+26	12	C	duck	0	animal name	2
+26	12	C	edge	1	spatial features and properties	1
+26	12	C	i don't know	0	question	1
+26	12	C	is that	0	question	1
+26	12	C	maybe	0	question	1
+26	12	C	pig	0	animal name	6
+26	12	C	right	1	location and directions	2
+26	12	C	through	1	location and directions	1
+26	12	C	what	0	question	1
+26	12	E	a little	1	continuous amount	1
+26	12	E	around	1	location and directions	1
+26	12	E	barn	0	nature	1
+26	12	E	brown	0	color	1
+26	12	E	can	0	question	8
+26	12	E	could	0	question	12
+26	12	E	do	0	question	17
+26	12	E	does	0	question	1
+26	12	E	how	0	question	16
+26	12	E	is that	0	question	1
+26	12	E	piece	1	continuous amount	26
+26	12	E	right	1	location and directions	7
+26	12	E	should i	0	question	2
+26	12	E	together	1	location and directions	1
+26	12	E	turn	1	orientation and transformation	1
+26	12	E	what	0	question	13
+26	12	E	where	0	question	29
+26	12	E	why	0	question	1
+26	12	E	with	1	location and directions	3
+27	12	C	a little	1	continuous amount	1
+27	12	C	around	1	location and directions	1
+27	12	C	back	1	location and directions	1
+27	12	C	black	0	color	2
+27	12	C	can	0	question	2
+27	12	C	corner	1	spatial features and properties	2
+27	12	C	face	0	body part	1
+27	12	C	i don't know	0	question	2
+27	12	C	over	1	location and directions	1
+27	12	C	part	1	continuous amount	1
+27	12	C	piece	1	continuous amount	2
+27	12	C	right	1	location and directions	14
+27	12	C	shape	1	shapes	1
+27	12	C	side	1	spatial features and properties	1
+27	12	C	turn	1	orientation and transformation	4
+27	12	C	under	1	location and directions	1
+27	12	E	back	1	location and directions	1
+27	12	E	can	0	question	3
+27	12	E	corner	1	spatial features and properties	2
+27	12	E	could	0	question	3
+27	12	E	did	0	question	1
+27	12	E	do	0	question	8
+27	12	E	does	0	question	2
+27	12	E	how	0	question	15
+27	12	E	in	1	location and directions	1
+27	12	E	out	1	location and directions	1
+27	12	E	piece	1	continuous amount	13
+27	12	E	right	1	location and directions	12
+27	12	E	should i	0	question	2
+27	12	E	turn	1	orientation and transformation	2
+27	12	E	what	0	question	17
+27	12	E	where	0	question	7
+27	12	E	why	0	question	2
+27	12	E	with	1	location and directions	4
+28	12	C	a lot	1	continuous amount	1
+28	12	C	all	1	continuous amount	2
+28	12	C	around	1	location and directions	1
+28	12	C	away	1	location and directions	1
+28	12	C	barn	0	nature	4
+28	12	C	bird	0	animal name	1
+28	12	C	can	0	question	1
+28	12	C	cat	0	animal name	1
+28	12	C	could	0	question	2
+28	12	C	do	0	question	1
+28	12	C	duck	0	animal name	2
+28	12	C	horse	0	animal name	1
+28	12	C	i don't know	0	question	4
+28	12	C	maybe	0	question	26
+28	12	C	much	1	continuous amount	1
+28	12	C	out	1	location and directions	2
+28	12	C	over	1	location and directions	1
+28	12	C	part	1	continuous amount	4
+28	12	C	piece	1	continuous amount	4
+28	12	C	pig	0	animal name	3
+28	12	C	right	1	location and directions	10
+28	12	C	size	1	spatial dimension	1
+28	12	C	together	1	location and directions	1
+28	12	C	top	1	location and directions	1
+28	12	C	turn	1	orientation and transformation	1
+28	12	C	what	0	question	1
+28	12	C	where	0	question	1
+28	12	C	with	1	location and directions	4
+28	12	E	a lot	1	continuous amount	1
+28	12	E	all	1	continuous amount	1
+28	12	E	around	1	location and directions	1
+28	12	E	barn	0	nature	1
+28	12	E	can	0	question	2
+28	12	E	could	0	question	9
+28	12	E	do	0	question	31
+28	12	E	does	0	question	1
+28	12	E	duck	0	animal name	1
+28	12	E	how	0	question	15
+28	12	E	in	1	location and directions	2
+28	12	E	left	1	location and directions	1
+28	12	E	maybe	0	question	3
+28	12	E	much	1	continuous amount	1
+28	12	E	piece	1	continuous amount	26
+28	12	E	pig	0	animal name	1
+28	12	E	place	1	location and directions	2
+28	12	E	right	1	location and directions	4
+28	12	E	side	1	spatial features and properties	1
+28	12	E	top	1	location and directions	1
+28	12	E	turn	1	orientation and transformation	1
+28	12	E	what	0	question	24
+28	12	E	where	0	question	16
+28	12	E	why	0	question	8
+28	12	E	with	1	location and directions	8
+29	12	C	around	1	location and directions	3
+29	12	C	big	1	spatial dimension	1
+29	12	C	black	0	color	1
+29	12	C	cow	0	animal name	1
+29	12	C	does	0	question	1
+29	12	C	down	1	location and directions	1
+29	12	C	eye	0	body part	1
+29	12	C	horse	0	animal name	1
+29	12	C	i don't know	0	question	1
+29	12	C	in	1	location and directions	5
+29	12	C	maybe	0	question	2
+29	12	C	over	1	location and directions	4
+29	12	C	right	1	location and directions	6
+29	12	C	tail	0	body part	2
+29	12	C	turn	1	orientation and transformation	4
+29	12	C	where	0	question	1
+29	12	E	a little	1	continuous amount	1
+29	12	E	around	1	location and directions	1
+29	12	E	by	1	location and directions	1
+29	12	E	can	0	question	3
+29	12	E	did	0	question	2
+29	12	E	do	0	question	20
+29	12	E	does	0	question	6
+29	12	E	eye	0	body part	1
+29	12	E	how	0	question	7
+29	12	E	i don't know	0	question	1
+29	12	E	in	1	location and directions	3
+29	12	E	maybe	0	question	1
+29	12	E	over	1	location and directions	3
+29	12	E	piece	1	continuous amount	12
+29	12	E	place	1	location and directions	1
+29	12	E	right	1	location and directions	5
+29	12	E	should i	0	question	11
+29	12	E	some	1	continuous amount	1
+29	12	E	tail	0	body part	1
+29	12	E	turn	1	orientation and transformation	3
+29	12	E	what	0	question	15
+29	12	E	where	0	question	14
+29	12	E	why	0	question	1
+29	12	E	will	0	question	1
+29	12	E	with	1	location and directions	12
+3	12	C	back	1	location and directions	2
+3	12	C	can	0	question	5
+3	12	C	do	0	question	2
+3	12	C	down	1	location and directions	1
+3	12	C	horse	0	animal name	1
+3	12	C	how	0	question	1
+3	12	C	in	1	location and directions	1
+3	12	C	piece	1	continuous amount	1
+3	12	C	right	1	location and directions	16
+3	12	C	together	1	location and directions	3
+3	12	E	all	1	continuous amount	1
+3	12	E	can	0	question	4
+3	12	E	could	0	question	1
+3	12	E	did	0	question	5
+3	12	E	do	0	question	18
+3	12	E	does	0	question	3
+3	12	E	down	1	location and directions	1
+3	12	E	how	0	question	27
+3	12	E	in	1	location and directions	1
+3	12	E	piece	1	continuous amount	17
+3	12	E	right	1	location and directions	7
+3	12	E	should i	0	question	7
+3	12	E	together	1	location and directions	3
+3	12	E	what	0	question	14
+3	12	E	where	0	question	9
+3	12	E	why	0	question	1
+3	12	E	with	1	location and directions	12
+30	12	C	a little	1	continuous amount	2
+30	12	C	around	1	location and directions	6
+30	12	C	behind	1	location and directions	1
+30	12	C	black	0	color	4
+30	12	C	body	0	body part	2
+30	12	C	cat	0	animal name	1
+30	12	C	corner	1	spatial features and properties	4
+30	12	C	cow	0	animal name	1
+30	12	C	face	0	body part	3
+30	12	C	green	0	color	4
+30	12	C	horse	0	animal name	1
+30	12	C	how	0	question	2
+30	12	C	over	1	location and directions	14
+30	12	C	part	1	continuous amount	8
+30	12	C	piece	1	continuous amount	1
+30	12	C	round	1	spatial features and properties	1
+30	12	C	tail	0	body part	2
+30	12	C	turn	1	orientation and transformation	9
+30	12	C	when	0	question	1
+30	12	C	with	1	location and directions	2
+30	12	C	yellow	0	color	1
+30	12	E	a little	1	continuous amount	1
+30	12	E	around	1	location and directions	1
+30	12	E	behind	1	location and directions	1
+30	12	E	black	0	color	2
+30	12	E	body	0	body part	1
+30	12	E	can	0	question	2
+30	12	E	cat	0	animal name	1
+30	12	E	corner	1	spatial features and properties	2
+30	12	E	could	0	question	10
+30	12	E	do	0	question	31
+30	12	E	does	0	question	1
+30	12	E	face	0	body part	1
+30	12	E	green	0	color	1
+30	12	E	how	0	question	15
+30	12	E	in	1	location and directions	2
+30	12	E	over	1	location and directions	10
+30	12	E	part	1	continuous amount	1
+30	12	E	piece	1	continuous amount	18
+30	12	E	right	1	location and directions	5
+30	12	E	round	1	spatial features and properties	1
+30	12	E	tail	0	body part	1
+30	12	E	turn	1	orientation and transformation	5
+30	12	E	what	0	question	14
+30	12	E	where	0	question	14
+30	12	E	why	0	question	4
+30	12	E	with	1	location and directions	8
+31	12	C	around	1	location and directions	3
+31	12	C	do	0	question	2
+31	12	C	duck	0	animal name	1
+31	12	C	horse	0	animal name	2
+31	12	C	i don't know	0	question	5
+31	12	C	in	1	location and directions	2
+31	12	C	leg	0	body part	1
+31	12	C	pig	0	animal name	1
+31	12	C	right	1	location and directions	5
+31	12	C	sheep	0	animal name	1
+31	12	C	turn	1	orientation and transformation	3
+31	12	C	where	0	question	3
+31	12	E	around	1	location and directions	3
+31	12	E	away	1	location and directions	2
+31	12	E	can	0	question	4
+31	12	E	could	0	question	6
+31	12	E	did	0	question	2
+31	12	E	do	0	question	22
+31	12	E	duck	0	animal name	2
+31	12	E	horse	0	animal name	2
+31	12	E	how	0	question	32
+31	12	E	in	1	location and directions	7
+31	12	E	leg	0	body part	1
+31	12	E	out	1	location and directions	3
+31	12	E	piece	1	continuous amount	20
+31	12	E	pig	0	animal name	2
+31	12	E	right	1	location and directions	17
+31	12	E	sheep	0	animal name	2
+31	12	E	should i	0	question	4
+31	12	E	spots	0	body part	1
+31	12	E	turn	1	orientation and transformation	4
+31	12	E	what	0	question	24
+31	12	E	where	0	question	20
+31	12	E	why	0	question	1
+31	12	E	with	1	location and directions	2
+32	12	C	back	1	location and directions	1
+32	12	C	body	0	body part	1
+32	12	C	can	0	question	1
+32	12	C	cow	0	animal name	2
+32	12	C	down	1	location and directions	1
+32	12	C	duck	0	animal name	2
+32	12	C	horse	0	animal name	2
+32	12	C	in	1	location and directions	1
+32	12	C	leg	0	body part	3
+32	12	C	maybe	0	question	1
+32	12	C	middle	1	location and directions	1
+32	12	C	piece	1	continuous amount	4
+32	12	C	pig	0	animal name	1
+32	12	C	right	1	location and directions	16
+32	12	C	straight	1	spatial features and properties	3
+32	12	C	tail	0	body part	1
+32	12	C	turn	1	orientation and transformation	1
+32	12	C	up	1	location and directions	2
+32	12	C	with	1	location and directions	1
+32	12	E	all	1	continuous amount	1
+32	12	E	back	1	location and directions	1
+32	12	E	body	0	body part	1
+32	12	E	can	0	question	10
+32	12	E	could	0	question	3
+32	12	E	cow	0	animal name	2
+32	12	E	do	0	question	23
+32	12	E	duck	0	animal name	1
+32	12	E	horse	0	animal name	1
+32	12	E	how	0	question	9
+32	12	E	in	1	location and directions	2
+32	12	E	leg	0	body part	1
+32	12	E	piece	1	continuous amount	21
+32	12	E	point	1	spatial features and properties	1
+32	12	E	right	1	location and directions	15
+32	12	E	straight	1	spatial features and properties	2
+32	12	E	tail	0	body part	1
+32	12	E	turn	1	orientation and transformation	1
+32	12	E	up	1	location and directions	1
+32	12	E	what	0	question	25
+32	12	E	where	0	question	8
+32	12	E	why	0	question	6
+32	12	E	with	1	location and directions	8
+33	12	C	horse	0	animal name	2
+33	12	E	a little	1	continuous amount	1
+33	12	E	back	1	location and directions	4
+33	12	E	can	0	question	12
+33	12	E	could	0	question	4
+33	12	E	do	0	question	26
+33	12	E	does	0	question	7
+33	12	E	horse	0	animal name	1
+33	12	E	how	0	question	19
+33	12	E	maybe	0	question	1
+33	12	E	out	1	location and directions	7
+33	12	E	piece	1	continuous amount	26
+33	12	E	point	1	spatial features and properties	1
+33	12	E	right	1	location and directions	5
+33	12	E	should i	0	question	1
+33	12	E	turn	1	orientation and transformation	1
+33	12	E	what	0	question	22
+33	12	E	where	0	question	19
+33	12	E	why	0	question	1
+33	12	E	with	1	location and directions	5
+35	12	C	behind	1	location and directions	3
+35	12	C	by	1	location and directions	1
+35	12	C	can	0	question	5
+35	12	C	cat	0	animal name	2
+35	12	C	chicken	0	animal name	1
+35	12	C	cow	0	animal name	1
+35	12	C	do	0	question	1
+35	12	C	does	0	question	1
+35	12	C	duck	0	animal name	1
+35	12	C	face	0	body part	1
+35	12	C	i don't know	0	question	3
+35	12	C	in	1	location and directions	2
+35	12	C	pig	0	animal name	1
+35	12	C	right	1	location and directions	1
+35	12	C	water	0	nature	1
+35	12	C	where	0	question	1
+35	12	E	back	1	location and directions	2
+35	12	E	behind	1	location and directions	3
+35	12	E	by	1	location and directions	1
+35	12	E	can	0	question	15
+35	12	E	cat	0	animal name	1
+35	12	E	chicken	0	animal name	1
+35	12	E	could	0	question	8
+35	12	E	cow	0	animal name	2
+35	12	E	do	0	question	34
+35	12	E	does	0	question	4
+35	12	E	duck	0	animal name	1
+35	12	E	face	0	body part	1
+35	12	E	how	0	question	22
+35	12	E	i don't know	0	question	1
+35	12	E	in	1	location and directions	5
+35	12	E	out	1	location and directions	5
+35	12	E	piece	1	continuous amount	28
+35	12	E	pig	0	animal name	1
+35	12	E	right	1	location and directions	13
+35	12	E	turn	1	orientation and transformation	3
+35	12	E	what	0	question	26
+35	12	E	where	0	question	25
+35	12	E	why	0	question	3
+35	12	E	with	1	location and directions	8
+36	12	C	does	0	question	1
+36	12	C	i don't know	0	question	4
+36	12	C	in	1	location and directions	2
+36	12	C	right	1	location and directions	7
+36	12	E	all	1	continuous amount	2
+36	12	E	animal	0	animal name	1
+36	12	E	could	0	question	2
+36	12	E	do	0	question	31
+36	12	E	does	0	question	13
+36	12	E	how	0	question	17
+36	12	E	in	1	location and directions	3
+36	12	E	left	1	location and directions	1
+36	12	E	piece	1	continuous amount	8
+36	12	E	right	1	location and directions	24
+36	12	E	should i	0	question	13
+36	12	E	what	0	question	7
+36	12	E	where	0	question	29
+36	12	E	with	1	location and directions	2
+37	12	C	big	1	spatial dimension	1
+37	12	C	black	0	color	1
+37	12	C	cat	0	animal name	1
+37	12	C	do	0	question	1
+37	12	C	does	0	question	6
+37	12	C	how	0	question	1
+37	12	C	i don't know	0	question	2
+37	12	C	in	1	location and directions	1
+37	12	C	maybe	0	question	2
+37	12	C	piece	1	continuous amount	2
+37	12	C	right	1	location and directions	17
+37	12	C	up	1	location and directions	1
+37	12	C	what	0	question	2
+37	12	E	a little	1	continuous amount	1
+37	12	E	all	1	continuous amount	1
+37	12	E	away	1	location and directions	1
+37	12	E	black	0	color	1
+37	12	E	can	0	question	14
+37	12	E	could	0	question	5
+37	12	E	do	0	question	28
+37	12	E	does	0	question	7
+37	12	E	how	0	question	23
+37	12	E	i don't know	0	question	1
+37	12	E	in	1	location and directions	3
+37	12	E	maybe	0	question	1
+37	12	E	piece	1	continuous amount	29
+37	12	E	pig	0	animal name	2
+37	12	E	right	1	location and directions	19
+37	12	E	should i	0	question	2
+37	12	E	up	1	location and directions	1
+37	12	E	what	0	question	31
+37	12	E	where	0	question	12
+37	12	E	which	0	question	2
+37	12	E	why	0	question	4
+37	12	E	with	1	location and directions	7
+38	12	C	all	1	continuous amount	1
+38	12	C	black	0	color	5
+38	12	C	blue	0	color	1
+38	12	C	bottom	1	location and directions	2
+38	12	C	brown	0	color	6
+38	12	C	cat	0	animal name	2
+38	12	C	chicken	0	animal name	1
+38	12	C	corn	0	nature	1
+38	12	C	could	0	question	1
+38	12	C	cow	0	animal name	2
+38	12	C	down	1	location and directions	2
+38	12	C	grass	0	nature	3
+38	12	C	green	0	color	1
+38	12	C	is this	0	question	1
+38	12	C	left	1	location and directions	1
+38	12	C	maybe	0	question	3
+38	12	C	piece	1	continuous amount	1
+38	12	C	pink	0	color	1
+38	12	C	red	0	color	3
+38	12	C	right	1	location and directions	6
+38	12	C	tail	0	body part	1
+38	12	C	top	1	location and directions	3
+38	12	C	turn	1	orientation and transformation	2
+38	12	C	upside down	1	orientation and transformation	1
+38	12	C	white	0	color	4
+38	12	C	yellow	0	color	1
+38	12	E	a little	1	continuous amount	1
+38	12	E	black	0	color	2
+38	12	E	blue	0	color	1
+38	12	E	can	0	question	4
+38	12	E	corn	0	nature	1
+38	12	E	could	0	question	9
+38	12	E	do	0	question	15
+38	12	E	does	0	question	3
+38	12	E	down	1	location and directions	1
+38	12	E	grass	0	nature	1
+38	12	E	green	0	color	1
+38	12	E	how	0	question	15
+38	12	E	in	1	location and directions	3
+38	12	E	is that	0	question	1
+38	12	E	out	1	location and directions	1
+38	12	E	piece	1	continuous amount	21
+38	12	E	pink	0	color	1
+38	12	E	right	1	location and directions	9
+38	12	E	tail	0	body part	1
+38	12	E	top	1	location and directions	4
+38	12	E	turn	1	orientation and transformation	2
+38	12	E	upside down	1	orientation and transformation	1
+38	12	E	what	0	question	24
+38	12	E	where	0	question	12
+38	12	E	why	0	question	3
+38	12	E	with	1	location and directions	3
+39	12	C	back	1	location and directions	1
+39	12	C	can	0	question	2
+39	12	C	cat	0	animal name	3
+39	12	C	chicken	0	animal name	1
+39	12	C	cow	0	animal name	1
+39	12	C	do	0	question	2
+39	12	C	down	1	location and directions	1
+39	12	C	duck	0	animal name	1
+39	12	C	foot	0	body part	2
+39	12	C	head	0	body part	3
+39	12	C	horse	0	animal name	5
+39	12	C	in	1	location and directions	1
+39	12	C	line	1	spatial features and properties	1
+39	12	C	over	1	location and directions	9
+39	12	C	pig	0	animal name	3
+39	12	C	right	1	location and directions	19
+39	12	C	sheep	0	animal name	3
+39	12	C	spots	0	body part	1
+39	12	C	tail	0	body part	1
+39	12	C	up	1	location and directions	2
+39	12	C	white	0	color	1
+39	12	C	with	1	location and directions	1
+39	12	E	a little	1	continuous amount	1
+39	12	E	back	1	location and directions	1
+39	12	E	can	0	question	8
+39	12	E	could	0	question	7
+39	12	E	cow	0	animal name	1
+39	12	E	do	0	question	22
+39	12	E	how	0	question	13
+39	12	E	in	1	location and directions	1
+39	12	E	over	1	location and directions	1
+39	12	E	piece	1	continuous amount	23
+39	12	E	right	1	location and directions	7
+39	12	E	sheep	0	animal name	1
+39	12	E	spots	0	body part	1
+39	12	E	together	1	location and directions	1
+39	12	E	up	1	location and directions	2
+39	12	E	what	0	question	22
+39	12	E	where	0	question	9
+39	12	E	why	0	question	5
+39	12	E	with	1	location and directions	8
+4	12	C	bottom	1	location and directions	1
+4	12	C	down	1	location and directions	1
+4	12	C	right	1	location and directions	3
+4	12	E	all	1	continuous amount	3
+4	12	E	bottom	1	location and directions	1
+4	12	E	can	0	question	11
+4	12	E	did	0	question	3
+4	12	E	do	0	question	11
+4	12	E	does	0	question	3
+4	12	E	how	0	question	14
+4	12	E	in	1	location and directions	1
+4	12	E	out	1	location and directions	3
+4	12	E	over	1	location and directions	1
+4	12	E	piece	1	continuous amount	18
+4	12	E	right	1	location and directions	9
+4	12	E	spots	0	body part	1
+4	12	E	together	1	location and directions	1
+4	12	E	what	0	question	8
+4	12	E	where	0	question	16
+4	12	E	whole	1	continuous amount	1
+4	12	E	with	1	location and directions	5
+40	12	C	around	1	location and directions	8
+40	12	C	body	0	body part	1
+40	12	C	chicken	0	animal name	1
+40	12	C	cow	0	animal name	1
+40	12	C	do	0	question	1
+40	12	C	down	1	location and directions	1
+40	12	C	duck	0	animal name	1
+40	12	C	head	0	body part	10
+40	12	C	horse	0	animal name	1
+40	12	C	i don't know	0	question	2
+40	12	C	in	1	location and directions	1
+40	12	C	over	1	location and directions	2
+40	12	C	part	1	continuous amount	4
+40	12	C	piece	1	continuous amount	1
+40	12	C	right	1	location and directions	9
+40	12	C	sheep	0	animal name	1
+40	12	C	side	1	spatial features and properties	6
+40	12	C	together	1	location and directions	1
+40	12	C	turn	1	orientation and transformation	8
+40	12	C	when	0	question	1
+40	12	C	where	0	question	2
+40	12	C	why	0	question	1
+40	12	C	with	1	location and directions	1
+40	12	E	a little	1	continuous amount	1
+40	12	E	around	1	location and directions	5
+40	12	E	can	0	question	4
+40	12	E	could	0	question	5
+40	12	E	do	0	question	22
+40	12	E	down	1	location and directions	1
+40	12	E	how	0	question	17
+40	12	E	in	1	location and directions	2
+40	12	E	piece	1	continuous amount	15
+40	12	E	right	1	location and directions	6
+40	12	E	sheep	0	animal name	2
+40	12	E	should i	0	question	2
+40	12	E	side	1	spatial features and properties	3
+40	12	E	turn	1	orientation and transformation	5
+40	12	E	what	0	question	18
+40	12	E	where	0	question	11
+40	12	E	why	0	question	2
+40	12	E	with	1	location and directions	5
+41	12	C	animal	0	animal name	3
+41	12	C	barn	0	nature	3
+41	12	C	body	0	body part	4
+41	12	C	can	0	question	5
+41	12	C	cow	0	animal name	2
+41	12	C	do	0	question	1
+41	12	C	duck	0	animal name	4
+41	12	C	face	0	body part	2
+41	12	C	grass	0	nature	1
+41	12	C	hair	0	body part	1
+41	12	C	horse	0	animal name	1
+41	12	C	i don't know	0	question	5
+41	12	C	in	1	location and directions	2
+41	12	C	leg	0	body part	1
+41	12	C	out	1	location and directions	2
+41	12	C	piece	1	continuous amount	3
+41	12	C	pig	0	animal name	2
+41	12	C	point	1	spatial features and properties	2
+41	12	C	right	1	location and directions	30
+41	12	C	some	1	continuous amount	2
+41	12	C	sun	0	nature	1
+41	12	C	tail	0	body part	2
+41	12	C	together	1	location and directions	1
+41	12	C	turn	1	orientation and transformation	2
+41	12	C	water	0	nature	3
+41	12	C	what	0	question	3
+41	12	C	where	0	question	7
+41	12	C	whole	1	continuous amount	2
+41	12	C	with	1	location and directions	6
+41	12	E	body	0	body part	1
+41	12	E	can	0	question	4
+41	12	E	could	0	question	9
+41	12	E	cow	0	animal name	2
+41	12	E	do	0	question	28
+41	12	E	does	0	question	8
+41	12	E	duck	0	animal name	2
+41	12	E	face	0	body part	1
+41	12	E	how	0	question	11
+41	12	E	in	1	location and directions	3
+41	12	E	leg	0	body part	1
+41	12	E	out	1	location and directions	1
+41	12	E	over	1	location and directions	1
+41	12	E	piece	1	continuous amount	27
+41	12	E	pig	0	animal name	2
+41	12	E	point	1	spatial features and properties	3
+41	12	E	right	1	location and directions	12
+41	12	E	water	0	nature	2
+41	12	E	what	0	question	19
+41	12	E	where	0	question	30
+41	12	E	whole	1	continuous amount	1
+41	12	E	why	0	question	3
+41	12	E	will	0	question	1
+41	12	E	with	1	location and directions	4
+42	12	C	a little	1	continuous amount	1
+42	12	C	around	1	location and directions	1
+42	12	C	back	1	location and directions	1
+42	12	C	barn	0	nature	2
+42	12	C	bit	1	continuous amount	1
+42	12	C	by	1	location and directions	4
+42	12	C	can	0	question	1
+42	12	C	could	0	question	1
+42	12	C	cow	0	animal name	2
+42	12	C	do	0	question	1
+42	12	C	does	0	question	1
+42	12	C	down	1	location and directions	2
+42	12	C	i don't know	0	question	1
+42	12	C	in	1	location and directions	1
+42	12	C	is that	0	question	1
+42	12	C	low	1	location and directions	1
+42	12	C	part	1	continuous amount	1
+42	12	C	pig	0	animal name	6
+42	12	C	right	1	location and directions	8
+42	12	C	sky	0	nature	1
+42	12	C	turn	1	orientation and transformation	3
+42	12	C	up	1	location and directions	3
+42	12	C	where	0	question	6
+42	12	E	around	1	location and directions	1
+42	12	E	back	1	location and directions	1
+42	12	E	by	1	location and directions	4
+42	12	E	can	0	question	4
+42	12	E	could	0	question	1
+42	12	E	cow	0	animal name	2
+42	12	E	did	0	question	2
+42	12	E	do	0	question	15
+42	12	E	does	0	question	3
+42	12	E	down	1	location and directions	1
+42	12	E	how	0	question	5
+42	12	E	in	1	location and directions	1
+42	12	E	low	1	location and directions	1
+42	12	E	over	1	location and directions	1
+42	12	E	piece	1	continuous amount	1
+42	12	E	pig	0	animal name	2
+42	12	E	right	1	location and directions	6
+42	12	E	should i	0	question	6
+42	12	E	sky	0	nature	1
+42	12	E	turn	1	orientation and transformation	3
+42	12	E	up	1	location and directions	1
+42	12	E	what	0	question	12
+42	12	E	where	0	question	23
+42	12	E	with	1	location and directions	7
+44	12	C	cat	0	animal name	1
+44	12	C	chicken	0	animal name	1
+44	12	C	eye	0	body part	1
+44	12	C	face	0	body part	1
+44	12	C	horse	0	animal name	1
+44	12	C	together	1	location and directions	1
+44	12	E	can	0	question	8
+44	12	E	cat	0	animal name	1
+44	12	E	chicken	0	animal name	1
+44	12	E	could	0	question	19
+44	12	E	did	0	question	8
+44	12	E	do	0	question	15
+44	12	E	eye	0	body part	1
+44	12	E	face	0	body part	1
+44	12	E	horse	0	animal name	2
+44	12	E	how	0	question	37
+44	12	E	in	1	location and directions	2
+44	12	E	is that	0	question	2
+44	12	E	out	1	location and directions	7
+44	12	E	part	1	continuous amount	1
+44	12	E	piece	1	continuous amount	21
+44	12	E	right	1	location and directions	10
+44	12	E	together	1	location and directions	2
+44	12	E	what	0	question	28
+44	12	E	where	0	question	16
+44	12	E	which	0	question	2
+44	12	E	why	0	question	1
+44	12	E	with	1	location and directions	5
+45	12	C	a little	1	continuous amount	2
+45	12	C	around	1	location and directions	1
+45	12	C	barn	0	nature	1
+45	12	C	brown	0	color	2
+45	12	C	color	0	color	2
+45	12	C	connect	1	location and directions	2
+45	12	C	corn	0	nature	1
+45	12	C	corner	1	spatial features and properties	6
+45	12	C	could	0	question	1
+45	12	C	cow	0	animal name	2
+45	12	C	down	1	location and directions	4
+45	12	C	edge	1	spatial features and properties	17
+45	12	C	face	0	body part	2
+45	12	C	green	0	color	1
+45	12	C	how	0	question	3
+45	12	C	in	1	location and directions	2
+45	12	C	maybe	0	question	11
+45	12	C	middle	1	location and directions	1
+45	12	C	out	1	location and directions	1
+45	12	C	piece	1	continuous amount	1
+45	12	C	pig	0	animal name	2
+45	12	C	pink	0	color	2
+45	12	C	point	1	spatial features and properties	1
+45	12	C	right	1	location and directions	2
+45	12	C	side	1	spatial features and properties	1
+45	12	C	sideways	1	location and directions	2
+45	12	C	straight	1	spatial features and properties	1
+45	12	C	top	1	location and directions	1
+45	12	C	turn	1	orientation and transformation	2
+45	12	C	up	1	location and directions	2
+45	12	C	upside down	1	orientation and transformation	1
+45	12	C	which	0	question	1
+45	12	C	white	0	color	1
+45	12	C	with	1	location and directions	5
+45	12	E	around	1	location and directions	1
+45	12	E	can	0	question	5
+45	12	E	corn	0	nature	1
+45	12	E	corner	1	spatial features and properties	4
+45	12	E	could	0	question	8
+45	12	E	did	0	question	6
+45	12	E	do	0	question	13
+45	12	E	down	1	location and directions	3
+45	12	E	edge	1	spatial features and properties	12
+45	12	E	hand	0	body part	1
+45	12	E	how	0	question	19
+45	12	E	in	1	location and directions	2
+45	12	E	piece	1	continuous amount	15
+45	12	E	pink	0	color	1
+45	12	E	point	1	spatial features and properties	1
+45	12	E	right	1	location and directions	3
+45	12	E	sideways	1	location and directions	1
+45	12	E	straight	1	spatial features and properties	1
+45	12	E	turn	1	orientation and transformation	2
+45	12	E	up	1	location and directions	1
+45	12	E	upside down	1	orientation and transformation	1
+45	12	E	what	0	question	17
+45	12	E	where	0	question	3
+45	12	E	with	1	location and directions	5
+47	12	C	around	1	location and directions	1
+47	12	C	back	1	location and directions	1
+47	12	C	brown	0	color	1
+47	12	C	chicken	0	animal name	1
+47	12	C	close	1	location and directions	1
+47	12	C	cow	0	animal name	4
+47	12	C	down	1	location and directions	1
+47	12	C	face	0	body part	2
+47	12	C	flip	1	orientation and transformation	1
+47	12	C	ground	0	nature	2
+47	12	C	horse	0	animal name	3
+47	12	C	how	0	question	1
+47	12	C	i don't know	0	question	1
+47	12	C	maybe	0	question	2
+47	12	C	piece	1	continuous amount	3
+47	12	C	pink	0	color	1
+47	12	C	right	1	location and directions	8
+47	12	C	sideways	1	location and directions	1
+47	12	C	where	0	question	1
+47	12	C	whole	1	continuous amount	1
+47	12	C	with	1	location and directions	2
+47	12	E	back	1	location and directions	1
+47	12	E	can	0	question	5
+47	12	E	could	0	question	5
+47	12	E	cow	0	animal name	3
+47	12	E	did	0	question	6
+47	12	E	do	0	question	14
+47	12	E	does	0	question	1
+47	12	E	down	1	location and directions	1
+47	12	E	ground	0	nature	2
+47	12	E	hand	0	body part	1
+47	12	E	horse	0	animal name	2
+47	12	E	how	0	question	18
+47	12	E	in	1	location and directions	4
+47	12	E	out	1	location and directions	2
+47	12	E	piece	1	continuous amount	23
+47	12	E	place	1	location and directions	1
+47	12	E	point	1	spatial features and properties	1
+47	12	E	right	1	location and directions	15
+47	12	E	sideways	1	location and directions	2
+47	12	E	what	0	question	21
+47	12	E	where	0	question	7
+47	12	E	why	0	question	7
+47	12	E	with	1	location and directions	3
+48	12	C	a little	1	continuous amount	1
+48	12	C	around	1	location and directions	3
+48	12	C	black	0	color	1
+48	12	C	blue	0	color	1
+48	12	C	cow	0	animal name	2
+48	12	C	in	1	location and directions	1
+48	12	C	maybe	0	question	1
+48	12	C	right	1	location and directions	17
+48	12	C	shape	1	shapes	2
+48	12	C	sun	0	nature	1
+48	12	C	triangle	1	shapes	6
+48	12	C	turn	1	orientation and transformation	3
+48	12	C	upside down	1	orientation and transformation	2
+48	12	C	when	0	question	1
+48	12	E	around	1	location and directions	4
+48	12	E	black	0	color	1
+48	12	E	can	0	question	7
+48	12	E	could	0	question	9
+48	12	E	cow	0	animal name	1
+48	12	E	did	0	question	1
+48	12	E	do	0	question	11
+48	12	E	does	0	question	1
+48	12	E	how	0	question	17
+48	12	E	in	1	location and directions	3
+48	12	E	piece	1	continuous amount	19
+48	12	E	right	1	location and directions	13
+48	12	E	shape	1	shapes	2
+48	12	E	triangle	1	shapes	4
+48	12	E	turn	1	orientation and transformation	4
+48	12	E	upside down	1	orientation and transformation	2
+48	12	E	what	0	question	14
+48	12	E	where	0	question	8
+48	12	E	why	0	question	3
+48	12	E	with	1	location and directions	2
+49	12	C	around	1	location and directions	1
+49	12	C	barn	0	nature	1
+49	12	C	bottom	1	location and directions	1
+49	12	C	cat	0	animal name	2
+49	12	C	chicken	0	animal name	1
+49	12	C	corn	0	nature	1
+49	12	C	corner	1	spatial features and properties	3
+49	12	C	cow	0	animal name	2
+49	12	C	edge	1	spatial features and properties	1
+49	12	C	flat	1	spatial features and properties	1
+49	12	C	foot	0	body part	1
+49	12	C	hair	0	body part	1
+49	12	C	horse	0	animal name	3
+49	12	C	over	1	location and directions	10
+49	12	C	pig	0	animal name	2
+49	12	C	right	1	location and directions	14
+49	12	C	shape	1	shapes	1
+49	12	C	side	1	spatial features and properties	1
+49	12	C	turn	1	orientation and transformation	11
+49	12	C	up	1	location and directions	1
+49	12	C	upside down	1	orientation and transformation	6
+49	12	C	with	1	location and directions	1
+49	12	E	around	1	location and directions	1
+49	12	E	bottom	1	location and directions	1
+49	12	E	corner	1	spatial features and properties	2
+49	12	E	could	0	question	5
+49	12	E	cow	0	animal name	1
+49	12	E	did	0	question	5
+49	12	E	do	0	question	16
+49	12	E	edge	1	spatial features and properties	1
+49	12	E	flat	1	spatial features and properties	1
+49	12	E	how	0	question	24
+49	12	E	in	1	location and directions	1
+49	12	E	over	1	location and directions	6
+49	12	E	piece	1	continuous amount	14
+49	12	E	pig	0	animal name	1
+49	12	E	right	1	location and directions	8
+49	12	E	shape	1	shapes	1
+49	12	E	should i	0	question	2
+49	12	E	side	1	spatial features and properties	1
+49	12	E	turn	1	orientation and transformation	6
+49	12	E	upside down	1	orientation and transformation	3
+49	12	E	what	0	question	16
+49	12	E	where	0	question	3
+49	12	E	with	1	location and directions	3
+5	12	C	cow	0	animal name	2
+5	12	C	do	0	question	1
+5	12	C	duck	0	animal name	1
+5	12	C	horse	0	animal name	1
+5	12	C	in	1	location and directions	1
+5	12	C	leg	0	body part	1
+5	12	C	middle	1	location and directions	1
+5	12	C	nose	0	body part	1
+5	12	C	over	1	location and directions	1
+5	12	C	part	1	continuous amount	7
+5	12	C	pig	0	animal name	1
+5	12	C	right	1	location and directions	7
+5	12	C	sheep	0	animal name	1
+5	12	C	under	1	location and directions	1
+5	12	C	upside down	1	orientation and transformation	1
+5	12	E	can	0	question	10
+5	12	E	could	0	question	1
+5	12	E	cow	0	animal name	2
+5	12	E	did	0	question	6
+5	12	E	do	0	question	22
+5	12	E	does	0	question	3
+5	12	E	horse	0	animal name	1
+5	12	E	how	0	question	19
+5	12	E	in	1	location and directions	1
+5	12	E	leg	0	body part	1
+5	12	E	nose	0	body part	1
+5	12	E	part	1	continuous amount	1
+5	12	E	piece	1	continuous amount	19
+5	12	E	right	1	location and directions	7
+5	12	E	sheep	0	animal name	1
+5	12	E	should i	0	question	1
+5	12	E	together	1	location and directions	2
+5	12	E	under	1	location and directions	1
+5	12	E	upside down	1	orientation and transformation	1
+5	12	E	what	0	question	17
+5	12	E	where	0	question	7
+5	12	E	whole	1	continuous amount	1
+5	12	E	why	0	question	5
+5	12	E	with	1	location and directions	15
+50	12	C	cat	0	animal name	1
+50	12	C	does	0	question	5
+50	12	C	face	0	body part	1
+50	12	C	right	1	location and directions	4
+50	12	E	can	0	question	5
+50	12	E	did	0	question	1
+50	12	E	do	0	question	13
+50	12	E	does	0	question	2
+50	12	E	how	0	question	16
+50	12	E	in	1	location and directions	1
+50	12	E	piece	1	continuous amount	7
+50	12	E	right	1	location and directions	1
+50	12	E	sheep	0	animal name	1
+50	12	E	should i	0	question	6
+50	12	E	what	0	question	16
+50	12	E	with	1	location and directions	7
+51	12	C	around	1	location and directions	4
+51	12	C	cow	0	animal name	1
+51	12	C	duck	0	animal name	1
+51	12	C	face	0	body part	2
+51	12	C	horse	0	animal name	1
+51	12	C	how	0	question	1
+51	12	C	in	1	location and directions	1
+51	12	C	over	1	location and directions	1
+51	12	C	part	1	continuous amount	1
+51	12	C	pig	0	animal name	2
+51	12	C	right	1	location and directions	1
+51	12	C	round	1	spatial features and properties	1
+51	12	C	turn	1	orientation and transformation	4
+51	12	E	around	1	location and directions	2
+51	12	E	back	1	location and directions	1
+51	12	E	can	0	question	3
+51	12	E	cow	0	animal name	1
+51	12	E	do	0	question	21
+51	12	E	face	0	body part	1
+51	12	E	horse	0	animal name	1
+51	12	E	how	0	question	12
+51	12	E	is this	0	question	1
+51	12	E	out	1	location and directions	1
+51	12	E	over	1	location and directions	1
+51	12	E	piece	1	continuous amount	10
+51	12	E	right	1	location and directions	5
+51	12	E	should i	0	question	9
+51	12	E	side	1	spatial features and properties	1
+51	12	E	turn	1	orientation and transformation	2
+51	12	E	what	0	question	13
+51	12	E	where	0	question	1
+51	12	E	with	1	location and directions	12
+52	12	C	bubbles	0	nature	1
+52	12	C	can	0	question	4
+52	12	C	close	1	location and directions	3
+52	12	C	could	0	question	1
+52	12	C	cow	0	animal name	1
+52	12	C	direction	1	location and directions	15
+52	12	C	do	0	question	2
+52	12	C	duck	0	animal name	1
+52	12	C	eye	0	body part	3
+52	12	C	how	0	question	2
+52	12	C	in	1	location and directions	2
+52	12	C	maybe	0	question	1
+52	12	C	piece	1	continuous amount	5
+52	12	C	right	1	location and directions	17
+52	12	C	side	1	spatial features and properties	1
+52	12	C	together	1	location and directions	1
+52	12	C	when	0	question	1
+52	12	C	whole	1	continuous amount	1
+52	12	C	with	1	location and directions	1
+52	12	E	back	1	location and directions	2
+52	12	E	can	0	question	11
+52	12	E	could	0	question	6
+52	12	E	did	0	question	6
+52	12	E	direction	1	location and directions	2
+52	12	E	do	0	question	23
+52	12	E	does	0	question	6
+52	12	E	eye	0	body part	1
+52	12	E	how	0	question	18
+52	12	E	piece	1	continuous amount	26
+52	12	E	point	1	spatial features and properties	1
+52	12	E	right	1	location and directions	1
+52	12	E	should i	0	question	9
+52	12	E	side	1	spatial features and properties	1
+52	12	E	what	0	question	18
+52	12	E	where	0	question	14
+52	12	E	will	0	question	1
+52	12	E	with	1	location and directions	16
+53	12	C	all	1	continuous amount	1
+53	12	C	beak	0	body part	1
+53	12	C	black	0	color	1
+53	12	C	body	0	body part	3
+53	12	C	bottom	1	location and directions	1
+53	12	C	brown	0	color	1
+53	12	C	can	0	question	4
+53	12	C	cat	0	animal name	1
+53	12	C	chicken	0	animal name	1
+53	12	C	connect	1	location and directions	1
+53	12	C	corner	1	spatial features and properties	2
+53	12	C	could	0	question	11
+53	12	C	did	0	question	1
+53	12	C	down	1	location and directions	2
+53	12	C	face	0	body part	3
+53	12	C	flip	1	orientation and transformation	4
+53	12	C	hand	0	body part	2
+53	12	C	horse	0	animal name	1
+53	12	C	how	0	question	1
+53	12	C	i don't know	0	question	1
+53	12	C	leg	0	body part	2
+53	12	C	line	1	spatial features and properties	1
+53	12	C	maybe	0	question	26
+53	12	C	out	1	location and directions	1
+53	12	C	over	1	location and directions	11
+53	12	C	piece	1	continuous amount	3
+53	12	C	pig	0	animal name	2
+53	12	C	place	1	location and directions	3
+53	12	C	right	1	location and directions	15
+53	12	C	side	1	spatial features and properties	1
+53	12	C	straight	1	spatial features and properties	1
+53	12	C	what	0	question	1
+53	12	C	where	0	question	3
+53	12	E	bottom	1	location and directions	1
+53	12	E	can	0	question	8
+53	12	E	corner	1	spatial features and properties	4
+53	12	E	could	0	question	5
+53	12	E	did	0	question	7
+53	12	E	do	0	question	17
+53	12	E	flip	1	orientation and transformation	6
+53	12	E	how	0	question	17
+53	12	E	in	1	location and directions	2
+53	12	E	line	1	spatial features and properties	1
+53	12	E	over	1	location and directions	1
+53	12	E	piece	1	continuous amount	20
+53	12	E	place	1	location and directions	1
+53	12	E	point	1	spatial features and properties	1
+53	12	E	right	1	location and directions	9
+53	12	E	straight	1	spatial features and properties	1
+53	12	E	what	0	question	25
+53	12	E	where	0	question	11
+53	12	E	why	0	question	5
+53	12	E	with	1	location and directions	4
+54	12	C	barn	0	nature	2
+54	12	C	bottom	1	location and directions	2
+54	12	C	cat	0	animal name	1
+54	12	C	cow	0	animal name	2
+54	12	C	down	1	location and directions	5
+54	12	C	horse	0	animal name	2
+54	12	C	over	1	location and directions	1
+54	12	C	pig	0	animal name	1
+54	12	C	right	1	location and directions	3
+54	12	C	sheep	0	animal name	2
+54	12	C	where	0	question	1
+54	12	C	with	1	location and directions	2
+54	12	E	barn	0	nature	1
+54	12	E	bottom	1	location and directions	2
+54	12	E	can	0	question	10
+54	12	E	could	0	question	3
+54	12	E	do	0	question	8
+54	12	E	does	0	question	1
+54	12	E	down	1	location and directions	2
+54	12	E	horse	0	animal name	1
+54	12	E	how	0	question	7
+54	12	E	in	1	location and directions	1
+54	12	E	piece	1	continuous amount	12
+54	12	E	right	1	location and directions	4
+54	12	E	sheep	0	animal name	1
+54	12	E	what	0	question	15
+54	12	E	where	0	question	4
+54	12	E	why	0	question	1
+54	12	E	with	1	location and directions	4
+56	12	C	chicken	0	animal name	2
+56	12	C	does	0	question	1
+56	12	C	down	1	location and directions	2
+56	12	C	eye	0	body part	1
+56	12	C	face	0	body part	2
+56	12	C	half 	1	continuous amount	1
+56	12	C	i don't know	0	question	1
+56	12	C	is that	0	question	1
+56	12	C	maybe	0	question	15
+56	12	C	part	1	continuous amount	1
+56	12	C	pig	0	animal name	1
+56	12	C	right	1	location and directions	11
+56	12	C	side	1	spatial features and properties	12
+56	12	C	spots	0	body part	1
+56	12	C	sun	0	nature	1
+56	12	C	tail	0	body part	1
+56	12	C	turn	1	orientation and transformation	1
+56	12	C	up	1	location and directions	3
+56	12	C	upside down	1	orientation and transformation	1
+56	12	C	where	0	question	1
+56	12	E	can	0	question	4
+56	12	E	could	0	question	4
+56	12	E	do	0	question	17
+56	12	E	down	1	location and directions	1
+56	12	E	face	0	body part	1
+56	12	E	how	0	question	17
+56	12	E	i don't know	0	question	1
+56	12	E	is that	0	question	1
+56	12	E	piece	1	continuous amount	14
+56	12	E	right	1	location and directions	6
+56	12	E	tail	0	body part	1
+56	12	E	up	1	location and directions	1
+56	12	E	what	0	question	23
+56	12	E	where	0	question	3
+56	12	E	why	0	question	4
+56	12	E	with	1	location and directions	10
+57	12	C	back	1	location and directions	1
+57	12	C	big	1	spatial dimension	2
+57	12	C	can	0	question	1
+57	12	C	chicken	0	animal name	1
+57	12	C	could	0	question	1
+57	12	C	cow	0	animal name	1
+57	12	C	do	0	question	2
+57	12	C	duck	0	animal name	3
+57	12	C	face	0	body part	1
+57	12	C	flip	1	orientation and transformation	1
+57	12	C	hair	0	body part	1
+57	12	C	how	0	question	1
+57	12	C	in	1	location and directions	2
+57	12	C	leg	0	body part	2
+57	12	C	little	1	spatial dimension	3
+57	12	C	maybe	0	question	3
+57	12	C	piece	1	continuous amount	2
+57	12	C	red	0	color	1
+57	12	C	right	1	location and directions	12
+57	12	C	tail	0	body part	2
+57	12	C	turn	1	orientation and transformation	1
+57	12	C	water	0	nature	2
+57	12	C	where	0	question	1
+57	12	E	all	1	continuous amount	3
+57	12	E	can	0	question	1
+57	12	E	did	0	question	3
+57	12	E	do	0	question	12
+57	12	E	flip	1	orientation and transformation	1
+57	12	E	how	0	question	12
+57	12	E	is that	0	question	2
+57	12	E	leg	0	body part	1
+57	12	E	over	1	location and directions	1
+57	12	E	piece	1	continuous amount	15
+57	12	E	right	1	location and directions	6
+57	12	E	should i	0	question	15
+57	12	E	side	1	spatial features and properties	1
+57	12	E	turn	1	orientation and transformation	2
+57	12	E	what	0	question	17
+57	12	E	where	0	question	3
+57	12	E	will	0	question	1
+57	12	E	with	1	location and directions	10
+58	12	C	all	1	continuous amount	1
+58	12	C	around	1	location and directions	4
+58	12	C	barn	0	nature	1
+58	12	C	circle	1	shapes	1
+58	12	C	down	1	location and directions	4
+58	12	C	i don't know	0	question	1
+58	12	C	over	1	location and directions	1
+58	12	C	piece	1	continuous amount	2
+58	12	C	right	1	location and directions	18
+58	12	C	tail	0	body part	2
+58	12	C	turn	1	orientation and transformation	4
+58	12	C	where	0	question	1
+58	12	C	why	0	question	1
+58	12	E	around	1	location and directions	2
+58	12	E	barn	0	nature	1
+58	12	E	can	0	question	6
+58	12	E	could	0	question	5
+58	12	E	did	0	question	1
+58	12	E	do	0	question	21
+58	12	E	down	1	location and directions	3
+58	12	E	how	0	question	14
+58	12	E	in	1	location and directions	1
+58	12	E	over	1	location and directions	2
+58	12	E	piece	1	continuous amount	13
+58	12	E	right	1	location and directions	12
+58	12	E	tail	0	body part	1
+58	12	E	turn	1	orientation and transformation	3
+58	12	E	what	0	question	19
+58	12	E	where	0	question	5
+58	12	E	why	0	question	2
+58	12	E	with	1	location and directions	6
+59	12	C	brown	0	color	2
+59	12	C	can	0	question	1
+59	12	C	cat	0	animal name	3
+59	12	C	chicken	0	animal name	1
+59	12	C	cow	0	animal name	3
+59	12	C	horse	0	animal name	2
+59	12	C	i don't know	0	question	5
+59	12	C	piece	1	continuous amount	2
+59	12	C	pig	0	animal name	2
+59	12	C	right	1	location and directions	25
+59	12	C	through	1	location and directions	1
+59	12	C	upside down	1	orientation and transformation	1
+59	12	C	water	0	nature	1
+59	12	E	can	0	question	12
+59	12	E	could	0	question	5
+59	12	E	cow	0	animal name	3
+59	12	E	did	0	question	2
+59	12	E	do	0	question	18
+59	12	E	does	0	question	2
+59	12	E	how	0	question	12
+59	12	E	in	1	location and directions	3
+59	12	E	piece	1	continuous amount	20
+59	12	E	pig	0	animal name	2
+59	12	E	right	1	location and directions	14
+59	12	E	upside down	1	orientation and transformation	1
+59	12	E	what	0	question	22
+59	12	E	where	0	question	8
+59	12	E	why	0	question	2
+59	12	E	with	1	location and directions	7
+6	12	C	by	1	location and directions	1
+6	12	C	corner	1	spatial features and properties	3
+6	12	C	cow	0	animal name	2
+6	12	C	down	1	location and directions	2
+6	12	C	horse	0	animal name	1
+6	12	C	left	1	location and directions	1
+6	12	C	mouth	0	body part	2
+6	12	C	part	1	continuous amount	7
+6	12	C	pig	0	animal name	2
+6	12	C	right	1	location and directions	11
+6	12	C	sheep	0	animal name	2
+6	12	C	up	1	location and directions	2
+6	12	E	a little	1	continuous amount	1
+6	12	E	can	0	question	4
+6	12	E	corner	1	spatial features and properties	4
+6	12	E	did	0	question	2
+6	12	E	do	0	question	6
+6	12	E	does	0	question	1
+6	12	E	how	0	question	17
+6	12	E	in	1	location and directions	1
+6	12	E	is that	0	question	1
+6	12	E	left	1	location and directions	1
+6	12	E	out	1	location and directions	1
+6	12	E	part	1	continuous amount	1
+6	12	E	piece	1	continuous amount	14
+6	12	E	pig	0	animal name	1
+6	12	E	right	1	location and directions	14
+6	12	E	should i	0	question	2
+6	12	E	together	1	location and directions	1
+6	12	E	up	1	location and directions	1
+6	12	E	what	0	question	10
+6	12	E	where	0	question	8
+6	12	E	whole	1	continuous amount	1
+6	12	E	with	1	location and directions	4
+61	12	C	a little	1	continuous amount	2
+61	12	C	aside	1	location and directions	1
+61	12	C	can	0	question	1
+61	12	C	cow	0	animal name	1
+61	12	C	did	0	question	1
+61	12	C	do	0	question	1
+61	12	C	maybe	0	question	5
+61	12	C	out	1	location and directions	1
+61	12	C	over	1	location and directions	1
+61	12	C	part	1	continuous amount	2
+61	12	C	piece	1	continuous amount	2
+61	12	C	sheep	0	animal name	1
+61	12	C	turn	1	orientation and transformation	4
+61	12	C	up	1	location and directions	2
+61	12	C	where	0	question	1
+61	12	C	will	0	question	1
+61	12	E	back	1	location and directions	1
+61	12	E	can	0	question	1
+61	12	E	did	0	question	1
+61	12	E	do	0	question	7
+61	12	E	does	0	question	2
+61	12	E	how	0	question	9
+61	12	E	piece	1	continuous amount	10
+61	12	E	should i	0	question	4
+61	12	E	side	1	spatial features and properties	1
+61	12	E	turn	1	orientation and transformation	1
+61	12	E	up	1	location and directions	1
+61	12	E	what	0	question	11
+61	12	E	where	0	question	4
+61	12	E	with	1	location and directions	5
+62	12	C	can	0	question	2
+62	12	C	do	0	question	2
+62	12	C	face	0	body part	1
+62	12	C	horse	0	animal name	1
+62	12	C	how	0	question	1
+62	12	C	maybe	0	question	4
+62	12	C	over	1	location and directions	2
+62	12	C	piece	1	continuous amount	2
+62	12	C	pig	0	animal name	1
+62	12	C	right	1	location and directions	9
+62	12	C	turn	1	orientation and transformation	10
+62	12	C	upside down	1	orientation and transformation	3
+62	12	C	where	0	question	1
+62	12	E	can	0	question	2
+62	12	E	could	0	question	3
+62	12	E	did	0	question	3
+62	12	E	do	0	question	20
+62	12	E	how	0	question	18
+62	12	E	in	1	location and directions	1
+62	12	E	piece	1	continuous amount	22
+62	12	E	right	1	location and directions	14
+62	12	E	should i	0	question	2
+62	12	E	turn	1	orientation and transformation	6
+62	12	E	upside down	1	orientation and transformation	3
+62	12	E	what	0	question	19
+62	12	E	where	0	question	1
+62	12	E	with	1	location and directions	10
+63	12	C	around	1	location and directions	2
+63	12	C	cat	0	animal name	1
+63	12	C	i don't know	0	question	3
+63	12	C	in	1	location and directions	7
+63	12	C	part	1	continuous amount	2
+63	12	C	pig	0	animal name	2
+63	12	C	right	1	location and directions	1
+63	12	C	turn	1	orientation and transformation	2
+63	12	C	where	0	question	1
+63	12	E	around	1	location and directions	3
+63	12	E	can	0	question	11
+63	12	E	could	0	question	2
+63	12	E	did	0	question	3
+63	12	E	do	0	question	24
+63	12	E	how	0	question	20
+63	12	E	in	1	location and directions	1
+63	12	E	piece	1	continuous amount	20
+63	12	E	right	1	location and directions	9
+63	12	E	should i	0	question	1
+63	12	E	turn	1	orientation and transformation	3
+63	12	E	what	0	question	29
+63	12	E	where	0	question	2
+63	12	E	with	1	location and directions	11
+64	12	C	around	1	location and directions	5
+64	12	C	cat	0	animal name	1
+64	12	C	corn	0	nature	2
+64	12	C	could	0	question	1
+64	12	C	did	0	question	1
+64	12	C	i don't know	0	question	1
+64	12	C	part	1	continuous amount	2
+64	12	C	pig	0	animal name	2
+64	12	C	right	1	location and directions	6
+64	12	C	turn	1	orientation and transformation	5
+64	12	C	where	0	question	1
+64	12	E	around	1	location and directions	4
+64	12	E	can	0	question	11
+64	12	E	cat	0	animal name	1
+64	12	E	corn	0	nature	1
+64	12	E	could	0	question	6
+64	12	E	did	0	question	1
+64	12	E	do	0	question	24
+64	12	E	ground	0	nature	1
+64	12	E	how	0	question	13
+64	12	E	in	1	location and directions	5
+64	12	E	part	1	continuous amount	2
+64	12	E	piece	1	continuous amount	18
+64	12	E	pig	0	animal name	1
+64	12	E	point	1	spatial features and properties	1
+64	12	E	right	1	location and directions	12
+64	12	E	should i	0	question	1
+64	12	E	turn	1	orientation and transformation	4
+64	12	E	up	1	location and directions	1
+64	12	E	what	0	question	28
+64	12	E	where	0	question	3
+64	12	E	why	0	question	2
+64	12	E	with	1	location and directions	11
+65	12	C	a little	1	continuous amount	1
+65	12	C	a lot	1	continuous amount	1
+65	12	C	animal	0	animal name	2
+65	12	C	around	1	location and directions	1
+65	12	C	bit	1	continuous amount	1
+65	12	C	black	0	color	1
+65	12	C	body	0	body part	1
+65	12	C	cow	0	animal name	1
+65	12	C	dirt	0	nature	1
+65	12	C	do	0	question	1
+65	12	C	duck	0	animal name	1
+65	12	C	head	0	body part	3
+65	12	C	horse	0	animal name	1
+65	12	C	i don't know	0	question	3
+65	12	C	in	1	location and directions	1
+65	12	C	maybe	0	question	8
+65	12	C	part	1	continuous amount	4
+65	12	C	pig	0	animal name	1
+65	12	C	plants	0	nature	1
+65	12	C	right	1	location and directions	11
+65	12	C	sheep	0	animal name	1
+65	12	C	stick	0	nature	1
+65	12	C	tail	0	body part	3
+65	12	C	turn	1	orientation and transformation	1
+65	12	C	up	1	location and directions	1
+65	12	C	what	0	question	1
+65	12	E	all	1	continuous amount	1
+65	12	E	around	1	location and directions	1
+65	12	E	body	0	body part	1
+65	12	E	can	0	question	10
+65	12	E	cow	0	animal name	1
+65	12	E	did	0	question	9
+65	12	E	do	0	question	32
+65	12	E	does	0	question	3
+65	12	E	duck	0	animal name	1
+65	12	E	horse	0	animal name	1
+65	12	E	how	0	question	11
+65	12	E	in	1	location and directions	1
+65	12	E	is that	0	question	1
+65	12	E	part	1	continuous amount	2
+65	12	E	piece	1	continuous amount	15
+65	12	E	plants	0	nature	1
+65	12	E	right	1	location and directions	18
+65	12	E	sheep	0	animal name	1
+65	12	E	should i	0	question	16
+65	12	E	stick	0	nature	1
+65	12	E	tail	0	body part	3
+65	12	E	turn	1	orientation and transformation	1
+65	12	E	what	0	question	24
+65	12	E	where	0	question	6
+65	12	E	whole	1	continuous amount	1
+65	12	E	why	0	question	1
+65	12	E	with	1	location and directions	19
+66	12	C	cat	0	animal name	2
+66	12	C	chicken	0	animal name	2
+66	12	C	cow	0	animal name	2
+66	12	C	ear	0	body part	1
+66	12	C	face	0	body part	2
+66	12	C	horse	0	animal name	2
+66	12	C	is that	0	question	1
+66	12	C	over	1	location and directions	14
+66	12	C	pig	0	animal name	2
+66	12	C	right	1	location and directions	12
+66	12	C	sheep	0	animal name	1
+66	12	C	side	1	spatial features and properties	1
+66	12	C	tail	0	body part	1
+66	12	C	top	1	location and directions	1
+66	12	C	turn	1	orientation and transformation	18
+66	12	C	what	0	question	1
+66	12	C	where	0	question	1
+66	12	C	with	1	location and directions	1
+66	12	E	can	0	question	9
+66	12	E	could	0	question	3
+66	12	E	did	0	question	3
+66	12	E	do	0	question	22
+66	12	E	how	0	question	18
+66	12	E	in	1	location and directions	2
+66	12	E	over	1	location and directions	3
+66	12	E	piece	1	continuous amount	14
+66	12	E	right	1	location and directions	6
+66	12	E	should i	0	question	3
+66	12	E	turn	1	orientation and transformation	5
+66	12	E	what	0	question	23
+66	12	E	why	0	question	2
+66	12	E	with	1	location and directions	13
+67	12	C	around	1	location and directions	6
+67	12	C	turn	1	orientation and transformation	7
+67	12	E	can	0	question	1
+67	12	E	did	0	question	1
+67	12	E	do	0	question	8
+67	12	E	how	0	question	6
+67	12	E	piece	1	continuous amount	6
+67	12	E	should i	0	question	9
+67	12	E	what	0	question	14
+67	12	E	where	0	question	1
+67	12	E	with	1	location and directions	5
+68	12	C	horse	0	animal name	1
+68	12	C	right	1	location and directions	1
+68	12	E	back	1	location and directions	2
+68	12	E	can	0	question	6
+68	12	E	do	0	question	30
+68	12	E	does	0	question	2
+68	12	E	horse	0	animal name	2
+68	12	E	how	0	question	11
+68	12	E	piece	1	continuous amount	31
+68	12	E	right	1	location and directions	9
+68	12	E	together	1	location and directions	1
+68	12	E	what	0	question	28
+68	12	E	where	0	question	1
+68	12	E	why	0	question	5
+68	12	E	with	1	location and directions	11
+7	12	C	around	1	location and directions	1
+7	12	C	cat	0	animal name	1
+7	12	C	corner	1	spatial features and properties	1
+7	12	C	cow	0	animal name	1
+7	12	C	half 	1	continuous amount	1
+7	12	C	i don't know	0	question	3
+7	12	C	part	1	continuous amount	3
+7	12	C	pig	0	animal name	1
+7	12	C	right	1	location and directions	1
+7	12	C	sand	0	nature	1
+7	12	C	turn	1	orientation and transformation	1
+7	12	C	up	1	location and directions	1
+7	12	E	a little	1	continuous amount	1
+7	12	E	all	1	continuous amount	1
+7	12	E	around	1	location and directions	1
+7	12	E	barn	0	nature	1
+7	12	E	can	0	question	11
+7	12	E	chicken	0	animal name	1
+7	12	E	corner	1	spatial features and properties	1
+7	12	E	did	0	question	2
+7	12	E	do	0	question	19
+7	12	E	does	0	question	3
+7	12	E	how	0	question	14
+7	12	E	part	1	continuous amount	2
+7	12	E	piece	1	continuous amount	17
+7	12	E	pig	0	animal name	1
+7	12	E	right	1	location and directions	5
+7	12	E	should i	0	question	3
+7	12	E	turn	1	orientation and transformation	1
+7	12	E	what	0	question	20
+7	12	E	where	0	question	8
+7	12	E	will	0	question	1
+7	12	E	with	1	location and directions	10
+70	12	C	does	0	question	1
+70	12	C	leg	0	body part	1
+70	12	C	right	1	location and directions	1
+70	12	C	water	0	nature	1
+70	12	C	where	0	question	1
+70	12	E	aside	1	location and directions	1
+70	12	E	back	1	location and directions	1
+70	12	E	can	0	question	5
+70	12	E	could	0	question	2
+70	12	E	do	0	question	13
+70	12	E	how	0	question	10
+70	12	E	in	1	location and directions	1
+70	12	E	is that	0	question	1
+70	12	E	piece	1	continuous amount	9
+70	12	E	right	1	location and directions	3
+70	12	E	should i	0	question	5
+70	12	E	together	1	location and directions	1
+70	12	E	what	0	question	15
+70	12	E	where	0	question	10
+70	12	E	with	1	location and directions	5
+72	12	C	a little	1	continuous amount	1
+72	12	C	all	1	continuous amount	1
+72	12	C	bit	1	continuous amount	1
+72	12	C	black	0	color	1
+72	12	C	can	0	question	2
+72	12	C	cat	0	animal name	1
+72	12	C	corner	1	spatial features and properties	1
+72	12	C	cow	0	animal name	1
+72	12	C	did	0	question	1
+72	12	C	face	0	body part	2
+72	12	C	in	1	location and directions	2
+72	12	C	over	1	location and directions	2
+72	12	C	right	1	location and directions	19
+72	12	C	sheep	0	animal name	1
+72	12	C	some	1	continuous amount	1
+72	12	C	up	1	location and directions	1
+72	12	C	upside down	1	orientation and transformation	1
+72	12	C	white	0	color	1
+72	12	C	with	1	location and directions	2
+72	12	E	can	0	question	10
+72	12	E	could	0	question	3
+72	12	E	do	0	question	13
+72	12	E	does	0	question	1
+72	12	E	how	0	question	14
+72	12	E	in	1	location and directions	3
+72	12	E	piece	1	continuous amount	13
+72	12	E	right	1	location and directions	9
+72	12	E	should i	0	question	2
+72	12	E	together	1	location and directions	1
+72	12	E	turn	1	orientation and transformation	4
+72	12	E	what	0	question	14
+72	12	E	where	0	question	6
+72	12	E	why	0	question	3
+72	12	E	with	1	location and directions	11
+74	12	E	back	1	location and directions	3
+74	12	E	can	0	question	5
+74	12	E	could	0	question	2
+74	12	E	do	0	question	29
+74	12	E	does	0	question	5
+74	12	E	how	0	question	14
+74	12	E	out	1	location and directions	4
+74	12	E	piece	1	continuous amount	32
+74	12	E	right	1	location and directions	2
+74	12	E	what	0	question	22
+74	12	E	where	0	question	12
+74	12	E	why	0	question	2
+74	12	E	with	1	location and directions	9
+76	12	C	around	1	location and directions	10
+76	12	C	can	0	question	1
+76	12	C	do	0	question	2
+76	12	C	i don't know	0	question	1
+76	12	C	pig	0	animal name	2
+76	12	C	right	1	location and directions	9
+76	12	C	turn	1	orientation and transformation	11
+76	12	C	where	0	question	1
+76	12	C	why	0	question	1
+76	12	C	with	1	location and directions	1
+76	12	E	can	0	question	6
+76	12	E	did	0	question	4
+76	12	E	do	0	question	25
+76	12	E	does	0	question	12
+76	12	E	high	1	location and directions	1
+76	12	E	how	0	question	18
+76	12	E	piece	1	continuous amount	2
+76	12	E	place	1	location and directions	2
+76	12	E	point	1	spatial features and properties	6
+76	12	E	right	1	location and directions	17
+76	12	E	should i	0	question	12
+76	12	E	what	0	question	10
+76	12	E	where	0	question	41
+76	12	E	which	0	question	2
+76	12	E	with	1	location and directions	6
+79	12	C	a little	1	continuous amount	2
+79	12	C	all	1	continuous amount	1
+79	12	C	animal	0	animal name	4
+79	12	C	blue	0	color	1
+79	12	C	could	0	question	1
+79	12	C	cow	0	animal name	1
+79	12	C	do	0	question	3
+79	12	C	in	1	location and directions	1
+79	12	C	maybe	0	question	6
+79	12	C	over	1	location and directions	1
+79	12	C	piece	1	continuous amount	2
+79	12	C	right	1	location and directions	2
+79	12	C	sky	0	nature	1
+79	12	C	when	0	question	1
+79	12	C	where	0	question	2
+79	12	C	with	1	location and directions	2
+79	12	E	a little	1	continuous amount	1
+79	12	E	animal	0	animal name	1
+79	12	E	back	1	location and directions	2
+79	12	E	blue	0	color	1
+79	12	E	can	0	question	1
+79	12	E	could	0	question	5
+79	12	E	did	0	question	3
+79	12	E	do	0	question	8
+79	12	E	does	0	question	3
+79	12	E	how	0	question	11
+79	12	E	is that	0	question	1
+79	12	E	piece	1	continuous amount	8
+79	12	E	should i	0	question	2
+79	12	E	sky	0	nature	1
+79	12	E	what	0	question	14
+79	12	E	where	0	question	11
+79	12	E	with	1	location and directions	3
+8	12	C	a little	1	continuous amount	2
+8	12	C	all	1	continuous amount	1
+8	12	C	big	1	spatial dimension	2
+8	12	C	by	1	location and directions	1
+8	12	C	can	0	question	2
+8	12	C	connect	1	location and directions	1
+8	12	C	do	0	question	3
+8	12	C	does	0	question	2
+8	12	C	how	0	question	2
+8	12	C	i don't know	0	question	5
+8	12	C	in	1	location and directions	4
+8	12	C	out	1	location and directions	2
+8	12	C	what	0	question	2
+8	12	E	all	1	continuous amount	1
+8	12	E	big	1	spatial dimension	1
+8	12	E	can	0	question	13
+8	12	E	could	0	question	1
+8	12	E	did	0	question	1
+8	12	E	do	0	question	21
+8	12	E	does	0	question	11
+8	12	E	how	0	question	15
+8	12	E	i don't know	0	question	1
+8	12	E	is that	0	question	1
+8	12	E	left	1	location and directions	1
+8	12	E	out	1	location and directions	5
+8	12	E	piece	1	continuous amount	19
+8	12	E	point	1	spatial features and properties	1
+8	12	E	right	1	location and directions	11
+8	12	E	sheep	0	animal name	1
+8	12	E	should i	0	question	2
+8	12	E	up	1	location and directions	1
+8	12	E	what	0	question	23
+8	12	E	when	0	question	2
+8	12	E	where	0	question	7
+8	12	E	whole	1	continuous amount	1
+8	12	E	why	0	question	5
+8	12	E	will	0	question	1
+8	12	E	with	1	location and directions	9
+80	12	C	brown	0	color	1
+80	12	C	can	0	question	1
+80	12	C	cat	0	animal name	1
+80	12	C	chicken	0	animal name	1
+80	12	C	corner	1	spatial features and properties	2
+80	12	C	down	1	location and directions	1
+80	12	C	face	0	body part	2
+80	12	C	i don't know	0	question	1
+80	12	C	in	1	location and directions	1
+80	12	C	maybe	0	question	14
+80	12	C	piece	1	continuous amount	4
+80	12	C	pink	0	color	1
+80	12	C	up	1	location and directions	2
+80	12	E	brown	0	color	1
+80	12	E	can	0	question	1
+80	12	E	corner	1	spatial features and properties	2
+80	12	E	did	0	question	2
+80	12	E	do	0	question	6
+80	12	E	down	1	location and directions	1
+80	12	E	how	0	question	7
+80	12	E	in	1	location and directions	1
+80	12	E	out	1	location and directions	2
+80	12	E	piece	1	continuous amount	8
+80	12	E	should i	0	question	6
+80	12	E	what	0	question	14
+80	12	E	where	0	question	3
+80	12	E	with	1	location and directions	4
+81	12	C	over	1	location and directions	1
+81	12	C	right	1	location and directions	16
+81	12	C	with	1	location and directions	1
+81	12	E	can	0	question	3
+81	12	E	could	0	question	4
+81	12	E	do	0	question	11
+81	12	E	does	0	question	3
+81	12	E	how	0	question	10
+81	12	E	i don't know	0	question	2
+81	12	E	over	1	location and directions	1
+81	12	E	piece	1	continuous amount	8
+81	12	E	right	1	location and directions	5
+81	12	E	should i	0	question	8
+81	12	E	together	1	location and directions	3
+81	12	E	what	0	question	19
+81	12	E	where	0	question	12
+81	12	E	why	0	question	2
+81	12	E	with	1	location and directions	9
+82	12	C	by	1	location and directions	2
+82	12	C	can	0	question	1
+82	12	C	cow	0	animal name	2
+82	12	C	did	0	question	1
+82	12	C	does	0	question	6
+82	12	C	duck	0	animal name	1
+82	12	C	hair	0	body part	1
+82	12	C	horse	0	animal name	1
+82	12	C	piece	1	continuous amount	1
+82	12	C	right	1	location and directions	1
+82	12	C	tail	0	body part	1
+82	12	C	where	0	question	2
+82	12	C	will	0	question	1
+82	12	E	around	1	location and directions	1
+82	12	E	by	1	location and directions	1
+82	12	E	can	0	question	2
+82	12	E	could	0	question	2
+82	12	E	cow	0	animal name	1
+82	12	E	did	0	question	2
+82	12	E	do	0	question	8
+82	12	E	does	0	question	9
+82	12	E	duck	0	animal name	1
+82	12	E	how	0	question	10
+82	12	E	in	1	location and directions	1
+82	12	E	is that	0	question	2
+82	12	E	piece	1	continuous amount	10
+82	12	E	right	1	location and directions	2
+82	12	E	should i	0	question	3
+82	12	E	some	1	continuous amount	3
+82	12	E	together	1	location and directions	2
+82	12	E	what	0	question	10
+82	12	E	where	0	question	13
+82	12	E	whole	1	continuous amount	1
+82	12	E	why	0	question	5
+82	12	E	with	1	location and directions	3
+83	12	C	a little	1	continuous amount	2
+83	12	C	by	1	location and directions	2
+83	12	C	do	0	question	1
+83	12	C	hand	0	body part	1
+83	12	C	i don't know	0	question	1
+83	12	C	in	1	location and directions	2
+83	12	C	middle	1	location and directions	1
+83	12	C	over	1	location and directions	3
+83	12	C	piece	1	continuous amount	2
+83	12	C	pig	0	animal name	2
+83	12	C	red	0	color	1
+83	12	C	sheep	0	animal name	1
+83	12	C	up	1	location and directions	1
+83	12	C	where	0	question	2
+83	12	C	white	0	color	1
+83	12	C	will	0	question	2
+83	12	E	back	1	location and directions	2
+83	12	E	by	1	location and directions	2
+83	12	E	could	0	question	1
+83	12	E	do	0	question	13
+83	12	E	does	0	question	3
+83	12	E	how	0	question	7
+83	12	E	i don't know	0	question	1
+83	12	E	over	1	location and directions	3
+83	12	E	piece	1	continuous amount	4
+83	12	E	pig	0	animal name	1
+83	12	E	should i	0	question	4
+83	12	E	up	1	location and directions	1
+83	12	E	what	0	question	16
+83	12	E	where	0	question	1
+83	12	E	with	1	location and directions	8
+84	12	C	cat	0	animal name	1
+84	12	C	cow	0	animal name	1
+84	12	C	did	0	question	3
+84	12	C	head	0	body part	1
+84	12	C	i don't know	0	question	3
+84	12	C	in	1	location and directions	2
+84	12	C	over	1	location and directions	1
+84	12	C	right	1	location and directions	8
+84	12	C	where	0	question	3
+84	12	E	back	1	location and directions	4
+84	12	E	can	0	question	3
+84	12	E	could	0	question	1
+84	12	E	cow	0	animal name	1
+84	12	E	did	0	question	6
+84	12	E	do	0	question	9
+84	12	E	does	0	question	7
+84	12	E	head	0	body part	1
+84	12	E	how	0	question	14
+84	12	E	piece	1	continuous amount	11
+84	12	E	right	1	location and directions	1
+84	12	E	should i	0	question	7
+84	12	E	what	0	question	11
+84	12	E	where	0	question	9
+84	12	E	why	0	question	1
+84	12	E	with	1	location and directions	8
+86	12	C	black	0	color	1
+86	12	C	bottom	1	location and directions	1
+86	12	C	cow	0	animal name	1
+86	12	C	did	0	question	5
+86	12	C	line	1	spatial features and properties	1
+86	12	C	piece	1	continuous amount	1
+86	12	C	pink	0	color	1
+86	12	C	right	1	location and directions	1
+86	12	C	straight	1	spatial features and properties	1
+86	12	C	white	0	color	1
+86	12	E	bottom	1	location and directions	1
+86	12	E	did	0	question	4
+86	12	E	do	0	question	6
+86	12	E	how	0	question	12
+86	12	E	line	1	spatial features and properties	1
+86	12	E	piece	1	continuous amount	5
+86	12	E	should i	0	question	1
+86	12	E	straight	1	spatial features and properties	1
+86	12	E	what	0	question	11
+86	12	E	with	1	location and directions	2
+87	12	C	around	1	location and directions	4
+87	12	C	did	0	question	1
+87	12	C	edge	1	spatial features and properties	1
+87	12	C	flip	1	orientation and transformation	3
+87	12	C	over	1	location and directions	1
+87	12	C	right	1	location and directions	2
+87	12	C	turn	1	orientation and transformation	1
+87	12	C	upside down	1	orientation and transformation	1
+87	12	C	why	0	question	1
+87	12	E	around	1	location and directions	2
+87	12	E	did	0	question	3
+87	12	E	do	0	question	10
+87	12	E	does	0	question	1
+87	12	E	edge	1	spatial features and properties	1
+87	12	E	flip	1	orientation and transformation	3
+87	12	E	how	0	question	8
+87	12	E	piece	1	continuous amount	8
+87	12	E	right	1	location and directions	5
+87	12	E	should i	0	question	3
+87	12	E	upside down	1	orientation and transformation	1
+87	12	E	what	0	question	13
+87	12	E	where	0	question	1
+87	12	E	with	1	location and directions	6
+88	12	C	by	1	location and directions	2
+88	12	C	corn	0	nature	2
+88	12	C	cow	0	animal name	2
+88	12	C	do	0	question	3
+88	12	C	flip	1	orientation and transformation	1
+88	12	C	over	1	location and directions	2
+88	12	C	piece	1	continuous amount	1
+88	12	C	pig	0	animal name	1
+88	12	C	right	1	location and directions	12
+88	12	C	sheep	0	animal name	1
+88	12	C	turn	1	orientation and transformation	1
+88	12	C	where	0	question	1
+88	12	E	back	1	location and directions	4
+88	12	E	can	0	question	2
+88	12	E	corner	1	spatial features and properties	1
+88	12	E	do	0	question	15
+88	12	E	does	0	question	1
+88	12	E	flip	1	orientation and transformation	1
+88	12	E	how	0	question	9
+88	12	E	out	1	location and directions	1
+88	12	E	over	1	location and directions	1
+88	12	E	piece	1	continuous amount	7
+88	12	E	right	1	location and directions	2
+88	12	E	should i	0	question	5
+88	12	E	some	1	continuous amount	1
+88	12	E	what	0	question	17
+88	12	E	where	0	question	1
+88	12	E	which	0	question	1
+88	12	E	with	1	location and directions	6
+89	12	C	right	1	location and directions	1
+89	12	C	turn	1	orientation and transformation	4
+89	12	E	do	0	question	9
+89	12	E	does	0	question	1
+89	12	E	how	0	question	6
+89	12	E	piece	1	continuous amount	8
+89	12	E	right	1	location and directions	2
+89	12	E	should i	0	question	7
+89	12	E	turn	1	orientation and transformation	1
+89	12	E	what	0	question	15
+89	12	E	where	0	question	1
+89	12	E	with	1	location and directions	3
+9	12	C	a little	1	continuous amount	1
+9	12	C	bit	1	continuous amount	1
+9	12	C	cat	0	animal name	1
+9	12	C	corner	1	spatial features and properties	3
+9	12	C	i don't know	0	question	3
+9	12	C	leg	0	body part	1
+9	12	C	maybe	0	question	3
+9	12	C	part	1	continuous amount	1
+9	12	C	piece	1	continuous amount	3
+9	12	C	right	1	location and directions	4
+9	12	C	short	1	spatial dimension	1
+9	12	C	up	1	location and directions	1
+9	12	E	a little	1	continuous amount	1
+9	12	E	can	0	question	16
+9	12	E	corner	1	spatial features and properties	2
+9	12	E	could	0	question	5
+9	12	E	did	0	question	1
+9	12	E	do	0	question	19
+9	12	E	does	0	question	3
+9	12	E	how	0	question	9
+9	12	E	in	1	location and directions	1
+9	12	E	maybe	0	question	1
+9	12	E	out	1	location and directions	2
+9	12	E	part	1	continuous amount	1
+9	12	E	piece	1	continuous amount	14
+9	12	E	right	1	location and directions	1
+9	12	E	should i	0	question	1
+9	12	E	together	1	location and directions	1
+9	12	E	what	0	question	23
+9	12	E	where	0	question	12
+9	12	E	why	0	question	1
+9	12	E	with	1	location and directions	12
+90	12	C	can	0	question	4
+90	12	C	cow	0	animal name	1
+90	12	C	did	0	question	1
+90	12	C	do	0	question	5
+90	12	C	duck	0	animal name	1
+90	12	C	horse	0	animal name	1
+90	12	C	over	1	location and directions	1
+90	12	C	right	1	location and directions	13
+90	12	C	some	1	continuous amount	2
+90	12	C	tail	0	body part	1
+90	12	E	back	1	location and directions	1
+90	12	E	can	0	question	6
+90	12	E	did	0	question	3
+90	12	E	do	0	question	16
+90	12	E	does	0	question	1
+90	12	E	how	0	question	12
+90	12	E	is that	0	question	1
+90	12	E	over	1	location and directions	1
+90	12	E	piece	1	continuous amount	12
+90	12	E	right	1	location and directions	5
+90	12	E	should i	0	question	6
+90	12	E	what	0	question	12
+90	12	E	where	0	question	4
+90	12	E	why	0	question	2
+90	12	E	with	1	location and directions	8
+91	12	C	can	0	question	3
+91	12	C	cat	0	animal name	1
+91	12	C	do	0	question	1
+91	12	C	duck	0	animal name	1
+91	12	C	piece	1	continuous amount	7
+91	12	C	right	1	location and directions	24
+91	12	E	away	1	location and directions	1
+91	12	E	back	1	location and directions	1
+91	12	E	can	0	question	3
+91	12	E	could	0	question	1
+91	12	E	did	0	question	4
+91	12	E	do	0	question	12
+91	12	E	does	0	question	6
+91	12	E	how	0	question	11
+91	12	E	piece	1	continuous amount	6
+91	12	E	right	1	location and directions	8
+91	12	E	should i	0	question	7
+91	12	E	what	0	question	18
+91	12	E	where	0	question	10
+91	12	E	with	1	location and directions	7
+92	12	C	black	0	color	1
+92	12	C	cat	0	animal name	1
+92	12	C	could	0	question	1
+92	12	C	in	1	location and directions	1
+92	12	C	part	1	continuous amount	1
+92	12	C	piece	1	continuous amount	3
+92	12	C	place	1	location and directions	1
+92	12	C	right	1	location and directions	2
+92	12	C	sheep	0	animal name	1
+92	12	C	tail	0	body part	1
+92	12	C	up	1	location and directions	3
+92	12	E	black	0	color	1
+92	12	E	could	0	question	3
+92	12	E	do	0	question	8
+92	12	E	does	0	question	4
+92	12	E	how	0	question	8
+92	12	E	in	1	location and directions	2
+92	12	E	piece	1	continuous amount	9
+92	12	E	place	1	location and directions	2
+92	12	E	right	1	location and directions	5
+92	12	E	should i	0	question	4
+92	12	E	tail	0	body part	1
+92	12	E	turn	1	orientation and transformation	1
+92	12	E	what	0	question	15
+92	12	E	where	0	question	5
+92	12	E	with	1	location and directions	3
+93	12	C	can	0	question	1
+93	12	C	corner	1	spatial features and properties	3
+93	12	C	down	1	location and directions	1
+93	12	C	face	0	body part	1
+93	12	C	i don't know	0	question	1
+93	12	C	maybe	0	question	1
+93	12	C	over	1	location and directions	4
+93	12	C	piece	1	continuous amount	3
+93	12	C	right	1	location and directions	6
+93	12	C	tail	0	body part	2
+93	12	C	turn	1	orientation and transformation	5
+93	12	C	where	0	question	2
+93	12	C	will	0	question	1
+93	12	E	corner	1	spatial features and properties	2
+93	12	E	did	0	question	2
+93	12	E	do	0	question	6
+93	12	E	down	1	location and directions	1
+93	12	E	how	0	question	6
+93	12	E	over	1	location and directions	1
+93	12	E	piece	1	continuous amount	7
+93	12	E	right	1	location and directions	1
+93	12	E	should i	0	question	2
+93	12	E	turn	1	orientation and transformation	1
+93	12	E	what	0	question	13
+93	12	E	with	1	location and directions	3
+94	12	C	can	0	question	1
+94	12	C	do	0	question	1
+94	12	C	face	0	body part	1
+94	12	C	is that	0	question	1
+94	12	C	over	1	location and directions	4
+94	12	C	piece	1	continuous amount	5
+94	12	C	right	1	location and directions	2
+94	12	C	water	0	nature	1
+94	12	C	what	0	question	2
+94	12	C	with	1	location and directions	1
+94	12	E	back	1	location and directions	1
+94	12	E	can	0	question	1
+94	12	E	could	0	question	2
+94	12	E	did	0	question	4
+94	12	E	do	0	question	5
+94	12	E	does	0	question	12
+94	12	E	face	0	body part	1
+94	12	E	how	0	question	6
+94	12	E	in	1	location and directions	2
+94	12	E	is that	0	question	1
+94	12	E	over	1	location and directions	2
+94	12	E	piece	1	continuous amount	6
+94	12	E	right	1	location and directions	1
+94	12	E	should i	0	question	2
+94	12	E	together	1	location and directions	1
+94	12	E	what	0	question	4
+94	12	E	where	0	question	16
+94	12	E	will	0	question	1
+94	12	E	with	1	location and directions	2
+95	12	C	body	0	body part	2
+95	12	C	cat	0	animal name	1
+95	12	C	face	0	body part	2
+95	12	C	pig	0	animal name	3
+95	12	C	right	1	location and directions	6
+95	12	C	sheep	0	animal name	1
+95	12	C	tail	0	body part	1
+95	12	C	with	1	location and directions	2
+95	12	E	back	1	location and directions	2
+95	12	E	body	0	body part	2
+95	12	E	cat	0	animal name	2
+95	12	E	could	0	question	1
+95	12	E	did	0	question	1
+95	12	E	do	0	question	11
+95	12	E	does	0	question	8
+95	12	E	how	0	question	13
+95	12	E	in	1	location and directions	1
+95	12	E	is that	0	question	1
+95	12	E	is this	0	question	1
+95	12	E	piece	1	continuous amount	9
+95	12	E	pig	0	animal name	3
+95	12	E	right	1	location and directions	8
+95	12	E	sheep	0	animal name	1
+95	12	E	should i	0	question	3
+95	12	E	spots	0	body part	1
+95	12	E	what	0	question	11
+95	12	E	where	0	question	18
+95	12	E	why	0	question	1
+95	12	E	with	1	location and directions	3
+96	12	C	brown	0	color	2
+96	12	C	corner	1	spatial features and properties	1
+96	12	C	pink	0	color	1
+96	12	C	right	1	location and directions	1
+96	12	E	back	1	location and directions	1
+96	12	E	corn	0	nature	1
+96	12	E	corner	1	spatial features and properties	1
+96	12	E	could	0	question	2
+96	12	E	did	0	question	1
+96	12	E	do	0	question	12
+96	12	E	how	0	question	10
+96	12	E	piece	1	continuous amount	8
+96	12	E	pink	0	color	1
+96	12	E	right	1	location and directions	2
+96	12	E	should i	0	question	6
+96	12	E	what	0	question	16
+96	12	E	where	0	question	2
+96	12	E	with	1	location and directions	5
+97	12	C	around	1	location and directions	3
+97	12	C	could	0	question	1
+97	12	C	turn	1	orientation and transformation	3
+97	12	C	where	0	question	1
+97	12	E	around	1	location and directions	2
+97	12	E	did	0	question	4
+97	12	E	do	0	question	15
+97	12	E	how	0	question	6
+97	12	E	piece	1	continuous amount	13
+97	12	E	right	1	location and directions	4
+97	12	E	should i	0	question	10
+97	12	E	turn	1	orientation and transformation	2
+97	12	E	what	0	question	20
+97	12	E	with	1	location and directions	11
+98	12	C	do	0	question	1
+98	12	C	line	1	spatial features and properties	1
+98	12	C	over	1	location and directions	2
+98	12	C	right	1	location and directions	3
+98	12	C	turn	1	orientation and transformation	2
+98	12	C	upside down	1	orientation and transformation	1
+98	12	E	did	0	question	1
+98	12	E	do	0	question	10
+98	12	E	how	0	question	8
+98	12	E	piece	1	continuous amount	4
+98	12	E	right	1	location and directions	2
+98	12	E	should i	0	question	4
+98	12	E	what	0	question	12
+98	12	E	with	1	location and directions	5
+99	12	C	do	0	question	2
+99	12	C	flip	1	orientation and transformation	1
+99	12	C	maybe	0	question	4
+99	12	C	over	1	location and directions	1
+99	12	C	right	1	location and directions	5
+99	12	E	could	0	question	1
+99	12	E	did	0	question	1
+99	12	E	do	0	question	11
+99	12	E	does	0	question	2
+99	12	E	flip	1	orientation and transformation	1
+99	12	E	how	0	question	6
+99	12	E	over	1	location and directions	1
+99	12	E	piece	1	continuous amount	3
+99	12	E	right	1	location and directions	1
+99	12	E	should i	0	question	3
+99	12	E	what	0	question	13
+99	12	E	where	0	question	3
+99	12	E	with	1	location and directions	5

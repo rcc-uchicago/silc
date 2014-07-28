@@ -47,9 +47,9 @@ def parse_file(filename='data.tsv', limit=10, print_matches=False):
     header = file.readline()
 
     for i, line in enumerate(file):
-        fields = stretch(line.rstrip().split('\t'), 7)   # at least 7 fields
-        id, puzzle, time, P, C =  fields[0:3] + fields[5:7]
-        for (spkr, utt) in [('P', P), ('C', C)]:
+        fields = stretch(line.rstrip().split('\t'), 5)   # at least 7 fields
+        id, puzzle, time, E, C =  fields[0:3] + fields[3:5]
+        for (spkr, utt) in [('E', E), ('C', C)]:
             matches = regex.findall(utt.lower())
             key = (id, puzzle, spkr)
             for m in matches:
@@ -159,7 +159,7 @@ def pivot_report():
         results = [match[id].get(word, 0) for id in ids]
         pprint(word, is_spatial[word], category[word], *results)
         
-parse_file(limit='', print_matches=True)
+parse_file('data.tsv', limit='', print_matches=True)
 
 # choose which report to generate after parsing data file
 # summary_report()

@@ -17,6 +17,7 @@ requests](https://github.com/joyrexus/silc/tree/master/reports/joanna/2014-02-28
 The transcript file (`data.tsv`) contains the following columns:
 
 * `_ID` - subject ID
+* `TIME` - time of utterance
 * `KIND` - puzzle kind by piece count (`12`)
 * `EXPERIMENTER` - experimenter speech
 * `CHILD` - child speech
