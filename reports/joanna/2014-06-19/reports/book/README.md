@@ -15,12 +15,14 @@ requests](https://github.com/joyrexus/silc/tree/master/reports/joanna/2014-02-28
 The transcript file (`data.tsv`) contains the following columns:
 
 * `_ID` - subject ID
-* `KIND` - book type (`F` or `NF`)
+* `KIND` - book kind (`F` for "fiction" or `NF` for "nonfiction")
 * `BEGIN` - begin time
 * `END` - end time
 * `DURATION` - time interval
+* `TIME` - timestamp?
 * `PARENT` - parent speech
 * `CHILD` - child speech
+* `PAGE` - page annotation
 
 The pattern file (`regex.tsv`) contains a list of regular expressions to be used for pattern "token" and "type" counts. Pattern token counts should be understood as number of pattern instances observed. Pattern type counts should be understood as the number of patterns used.  
 
